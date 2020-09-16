@@ -68,3 +68,20 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style type="text/css">
+        h1{
+            text-align: center;
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello Github</h1>   
+</body>
+</html>
