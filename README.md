@@ -26,6 +26,14 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/material/24/000000/csdn.png" width="28px"/>
   </a>
   &emsp;
+  <a href="https://my.oschina.net/charmve">
+    <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
+  </a>
+  &emsp;
+  <a href= "https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg">
+    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
+  </a>
+  &emsp;
   <a href= "https://https://www.instagram.com/tony_zhang7/">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
@@ -41,11 +49,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
-  &emsp;
-  <a href="https://my.oschina.net/charmve">
-    <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
-  </a>
-
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
