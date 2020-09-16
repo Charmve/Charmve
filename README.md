@@ -16,31 +16,36 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/puf17640" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=puf17640&title_color=333&text_color=777" alt="Julian's Stats" >
+  <a href="https://https://github.com/Charmve" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=puf17640&title_color=333&text_color=777" alt="Charmve's Stats" >
   </a>
 </p>
 
 <p align="center">
-  <a href="https://dev.to/puf17640">
-    <img src="https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="24px"/>
+  <a href="https://charmve.blog.csdn.net/">
+    <img src="https://img.icons8.com/material/24/000000/csdn.png&color=black" width="28px"/>
   </a>
   &emsp;
-  <a href= "https://instagram.com/pufler.dev">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+  <a href= "https://https://www.instagram.com/tony_zhang7/">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg&color=black" width="28px"/>
   </a>
   &emsp;
-  <a href="https://buymeacoffee.com/puf17640">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
+  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ/videos?view_as=public">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png&color=black" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://www.buymeacoffee.com/Charmve">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png&color=black" width="30px"/>
   </a> 
   &emsp;
-  <a href="https://pufler.dev">
-    <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
+  <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/">
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg&color=black" width="26px"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/julianpufler">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  <a href="https://my.oschina.net/charmve">
+    <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png&color=black" width="24px"/>
   </a>
+
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
