@@ -17,33 +17,33 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=puf17640&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
   </a>
 </p>
 
 <p align="center">
   <a href="https://charmve.blog.csdn.net/">
-    <img src="https://img.icons8.com/material/24/000000/csdn.png&color=black" width="28px"/>
+    <img src="https://img.icons8.com/material/24/000000/csdn.png" width="28px"/>
   </a>
   &emsp;
   <a href= "https://https://www.instagram.com/tony_zhang7/">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg&color=black" width="28px"/>
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ/videos?view_as=public">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png&color=black" width="30px"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://www.buymeacoffee.com/Charmve">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png&color=black" width="30px"/>
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
   </a> 
   &emsp;
   <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg&color=black" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   &emsp;
   <a href="https://my.oschina.net/charmve">
-    <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png&color=black" width="24px"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
   </a>
 
   <br><br>
