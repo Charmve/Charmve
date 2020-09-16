@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://charmve.blog.csdn.net/">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="48px"/>
+    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://my.oschina.net/charmve">
