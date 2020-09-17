@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://charmve.blog.csdn.net/">
+  <a href="https://charmve.blog.csdn.net/" target="_blank">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
