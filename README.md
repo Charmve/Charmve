@@ -22,31 +22,31 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://charmve.blog.csdn.net/">
+  <a href="https://charmve.blog.csdn.net/" target="_blank">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://my.oschina.net/charmve">
+  <a href="https://my.oschina.net/charmve" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
   </a>
   &emsp;
-  <a href= "https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg">
+  <a href= "https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
-  <a href= "https://www.instagram.com/tony_zhang7/">
+  <a href= "https://www.instagram.com/tony_zhang7/" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ/videos?view_as=public">
+  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ/videos?view_as=public" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.buymeacoffee.com/Charmve">
+  <a href="https://www.buymeacoffee.com/Charmve" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
   </a> 
   &emsp;
-  <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/">
+  <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   <br><br>
