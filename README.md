@@ -52,19 +52,19 @@ Here are some ideas to get you started:
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/gists/puf17640?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
   </a>
 </p>
