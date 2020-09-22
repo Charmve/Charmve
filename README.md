@@ -65,6 +65,6 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/gists/puf17640?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://github.com/Charmve/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
   </a>
 </p>
