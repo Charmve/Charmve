@@ -70,8 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- <div align=center>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --->
-<div align="center">
-  <p>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Mirror-Glass-Detection)](https://github.com/Charmve/Mirror-Glass-Detection) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection) </p>
+<div align="center">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Mirror-Glass-Detection)](https://github.com/Charmve/Mirror-Glass-Detection) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
 </div>
 
 
