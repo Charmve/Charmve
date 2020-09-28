@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Charmve" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
   </a>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
 </p>
 
 <p align="center">
@@ -70,3 +68,8 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Mirror-Glass-Detection)](https://github.com/Charmve/Mirror-Glass-Detection)
