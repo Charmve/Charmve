@@ -69,7 +69,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!-- <div align=center> --->
+<div>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Mirror-Glass-Detection)](https://github.com/Charmve/Mirror-Glass-Detection)
+</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Mirror-Glass-Detection)](https://github.com/Charmve/Mirror-Glass-Detection)
+
