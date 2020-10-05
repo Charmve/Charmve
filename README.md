@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
   </a>
   &emsp;
-  <a href= "https://github.com/ChromeWei/PaperWeeklyAI/blob/master/MaiweiAI-com.jpg" target="_blank">
+  <a href= "https://github.com/ChromeWei/PaperWeeklyAI/blob/master/MaiweiAI-com.png" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
