@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
