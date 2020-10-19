@@ -53,7 +53,8 @@ Here are some ideas to get you started:
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
+   
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Charmve.Charmve"/>
   </a>
   <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
