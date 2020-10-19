@@ -54,7 +54,6 @@ Here are some ideas to get you started:
   <br><br>
   <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
-    
   </a>
   <a href="https://github.com/Charmve">
     <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
