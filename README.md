@@ -53,7 +53,6 @@ Here are some ideas to get you started:
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/Charmve">
-   
     <img src="https://visitor-badge.glitch.me/badge?page_id=Charmve.Charmve"/>
   </a>
   <a href="https://github.com/Charmve">
