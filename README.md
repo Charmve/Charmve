@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ/videos?view_as=public" target="_blank">
+  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
