@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Charmve?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://gist.github.com/Charmve">
     <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
