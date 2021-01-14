@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="312" height="200"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="282" height="180"/>
  
 **Languages and Frameworks**
 
