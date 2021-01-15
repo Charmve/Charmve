@@ -1,4 +1,4 @@
-### <a href="https://charmve.github.io/" target="_blank">Hi here</a> 👋
+### Hi here, I’m <a href="https://charmve.github.io/" target="_blank">Charmve</a> 👋
 
 <!--
 **Charmve/Charmve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
