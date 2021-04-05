@@ -119,6 +119,6 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉
 <h2></h2>
 
 🚧 **My Todoist Stats: ⬇️**
-
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
-
+-->
