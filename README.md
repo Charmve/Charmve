@@ -120,7 +120,7 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉
 
 <a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<h2></h2>
+---
 
 🚧 **My Todoist Stats: ⬇️**
 <!--
