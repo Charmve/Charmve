@@ -1,4 +1,6 @@
-### Hi, I'm <a href="https://charmve.github.io/" target="_blank">there</a> 👋
+## Hi, I'm <a href="https://charmve.github.io/" target="_blank">there</a> 👋
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--
 **Charmve/Charmve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -115,8 +117,6 @@ JSON       17 mins         ▓░░░░░░░░░░░░░░░░�
 If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈  
 
 <a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <h2></h2>
 
