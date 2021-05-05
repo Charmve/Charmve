@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
   </a> 
   &emsp;
-  <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   <br><br>
