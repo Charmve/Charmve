@@ -56,6 +56,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/charmve" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
+  &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
