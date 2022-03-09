@@ -1,6 +1,16 @@
 ## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+The one on the below is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world.
+
+- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), interned at [@Maiwei.ai](https://github.com/MaiweiAI) + [@UFund](https://github.com/UFund-Me/) by myself.
+- 🌱 I’m currently working at Momenta.ai, a auto-drive company, and I'm learning <b>C++ / Vision Perception</b>. A closed-loop studying open-source repo is publiced at [https://charmve.github.io/computer-vision-in-action](https://charmve.github.io/computer-vision-in-action), and more interesting project can be found at [GitHub repos](https://github.com/Charmve?tab=repositories).
+- 🤔 I want to make a pure front-end [VTuber](). I call it [未麻 MIMA](https://github.com/DeepVTuber/MIMA).
+- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
+
+---
 
 <br>
 
