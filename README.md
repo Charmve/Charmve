@@ -6,28 +6,13 @@ The one on the below is [Charmve](https://github.com/Charmve)（益达）, he wi
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), interned at [@Maiwei.ai](https://github.com/MaiweiAI) + [@UFund](https://github.com/UFund-Me/) by myself.
 - 🌱 I’m currently working at Momenta.ai, a auto-drive company, and I'm learning <b>C++ / Vision Perception</b>. A closed-loop studying open-source repo is publiced at [https://charmve.github.io/computer-vision-in-action](https://charmve.github.io/computer-vision-in-action), and more interesting project can be found at [GitHub repos](https://github.com/Charmve?tab=repositories).
-- 🤔 I want to make a pure front-end [VTuber](). I call it [未麻 MIMA](https://github.com/DeepVTuber/MIMA).
+- 🤔 I want to make a pure front-end cross-platform [VTuber](https://github.com/DeepVTuber). I call it [未麻 MIMA](https://github.com/DeepVTuber/MIMA).
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 - 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
 
 ---
 
 <br>
-
-<!--
-**Charmve/Charmve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
   <a href="https://github.com/Charmve" class="rich-diff-level-one">
