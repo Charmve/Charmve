@@ -1,6 +1,6 @@
 ## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em>
 
 The one on the below is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world.
 
