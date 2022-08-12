@@ -7,7 +7,7 @@
 <!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop studying open-source repo is public at [https://charmve.github.io/computer-vision-in-action](https://charmve.github.io/computer-vision-in-action), and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
+- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop online studying open-source repo is public at <i><b>@computer-vision-in-action</b></i> <a href="https://charmve.github.io/computer-vision-in-action"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
 - 🌱 I’m currently working at Momenta.ai, an <b>autonomous driving</b> company. Before that, I was employed at Future Security Labs of Qihoo 360 as a Research SDE. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. ([#2](https://github.com/Charmve/Charmve/issues/2))
 - 🤔 Only two things make me moved. 
   1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
@@ -125,7 +125,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 > By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve).
+> I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve) .
 
 If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
 
