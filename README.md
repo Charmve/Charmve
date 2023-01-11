@@ -17,6 +17,9 @@
 
 ---
 </details>
+  
+  ✨ 率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地的团队 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
+
 
 <!--my introduction end -->
 
