@@ -103,7 +103,7 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
+<code><img height="20" width="22" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
@@ -140,21 +140,53 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 ### 🖥️ Open-Source Projects &emsp; <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code> <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code>
 
+All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers)
+
+[TensorFlow]:https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow
+[PyTorch]:https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch
+[Pandas]:https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas
+[SciPy]:https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy
+[NumPy]:https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy
+[Bazel]:https://img.shields.io/badge/Bazel-black?style=flat-square&logo=bazel
+[Djongo]:https://img.shields.io/badge/Djongo-black?style=flat-square&logo=djongo
+[MongoDB]:https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb
+[TShark]:https://img.shields.io/badge/TShark-black?style=flat-square&logo=tshark
+[OpenCV]:https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv
+[SQLite]:https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite
+[C++]:https://img.shields.io/badge/C++-black?style=flat-square&logo=C
+[Python]:https://img.shields.io/badge/Python-black?style=flat-square&logo=python
+[Shell]:https://img.shields.io/badge/Shell-black?style=flat-square&logo=shell
+[JavaScript]:https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript
+[Markdown]:https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown
+[JupyterNotebook]:https://img.shields.io/badge/JupyterNotebook-black?style=flat-square&logo=jupyter-notebook
+[Binder]:https://img.shields.io/badge/Binder-black?style=flat-square&logo=binder
+[Dokcer]:https://img.shields.io/badge/Dokcer-black?style=flat-square&logo=dokcer
+
 <table><tbody>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning </th><th>Application Development</th></tr>
 <!-- <tr><td colspan="1" rowspan="4"> -->
 <tr><td colspan="1" rowspan="4">
 
-| Title | Stars | Technologies |
+| Title | Description | Stars | Technologies |
+|--|--|--|--|
+| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | <sub> 「图文+公式+代码+视频」动手学系列计算机视觉闭环学习平台 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cpp) ![PyTorch][PyTorch] ![TensorFlow][TensorFlow] ![JupyterNotebook][JupyterNotebook] ![Binder][Binder] ![Dokcer][Dokcer] |
+| [SNE-RoadSeg2](https://github.com/Charmve/SNE-RoadSeg2) | <sub> Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/SNE-RoadSeg2?style=flat-square&labelColor=black"/> | ![PyTorch][PyTorch] ![OpenCV][OpenCV]|
+| [VOGUE-Try-On](https://github.com/Charmve/VOGUE-Try-On) | <sub> VOGUE: Try-On by StyleGAN Interpolation Optimization </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/VOGUE-Try-On?style=flat-square&labelColor=black"/> | ![NumPy][NumPy] ![PyTorch][PyTorch]| 
+| [PaperWeeklyAI](https://github.com/Charmve/paperweeklyai) | Studying papers in the fields of computer vision, and machine learning algorithms every week <br> <sub>[awesome-scene-text-detection](https://github.com/Charmve/awesome-scene-text-detection), [Mirror-Glass-Detection](https://github.com/Charmve/Mirror-Glass-Detection), [Awesome-Lane-Detection](https://github.com/Charmve/Awesome-Lane-Detection) </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/awesome-scene-text-detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Mirror-Glass-Detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Awesome-Lane-Detection?style=flat-square&labelColor=black"/> | |
+| [Steganography 图像隐写术 ](https://en.wikipedia.org/wiki/Steganography) | [StegaStamp-plus](https://github.com/Charmve/StegaStamp-plus), [PyStegosploit](https://github.com/Charmve/PyStegosploit), [steganography.js](https://github.com/Charmve/steganography.js) | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/PyStegosploit?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/StegaStamp-plus?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/steganography.js?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![JavaScript][JavaScript] |
+| [Semantic-Segmentation-PyTorch](https://github.com/Charmve/Semantic-Segmentation-PyTorch) | <sub> PyTorch implementation for Semantic Segmentation Net </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Semantic-Segmentation-PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Pandas][Pandas] ![SciPy][SciPy]|
+    
+| Title | Description | Stars |
 |--|--|--|
-| [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Bert Question-Answering](https://github.com/drkostas/Bert-Question-Answering) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
-| [Accident Severity Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
-| [Instagram Likes Pred.](https://github.com/drkostas/Insta-Likes-Predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Practicum4ECE](https://github.com/Charmve/Practicum4ECE) | <sub> 我的大学阶段课程设计、科创项目、毕业设计汇总 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> |
+| [LightCube](https://github.com/Charmve/LightCube) | <sub> 一种基于语音控制的3D动态显示系统设计</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LightCube?style=flat-square&labelColor=black"/> | 
+| [EmotionCube](https://github.com/Charmve/EmotionCube) | <sub> Intelligent Speech Companion Robot Based-on Sentiment Analysis </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/EmotionCube?style=flat-square&labelColor=black"/> |
+| [Wind-Pendulum-Controlling-System](https://github.com/Charmve/Wind-Pendulum-Controlling-System) | <sub> 2015年风力摆控制系统赛题（B题）解析+源代码开源 A Wind Pendulum Controlling System </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Wind-Pendulum-Controlling-System?style=flat-square&labelColor=black"/> | 
+| [BallPlate](https://github.com/Charmve/BallPlate) | <sub> 2017年全国大学生电子设计竞赛B题 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/BallPlate?style=flat-square&labelColor=black"/> | 
+| [SimElectronicGun](https://github.com/Charmve/jsFlow) | <sub> 基于视觉感知的模拟电磁曲射炮 （2019年全国大学生电子设计竞赛H题） 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | 
+
+<table><tbody>
+<tr><td>
 
 ### 📝 My latest posts
 
@@ -168,7 +200,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 - 🔥 [竞赛科创实录特辑 | 电子信息创新设计项目实践](https://blog.csdn.net/charmve/category_9577245.html)
 - [专栏：大厂后端/算法面经分类整理(字节+美团+华为+阿里等)](https://blog.csdn.net/charmve/category_9622929.html)
 
-[Read more >>](https://charmve.blog.csdn.net)
+[>> Read more ✨✨ ](https://charmve.blog.csdn.net)
 
 <p align="center">
   <a href="https://blog.csdn.net/charmve/category_10595130.html" class="rich-diff-level-one">
@@ -176,33 +208,96 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
   </a>
 </p>
 
+</td></tr>
+</tbody></table>
+
 </td><td>
 
-| Title | Stars | Technologies|
-|--|--|--|
-| [High SQL](https://github.com/drkostas/high-sql) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/high-sql?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![SQLDown](https://static.pepy.tech/personalized-badge/high-sql?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/high-sql) |
-| [Cloud File Manager](https://github.com/drkostas/cloud-filemanager) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/cloud-filemanager?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
-| [YAML Wrapper](https://github.com/drkostas/yaml-config-wrapper) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/yaml-config-wrapper?style=flat-square&labelColor=black"/> | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![YAMLDown](https://static.pepy.tech/personalized-badge/yaml-config-wrapper?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/yaml-config-wrapper)|
-| [Color Logger](https://github.com/drkostas/termcolor-logger) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/termcolor-logger?style=flat-square&labelColor=black"/> | [![LogPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/termcolor-logger/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br>[![LogDown](https://static.pepy.tech/personalized-badge/termcolor-logger?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/termcolor-logger)|
-| [Email Sender](https://github.com/drkostas/pyemail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/pyemail-sender?style=flat-square&labelColor=black"/> | [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
-| [Benchmark Tools](https://github.com/drkostas/bench-utils) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/bench-utils?style=flat-square&labelColor=black"/> | [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
-    
-<a href="https://charmve.github.io/sponsor.html"> <code><img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width=32 ></code> Sponsor me <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="right" alt="Sponsors" title="Sponsor me" width=64 ></a>
-    
-<!-- </td><td>
-       <a href="./DemoDays.md"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/demoday.png" title="L0CV Demo Day" width=48></a> -->
+<table class="table table-striped table-bordered table-vcenter"/>
+    <tbody>
+    <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Progressing</th></tr>
+    <tr>
+        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+            <a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;"/> <br> UFund </a>
+        </td>
+        <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br> <sub>运行量化策略自动化完成股票和基金交易的机器人</sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/UFund-Me/UFund" target="_blank"> UFund-Assistant</a> <br> <sub>智能基金理财助理帮你健康理财决策，提高理财收益</sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/UFund?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/Charmve/AR-DAO" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="36" style="vertical-align:bottom;"/>  <br> AR-DAO </a></td>
+        <td> <sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/DeepVTuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/76906704?s=200&v=4" alt="VTuber" width="36" style="vertical-align:bottom;"/> <br> Vtuber </a></td>
+        <td> <sub>OpenVTuber - 虚拟アイドル共享计划</sub> <br> <a href="https://github.com/DeepVTuber/OpenVTuber" target="_blank"> OpenVTuber </a>
+          | <a href="https://github.com/DeepVTuber/DeepVTB" target="_blank">DeepVTB</a>
+          | <a href="https://github.com/DeepVTuber/DanceNet3D" target="_blank">DanceNet3D</a>
+        </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/OpenVTuber?style=flat-square&labelColor=black"/> 
+          | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DeepVTB?style=flat-square&labelColor=black"/> 
+          | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DanceNet3D?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-72%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/ScanCan/ScanCan" target="_blank"><img src="https://raw.githubusercontent.com/ScanCan/ScanCan/main/logo.png" alt="ScanCan" width="36" style="vertical-align:bottom;"/>  <br> ScanCan </a></td>
+        <td> <sub>扫一扫，不一定是二维码</sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ScanCan/ScanCan?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/Charmve/TimeWarp" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/TimeWarp/main/images/ui/logo_V.png" alt="TimeWarp" width="36" style="vertical-align:bottom;"/>  <br> TimeWarp </a></td>
+        <td> <sub>Replacing Real-Time the High-Resolution Meeting Background Freely</sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/Charmve/iva-alpha" target="_blank"><img src="https://user-images.githubusercontent.com/29084184/218303915-ab3cd907-98e8-4663-a377-e8799516bf71.png" alt="IVA-alpha" width="36" style="vertical-align:bottom;"/> <br> IVA-alpha </a></td>
+        <td> <sub>工业互联网资产安全态势感知与攻击评估平台</sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ScanCan/ScanCan?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-94%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <a href="https://charmve.github.io/sponsor.html">
+        <td colspan="4" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+          <a href="https://charmve.github.io/sponsor.html">
+              <table align="center" overflow="hidden"; box-shadow="0 0 2px grey"; border=1px solid=#fff; border-radius=10px; style="border-collapse: collapse;"\><tbody>
+              <tr border=1px solid=#E0607E;> <td border=1px solid=#607ee0; background-color=#E0607E; border-radius=10px; color=#FFF;>
+              <code><img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width=32 ></code> Sponsor me  <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="right" alt="Sponsors" title="Sponsor me" width=64 >
+              </td></tr>
+              </tbody></table>
+          </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
 </td></tr> 
 
-<tr><th>Machine Learning </th></tr>
+<tr><th> Tools & Misc </th></tr>
 <tr><td>
 
-|Title | Stars | Technologies |
-|--|--|--|
-| [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Accident Severity Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
-| [Instagram Likes Pred.](https://github.com/drkostas/Insta-Likes-Predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| Title | Description | Stars | Technologies |
+|--|--|--|--|
+| [BenchRT](https://github.com/Charmve/BenchRT) | <sub> Benchmark regression testing cross-platform 跨平台增量回归性能测试框架 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/BenchRT?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=C) ![Python][Python] ![Shell][Shell] ![Bazel][Bazel]|
+| [PaperEasy](https://github.com/Charmve/NotOnlyPaper) | <sub> PaperEasy = arXiv + code + video + tutorial + Colab/demo </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/NotOnlyPaper?style=flat-square&labelColor=black"/> | ![TF][TensorFlow] ![PyTorch][PyTorch] ![Djongo][Djongo]|
+| [AlphaFold-baseline](https://github.com/Charmve/AlphaFold-baseline) | <sub> an basic implementation of the contact prediction network used in AlphaFold </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AlphaFold-baseline?style=flat-square&labelColor=black"/> | ![PyTorch][PyTorch] ![OpenCV][OpenCV]|
+| [CppMaster](https://github.com/Charmve/CppMaster) | <sub> C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/CppMaster?style=flat-square&labelColor=black"/> | ![C++][C++] ![Markdown][Markdown]|
+| [LeetCode4FLAG](https://github.com/Charmve/LeetCode4FLAG) | <sub> High frequent interview LeetCode TOP 100 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LeetCode4FLAG?style=flat-square&labelColor=black"/> | ![C++][C++] ![Python][Python]|
+| [OpenCC](https://github.com/Charmve/OpenCC) | <sub> Automatic driving long tail / corner cases scenarios dataset (Anomaly detection) </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OpenCC?style=flat-square&labelColor=black"/> | -- |
+| [OpenCS-Courses](https://github.com/Charmve/OpenCS-Courses) | <sub>Path to a free self-taught education in Computer Science</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OpenCS-Courses?style=flat-square&labelColor=black"/> | -- |
+
+| Title | Description | Stars | Technologies |
+|--|--|--|--|
+| [AccANN](https://github.com/Charmve/AccANN) | <sub> A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration for *AdderNet* </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> | ![TF][TensorFlow]|
+| [jsFlow](https://github.com/Charmve/jsFlow) | <sub> A Lightweight Web Browser-based Machine Learning Framework </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | ![TF][TensorFlow] ![JavaScript][JavaScript] |
 
 </td></tr>
 </tbody></table>
@@ -220,6 +315,27 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <!--END_SECTION:sponsors-->
 
 ---
+
+<div align="center">
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+	</a>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+	</a>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+	</a>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+	</a>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+	</a>
+    <div align="right">
+        <sup>Ads</sup> &emsp;&emsp;&emsp;&emsp;&emsp;
+    </div>
+</div>
 
 🚧 **My Todoist Stats: ⬇️**
 
