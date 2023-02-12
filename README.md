@@ -89,7 +89,7 @@
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- stackoverflow profile
 <a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
@@ -100,6 +100,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
@@ -117,7 +120,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-
+    
 <br>
 
 📊 **This Week I Spent My Time On:**
@@ -135,15 +138,14 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve) .
 
-### 🖥️ Open-Source Projects
-  
+### 🖥️ Open-Source Projects &emsp; <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code> <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code>
 
 <table><tbody>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <!-- <tr><td colspan="1" rowspan="4"> -->
 <tr><td colspan="1" rowspan="4">
 
-|Title | Stars | Technologies|
+| Title | Stars | Technologies |
 |--|--|--|
 | [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
@@ -154,6 +156,20 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 | [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 | [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 
+### 📝 My latest posts
+
+- 🔥 [计算机视觉实战专栏 | 练手项目，开放源码](https://blog.csdn.net/charmve/category_10595130.html)
+- [人脸表情识别(FER)原理及项目实战](https://blog.csdn.net/charmve/category_9754344.html)
+- [专栏：**硬件加速**/模型压缩量化部署/边缘计算研究](https://blog.csdn.net/charmve/category_10101246.html)
+- 🔥 [专题：自动驾驶中的深度学习模型量化、部署、加速实战](https://blog.csdn.net/charmve/category_11934776.html)
+- 🔥 [自动驾驶感知算法实战专栏（源代码）](https://blog.csdn.net/charmve/category_12097938.html)
+- 🔥 [机器学习算法分类讲解与Kaggle实战](https://blog.csdn.net/charmve/category_9657673.html)
+- [《跨界模型 Transformer》专栏](https://blog.csdn.net/charmve/category_10954850.html)
+- 🔥 [竞赛科创实录特辑 | 电子信息创新设计项目实践](https://blog.csdn.net/charmve/category_9577245.html)
+- [专栏：大厂后端/算法面经分类整理(字节+美团+华为+阿里等)](https://blog.csdn.net/charmve/category_9622929.html)
+
+[Read more >>](https://charmve.blog.csdn.net)
+
 <p align="center">
   <a href="https://blog.csdn.net/charmve/category_10595130.html" class="rich-diff-level-one">
     <img align="center" src="https://user-images.githubusercontent.com/29084184/218117635-513e5a76-7a15-413a-ac5d-dc0d935ab95c.png" width="180" alt="subscribe" />
@@ -162,7 +178,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 </td><td>
 
-|Title | Stars | Technologies|
+| Title | Stars | Technologies|
 |--|--|--|
 | [High SQL](https://github.com/drkostas/high-sql) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/high-sql?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![SQLDown](https://static.pepy.tech/personalized-badge/high-sql?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/high-sql) |
 | [Cloud File Manager](https://github.com/drkostas/cloud-filemanager) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/cloud-filemanager?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
@@ -170,7 +186,9 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 | [Color Logger](https://github.com/drkostas/termcolor-logger) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/termcolor-logger?style=flat-square&labelColor=black"/> | [![LogPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/termcolor-logger/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br>[![LogDown](https://static.pepy.tech/personalized-badge/termcolor-logger?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/termcolor-logger)|
 | [Email Sender](https://github.com/drkostas/pyemail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/pyemail-sender?style=flat-square&labelColor=black"/> | [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
 | [Benchmark Tools](https://github.com/drkostas/bench-utils) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/bench-utils?style=flat-square&labelColor=black"/> | [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
-
+    
+<a href="https://charmve.github.io/sponsor.html"> <code><img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width=32 ></code> Sponsor me <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="right" alt="Sponsors" title="Sponsor me" width=64 ></a>
+    
 <!-- </td><td>
        <a href="./DemoDays.md"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/demoday.png" title="L0CV Demo Day" width=48></a> -->
 </td></tr> 
@@ -188,7 +206,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 </td></tr>
 </tbody></table>
-  
+
 If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
 
 <!--START_SECTION:sponsors-->
