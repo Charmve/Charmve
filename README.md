@@ -314,28 +314,42 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </p>
 <!--END_SECTION:sponsors-->
 
+### :hearts: [Acknowledgements](scripts/getTopFollowers.py)
+
+<!--START_SECTION:top-followers--> 
+<!--END_SECTION:top-followers-->
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
+  </a>
+</p>
+
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
 ---
 
 <div align="center">
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-	</a>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-	</a>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-	</a>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-	</a>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-	</a>
+  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+  </a>
+  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+  </a>
+  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+  </a>
+  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+  </a>
+  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+  </a>
     <div align="right">
         <sup>Ads</sup> &emsp;&emsp;&emsp;&emsp;&emsp;
     </div>
 </div>
+
 
 🚧 **My Todoist Stats: ⬇️**
 

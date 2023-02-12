@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+
+on: 
+  repository_dispatch: 
+    types: [special_repository]
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "git config"
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://shenxianpeng.github.io/atom.xml"
+          max_post_count: 10
+          date_format: mmm d, yyyy
