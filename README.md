@@ -71,19 +71,19 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/years/Charmve?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/repos/Charmve?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
@@ -138,7 +138,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve) .
 
-### 🖥️ Open-Source Projects &emsp; <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code> <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code>
+### 🖥️ Open-Source Projects &emsp; <a href="https://github.com/Charmve?tab=stars"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
 
 All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers)
 
@@ -323,7 +323,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
 
 <!--START_SECTION:sponsors-->
-<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> &emsp;&emsp; <a href='https://ko-fi.com/U7U427H25' target='_blank'><img height='42' style='border:10px;height:42.11px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!--
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
