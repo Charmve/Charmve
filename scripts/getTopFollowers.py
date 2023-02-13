@@ -88,11 +88,11 @@ query {{
 
     html = "<table>\n"
 
-    for i in range(min(len(followers), 21)):
+    for i in range(min(len(followers), 27)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
-        if i % 12 == 0:
+        if i % 9 == 0:
             if i != 0:
                 html += "  </tr>\n"
             html += "  <tr>\n"
