@@ -382,6 +382,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/district10">
         <img src="https://avatars2.githubusercontent.com/u/5262037" width="42px;" alt="district10"/>
@@ -403,8 +405,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/yuchuangu85">CodeMX</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/h4m5t">
         <img src="https://avatars2.githubusercontent.com/u/70065998" width="42px;" alt="h4m5t"/>
@@ -447,6 +447,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/bipabo1l">bipabo1l</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/mio-dokuhaki">
         <img src="https://avatars2.githubusercontent.com/u/97223678" width="42px;" alt="mio-dokuhaki"/>
@@ -467,6 +469,48 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/temirlanZH">tima?!</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/likyoo">
+        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42px;" alt="likyoo"/>
+      </a>
+      <br />
+      <a href="https://github.com/likyoo">李开宇</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hueyzng">
+        <img src="https://avatars2.githubusercontent.com/u/14038071" width="42px;" alt="hueyzng"/>
+      </a>
+      <br />
+      <a href="https://github.com/hueyzng">Huey Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ricardodeazambuja">
+        <img src="https://avatars2.githubusercontent.com/u/6606382" width="42px;" alt="ricardodeazambuja"/>
+      </a>
+      <br />
+      <a href="https://github.com/ricardodeazambuja">Ricardo de Azambuja</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/noname007">
+        <img src="https://avatars2.githubusercontent.com/u/8514816" width="42px;" alt="noname007"/>
+      </a>
+      <br />
+      <a href="https://github.com/noname007">soul11201</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/josearangos">
+        <img src="https://avatars2.githubusercontent.com/u/13352055" width="42px;" alt="josearangos"/>
+      </a>
+      <br />
+      <a href="https://github.com/josearangos">Jose Alberto Arango Sanchez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enigmatisms">
+        <img src="https://avatars2.githubusercontent.com/u/46109954" width="42px;" alt="Enigmatisms"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enigmatisms">Qianyue He</a>
     </td>
   </tr>
 </table>
