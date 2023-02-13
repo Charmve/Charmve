@@ -163,55 +163,9 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 [Dokcer]:https://img.shields.io/badge/Dokcer-black?style=flat-square&logo=dokcer
 
 <table><tbody>
-<tr><th>Machine Learning </th><th>Application Development</th></tr>
+<tr><th> Application Development & Embedded Systems </th><th> Machine Learning </th></tr>
 <!-- <tr><td colspan="1" rowspan="4"> -->
 <tr><td colspan="1" rowspan="4">
-
-| Title | Description | Stars | Technologies |
-|--|--|--|--|
-| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | <sub> 「图文+公式+代码+视频」动手学系列计算机视觉闭环学习平台 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cpp) ![PyTorch][PyTorch] ![TensorFlow][TensorFlow] ![JupyterNotebook][JupyterNotebook] ![Binder][Binder] ![Dokcer][Dokcer] |
-| [SNE-RoadSeg2](https://github.com/Charmve/SNE-RoadSeg2) | <sub> Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/SNE-RoadSeg2?style=flat-square&labelColor=black"/> | ![PyTorch][PyTorch] ![OpenCV][OpenCV]|
-| [VOGUE-Try-On](https://github.com/Charmve/VOGUE-Try-On) | <sub> VOGUE: Try-On by StyleGAN Interpolation Optimization </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/VOGUE-Try-On?style=flat-square&labelColor=black"/> | ![NumPy][NumPy] ![PyTorch][PyTorch]| 
-| [PaperWeeklyAI](https://github.com/Charmve/paperweeklyai) | Studying papers in the fields of computer vision, and machine learning algorithms every week <br> <sub>[awesome-scene-text-detection](https://github.com/Charmve/awesome-scene-text-detection), [Mirror-Glass-Detection](https://github.com/Charmve/Mirror-Glass-Detection), [Awesome-Lane-Detection](https://github.com/Charmve/Awesome-Lane-Detection) </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/awesome-scene-text-detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Mirror-Glass-Detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Awesome-Lane-Detection?style=flat-square&labelColor=black"/> | |
-| [Steganography 图像隐写术 ](https://en.wikipedia.org/wiki/Steganography) | [StegaStamp-plus](https://github.com/Charmve/StegaStamp-plus), [PyStegosploit](https://github.com/Charmve/PyStegosploit), [steganography.js](https://github.com/Charmve/steganography.js) | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/PyStegosploit?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/StegaStamp-plus?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/steganography.js?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![JavaScript][JavaScript] |
-| [Semantic-Segmentation-PyTorch](https://github.com/Charmve/Semantic-Segmentation-PyTorch) | <sub> PyTorch implementation for Semantic Segmentation Net </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Semantic-Segmentation-PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Pandas][Pandas] ![SciPy][SciPy]|
-    
-| Title | Description | Stars |
-|--|--|--|
-| [Practicum4ECE](https://github.com/Charmve/Practicum4ECE) | <sub> 我的大学阶段课程设计、科创项目、毕业设计汇总 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> |
-| [LightCube](https://github.com/Charmve/LightCube) | <sub> 一种基于语音控制的3D动态显示系统设计</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LightCube?style=flat-square&labelColor=black"/> | 
-| [EmotionCube](https://github.com/Charmve/EmotionCube) | <sub> Intelligent Speech Companion Robot Based-on Sentiment Analysis </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/EmotionCube?style=flat-square&labelColor=black"/> |
-| [Wind-Pendulum-Controlling-System](https://github.com/Charmve/Wind-Pendulum-Controlling-System) | <sub> 2015年风力摆控制系统赛题（B题）解析+源代码开源 A Wind Pendulum Controlling System </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Wind-Pendulum-Controlling-System?style=flat-square&labelColor=black"/> | 
-| [BallPlate](https://github.com/Charmve/BallPlate) | <sub> 2017年全国大学生电子设计竞赛B题 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/BallPlate?style=flat-square&labelColor=black"/> | 
-| [SimElectronicGun](https://github.com/Charmve/jsFlow) | <sub> 基于视觉感知的模拟电磁曲射炮 （2019年全国大学生电子设计竞赛H题） 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | 
-
-<table><tbody>
-<tr><td>
-
-### 📝 My latest posts
-
-- 🔥 [计算机视觉实战专栏 | 练手项目，开放源码](https://blog.csdn.net/charmve/category_10595130.html)
-- [人脸表情识别(FER)原理及项目实战](https://blog.csdn.net/charmve/category_9754344.html)
-- [专栏：**硬件加速**/模型压缩量化部署/边缘计算研究](https://blog.csdn.net/charmve/category_10101246.html)
-- 🔥 [专题：自动驾驶中的深度学习模型量化、部署、加速实战](https://blog.csdn.net/charmve/category_11934776.html)
-- 🔥 [自动驾驶感知算法实战专栏（源代码）](https://blog.csdn.net/charmve/category_12097938.html)
-- 🔥 [机器学习算法分类讲解与Kaggle实战](https://blog.csdn.net/charmve/category_9657673.html)
-- [《跨界模型 Transformer》专栏](https://blog.csdn.net/charmve/category_10954850.html)
-- 🔥 [竞赛科创实录特辑 | 电子信息创新设计项目实践](https://blog.csdn.net/charmve/category_9577245.html)
-- [专栏：大厂后端/算法面经分类整理(字节+美团+华为+阿里等)](https://blog.csdn.net/charmve/category_9622929.html)
-
-[>> Read more ✨✨ ](https://charmve.blog.csdn.net)
-
-<p align="center">
-  <a href="https://blog.csdn.net/charmve/category_10595130.html" class="rich-diff-level-one">
-    <img align="center" src="https://user-images.githubusercontent.com/29084184/218117635-513e5a76-7a15-413a-ac5d-dc0d935ab95c.png" width="180" alt="subscribe" />
-  </a>
-</p>
-
-</td></tr>
-</tbody></table>
-
-</td><td>
 
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
@@ -230,8 +184,14 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
     </tr>
     <tr>
+        <td align="center" ><a href="https://charmve.github.io/L0CV-web" target="_blank"><img src="https://github.com/Charmve/computer-vision-in-action/blob/main/res/ui/maiwei.png" alt="L0CV" width="36" style="vertical-align:bottom;"/>  <br> L0CV </a></td>
+        <td> <sub>一个代码可在线交互运行的计算机视觉闭环学习平台</sub>  <br> <a href="https://charmve.github.io/L0CV-web" target="_blank">Project Home</a> | <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">GitHub</a> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-82%25-green&logo=github"/></td>
+    </tr>
+    <tr>
         <td align="center" ><a href="https://github.com/Charmve/AR-DAO" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="36" style="vertical-align:bottom;"/>  <br> AR-DAO </a></td>
-        <td> <sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub> </td>
+        <td> <sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等<br>社交活动的去中心化自治组织(DAO)</sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github"/></td>
     </tr>
@@ -256,7 +216,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
         <td align="center" ><a href="https://github.com/Charmve/TimeWarp" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/TimeWarp/main/images/ui/logo_V.png" alt="TimeWarp" width="36" style="vertical-align:bottom;"/>  <br> TimeWarp </a></td>
         <td> <sub>Replacing Real-Time the High-Resolution Meeting Background Freely</sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-24%25-green&logo=github"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/Charmve/iva-alpha" target="_blank"><img src="https://user-images.githubusercontent.com/29084184/218303915-ab3cd907-98e8-4663-a377-e8799516bf71.png" alt="IVA-alpha" width="36" style="vertical-align:bottom;"/> <br> IVA-alpha </a></td>
@@ -278,6 +238,69 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
     </tr>
     </tbody>
 </table>
+    
+| Title | Description | Stars | Technologies |
+|--|--|--|--|
+| [AccANN](https://github.com/Charmve/AccANN) | <sub> A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow]|
+| [jsFlow](https://github.com/Charmve/jsFlow) | <sub> A Lightweight Web Browser-based Machine Learning Framework </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![JavaScript][JavaScript] |
+
+### 📝 My latest posts
+
+<table><tbody>
+<tr>
+  <td>
+  <li> 🔥 <a href="https://blog.csdn.net/charmve/category_12097938.html">自动驾驶感知算法实战专栏（源代码）</a></li> 
+  <li> 🔥 <a href="https://blog.csdn.net/charmve/category_9657673.html">机器学习算法分类讲解与Kaggle实战</a></li>
+  <li> <a href="https://blog.csdn.net/charmve/category_10954850.html">《跨界模型 Transformer》专栏</a></li>
+  <li> 🔥 <a href="https://blog.csdn.net/charmve/category_9577245.html"> 竞赛科创实录特辑 | 电子信息创新设计项目实践</a></li>
+  <li> <a href="https://blog.csdn.net/charmve/category_9622929.html"> 专栏：大厂后端/算法面经分类整理(字节+美团+华为+阿里等) </a></li>
+  </td>
+  <td>
+  <li> 🔥 <a href="https://blog.csdn.net/charmve/category_10595130.html"> 计算机视觉实战专栏 | 练手项目，开放源码 </a></li>
+  <li> <a href="https://blog.csdn.net/charmve/category_9754344.html"> 人脸表情识别(FER)原理及项目实战 </a></li>
+  <li> <a href="https://blog.csdn.net/charmve/category_10101246.html"> 专栏：**硬件加速**/模型压缩量化部署/边缘计算研究 </a></li>
+  <li> 🔥 <a href="https://blog.csdn.net/charmve/category_11934776.html"> 专题：自动驾驶中的深度学习模型量化、部署、加速实战 </a></li>
+  </td>
+</tr>
+<tr>
+    <a href="https://charmve.github.io/sponsor.html">
+    <td colspan="2" rowspan="1" align="left" class="ai-notebooks-table-points ai-orange-link">
+      <a href="https://charmve.blog.csdn.net" target="_blank"> >> Read more ✨✨ </a>
+    </td>
+</tr>
+
+<tr>
+    <a href="https://charmve.github.io/sponsor.html">
+    <td colspan="2" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+      <p align="center">
+        <a href="https://blog.csdn.net/charmve/category_10595130.html" class="rich-diff-level-one">
+          <img align="center" src="https://user-images.githubusercontent.com/29084184/218117635-513e5a76-7a15-413a-ac5d-dc0d935ab95c.png" width="180" alt="subscribe" />
+        </a>
+      </p>
+    </td>
+</tr>
+
+</tbody></table>
+
+</td><td>
+
+| Title | Description | Stars | Technologies |
+|--|--|--|--|
+| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | <sub> 「图文+公式+代码+视频」动手学系列计算机视觉闭环学习平台 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cpp) ![PyTorch][PyTorch] ![TensorFlow][TensorFlow] ![JupyterNotebook][JupyterNotebook] ![Binder][Binder] ![Dokcer][Dokcer] |
+| [SNE-RoadSeg2](https://github.com/Charmve/SNE-RoadSeg2) | <sub> Incorporating Surface Normal Information into Semantic Segmentation <br> for Accurate Freespace Detection </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/SNE-RoadSeg2?style=flat-square&labelColor=black"/> | ![PyTorch][PyTorch] ![OpenCV][OpenCV]|
+| [VOGUE-Try-On](https://github.com/Charmve/VOGUE-Try-On) | <sub> VOGUE: Try-On by StyleGAN Interpolation Optimization </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/VOGUE-Try-On?style=flat-square&labelColor=black"/> | ![NumPy][NumPy] ![PyTorch][PyTorch]| 
+| [PaperWeeklyAI](https://github.com/Charmve/paperweeklyai) | Studying papers in the fields of computer vision, and <br> machine learning algorithms every week <br> <sub>[awesome-scene-text-detection](https://github.com/Charmve/awesome-scene-text-detection), [Mirror-Glass-Detection](https://github.com/Charmve/Mirror-Glass-Detection), [Awesome-Lane-Detection](https://github.com/Charmve/Awesome-Lane-Detection) </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/awesome-scene-text-detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Mirror-Glass-Detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Awesome-Lane-Detection?style=flat-square&labelColor=black"/> | |
+| [Steganography 图像隐写术 ](https://en.wikipedia.org/wiki/Steganography) | [StegaStamp-plus](https://github.com/Charmve/StegaStamp-plus), [PyStegosploit](https://github.com/Charmve/PyStegosploit), [steganography.js](https://github.com/Charmve/steganography.js) | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/PyStegosploit?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/StegaStamp-plus?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/steganography.js?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![JavaScript][JavaScript] |
+| [Semantic-Segmentation-PyTorch](https://github.com/Charmve/Semantic-Segmentation-PyTorch) | <sub> PyTorch implementation for Semantic Segmentation Net </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Semantic-Segmentation-PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Pandas][Pandas] ![SciPy][SciPy]|
+    
+| Title | Description | Stars |
+|--|--|--|
+| [Practicum4ECE](https://github.com/Charmve/Practicum4ECE) | <sub> 我的大学阶段课程设计、科创项目、毕业设计汇总 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> |
+| [LightCube](https://github.com/Charmve/LightCube) | <sub> 一种基于语音控制的3D动态显示系统设计</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LightCube?style=flat-square&labelColor=black"/> | 
+| [EmotionCube](https://github.com/Charmve/EmotionCube) | <sub> Intelligent Speech Companion Robot Based-on Sentiment Analysis </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/EmotionCube?style=flat-square&labelColor=black"/> |
+| [Wind-Pendulum-Controlling-System](https://github.com/Charmve/Wind-Pendulum-Controlling-System) | <sub> 2015年风力摆控制系统赛题（B题）解析+源代码开源 A Wind Pendulum Controlling System </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Wind-Pendulum-Controlling-System?style=flat-square&labelColor=black"/> | 
+| [BallPlate](https://github.com/Charmve/BallPlate) | <sub> 2017年全国大学生电子设计竞赛B题 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/BallPlate?style=flat-square&labelColor=black"/> | 
+| [SimElectronicGun](https://github.com/Charmve/jsFlow) | <sub> 基于视觉感知的模拟电磁曲射炮 （2019年全国大学生电子设计竞赛H题） 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | 
 
 </td></tr> 
 
@@ -287,17 +310,12 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 | Title | Description | Stars | Technologies |
 |--|--|--|--|
 | [BenchRT](https://github.com/Charmve/BenchRT) | <sub> Benchmark regression testing cross-platform 跨平台增量回归性能测试框架 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/BenchRT?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=C) ![Python][Python] ![Shell][Shell] ![Bazel][Bazel]|
-| [PaperEasy](https://github.com/Charmve/NotOnlyPaper) | <sub> PaperEasy = arXiv + code + video + tutorial + Colab/demo </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/NotOnlyPaper?style=flat-square&labelColor=black"/> | ![TF][TensorFlow] ![PyTorch][PyTorch] ![Djongo][Djongo]|
+| [PaperEasy](https://github.com/Charmve/NotOnlyPaper) | <sub> PaperEasy = arXiv + code + video + tutorial + Colab/demo </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/NotOnlyPaper?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![PyTorch][PyTorch] ![Djongo][Djongo]|
 | [AlphaFold-baseline](https://github.com/Charmve/AlphaFold-baseline) | <sub> an basic implementation of the contact prediction network used in AlphaFold </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AlphaFold-baseline?style=flat-square&labelColor=black"/> | ![PyTorch][PyTorch] ![OpenCV][OpenCV]|
 | [CppMaster](https://github.com/Charmve/CppMaster) | <sub> C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/CppMaster?style=flat-square&labelColor=black"/> | ![C++][C++] ![Markdown][Markdown]|
 | [LeetCode4FLAG](https://github.com/Charmve/LeetCode4FLAG) | <sub> High frequent interview LeetCode TOP 100 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LeetCode4FLAG?style=flat-square&labelColor=black"/> | ![C++][C++] ![Python][Python]|
 | [OpenCC](https://github.com/Charmve/OpenCC) | <sub> Automatic driving long tail / corner cases scenarios dataset (Anomaly detection) </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OpenCC?style=flat-square&labelColor=black"/> | -- |
 | [OpenCS-Courses](https://github.com/Charmve/OpenCS-Courses) | <sub>Path to a free self-taught education in Computer Science</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OpenCS-Courses?style=flat-square&labelColor=black"/> | -- |
-
-| Title | Description | Stars | Technologies |
-|--|--|--|--|
-| [AccANN](https://github.com/Charmve/AccANN) | <sub> A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration for *AdderNet* </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> | ![TF][TensorFlow]|
-| [jsFlow](https://github.com/Charmve/jsFlow) | <sub> A Lightweight Web Browser-based Machine Learning Framework </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | ![TF][TensorFlow] ![JavaScript][JavaScript] |
 
 </td></tr>
 </tbody></table>
@@ -315,6 +333,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <!--END_SECTION:sponsors-->
 
 ### :hearts: [Acknowledgements](scripts/getTopFollowers.py)
+
+<b>Top <i>27</i> of my followers</b> will be displayed here:
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -543,7 +563,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
     <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
   </a>
     <div align="right">
-        <sup>Ads</sup> &emsp;&emsp;&emsp;&emsp;&emsp;
+        <sup>Ads</sup> &emsp;&emsp;&emsp;
     </div>
 </div>
 
