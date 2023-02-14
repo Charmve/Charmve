@@ -82,8 +82,10 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<a alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2">
+					<h1> 广告位招租 </h1>
+					<p>Click to contact me</p>
+				</a>
 			</div>
 		</div>
 	</foreignObject>
