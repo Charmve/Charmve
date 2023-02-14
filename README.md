@@ -22,7 +22,7 @@
 ---
 </details>
   
-  ✨ 率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地的团队 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
+  ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
 
 
 <!--my introduction end -->
@@ -156,15 +156,14 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 [C++]:https://img.shields.io/badge/C++-black?style=flat-square&logo=C
 [Python]:https://img.shields.io/badge/Python-black?style=flat-square&logo=python
 [Shell]:https://img.shields.io/badge/Shell-black?style=flat-square&logo=shell
-[JavaScript]:https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript
+[JavaScript]:https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript
 [Markdown]:https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown
-[JupyterNotebook]:https://img.shields.io/badge/JupyterNotebook-black?style=flat-square&logo=jupyter-notebook
+[JupyterNotebook]:https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter
 [Binder]:https://img.shields.io/badge/Binder-black?style=flat-square&logo=binder
-[Dokcer]:https://img.shields.io/badge/Dokcer-black?style=flat-square&logo=dokcer
+[Docker]:https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker
 
 <table><tbody>
 <tr><th> Application Development & Embedded Systems </th><th> Machine Learning </th></tr>
-<!-- <tr><td colspan="1" rowspan="4"> -->
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
@@ -225,16 +224,13 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-94%25-green&logo=github"/></td>
     </tr>
     <tr>
-        <a href="https://charmve.github.io/sponsor.html">
-        <td colspan="4" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
-          <a href="https://charmve.github.io/sponsor.html">
-              <table align="center" overflow="hidden"; box-shadow="0 0 2px grey"; border=1px solid=#fff; border-radius=10px; style="border-collapse: collapse;"\><tbody>
-              <tr border=1px solid=#E0607E;> <td border=1px solid=#607ee0; background-color=#E0607E; border-radius=10px; color=#FFF;>
-              <code><img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width=32 ></code> Sponsor me  <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="right" alt="Sponsors" title="Sponsor me" width=64 >
-              </td></tr>
-              </tbody></table>
-          </a>
-        </td>
+        <td colspan="4" rowspan="1"  align="center" valign="center" class="ai-notebooks-table-points ai-orange-link">
+                <a href="https://charmve.github.io/sponsor.html" target="_blank"\>
+                    <h3> <a href="https://charmve.github.io/sponsor.html" target="_blank"\> <kbd align="center" valign="center">
+                         <code> <img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width=32 valign="center" style="max-width: 100%;vertical-align: bottom;"/> Sponsor me </code> <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="center" valign="center" alt="Sponsors" title="Sponsor me" width="64" style="max-width: 100%;vertical-align: bottom;">
+                    </kbd> </a> </h3>
+                </a>
+         </td>
     </tr>
     </tbody>
 </table>
@@ -258,35 +254,36 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
   <td>
   <li> 🔥 <a href="https://blog.csdn.net/charmve/category_10595130.html"> 计算机视觉实战专栏 | 练手项目，开放源码 </a></li>
   <li> <a href="https://blog.csdn.net/charmve/category_9754344.html"> 人脸表情识别(FER)原理及项目实战 </a></li>
-  <li> <a href="https://blog.csdn.net/charmve/category_10101246.html"> 专栏：**硬件加速**/模型压缩量化部署/边缘计算研究 </a></li>
+  <li> <a href="https://blog.csdn.net/charmve/category_10101246.html"> 专栏：<b>硬件加速</b>/<b>模型压缩量化部署</b>/边缘计算研究 </a></li>
   <li> 🔥 <a href="https://blog.csdn.net/charmve/category_11934776.html"> 专题：自动驾驶中的深度学习模型量化、部署、加速实战 </a></li>
+  <li> <a href="https://charmve.blog.csdn.net" target="_blank"><b> >> Read more ✨✨ </b></a> </li>
   </td>
 </tr>
-<tr>
-    <a href="https://charmve.github.io/sponsor.html">
+
+<!-- <tr>
     <td colspan="2" rowspan="1" align="left" class="ai-notebooks-table-points ai-orange-link">
       <a href="https://charmve.blog.csdn.net" target="_blank"> >> Read more ✨✨ </a>
     </td>
-</tr>
+</tr> -->
 
+<!--START_SECTION:subscribe my blog-->
 <tr>
     <a href="https://charmve.github.io/sponsor.html">
     <td colspan="2" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
-      <p align="center">
         <a href="https://blog.csdn.net/charmve/category_10595130.html" class="rich-diff-level-one">
           <img align="center" src="https://user-images.githubusercontent.com/29084184/218117635-513e5a76-7a15-413a-ac5d-dc0d935ab95c.png" width="180" alt="subscribe" />
         </a>
-      </p>
     </td>
+    </a>
 </tr>
-
+<!--END_SECTION:subscribe my blog-->
 </tbody></table>
 
 </td><td>
 
 | Title | Description | Stars | Technologies |
 |--|--|--|--|
-| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | <sub> 「图文+公式+代码+视频」动手学系列计算机视觉闭环学习平台 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cpp) ![PyTorch][PyTorch] ![TensorFlow][TensorFlow] ![JupyterNotebook][JupyterNotebook] ![Binder][Binder] ![Dokcer][Dokcer] |
+| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | <sub> 「图文+公式+代码+视频」动手学系列计算机视觉闭环学习平台 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black"/> | ![C++][C++] ![Python][Python] ![PyTorch][PyTorch] ![TensorFlow][TensorFlow] <br> ![JupyterNotebook][JupyterNotebook] ![Binder][Binder] ![Docker][Docker] |
 | [SNE-RoadSeg2](https://github.com/Charmve/SNE-RoadSeg2) | <sub> Incorporating Surface Normal Information into Semantic Segmentation <br> for Accurate Freespace Detection </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/SNE-RoadSeg2?style=flat-square&labelColor=black"/> | ![PyTorch][PyTorch] ![OpenCV][OpenCV]|
 | [VOGUE-Try-On](https://github.com/Charmve/VOGUE-Try-On) | <sub> VOGUE: Try-On by StyleGAN Interpolation Optimization </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/VOGUE-Try-On?style=flat-square&labelColor=black"/> | ![NumPy][NumPy] ![PyTorch][PyTorch]| 
 | [PaperWeeklyAI](https://github.com/Charmve/paperweeklyai) | Studying papers in the fields of computer vision, and <br> machine learning algorithms every week <br> <sub>[awesome-scene-text-detection](https://github.com/Charmve/awesome-scene-text-detection), [Mirror-Glass-Detection](https://github.com/Charmve/Mirror-Glass-Detection), [Awesome-Lane-Detection](https://github.com/Charmve/Awesome-Lane-Detection) </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/awesome-scene-text-detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Mirror-Glass-Detection?style=flat-square&labelColor=black"/> <br> <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Awesome-Lane-Detection?style=flat-square&labelColor=black"/> | |
