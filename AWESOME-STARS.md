@@ -203,7 +203,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image](https://github.com/IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image) - Unofficial implementation of ''BEDSR-Net: A Deep Shadow Removal from a Single Document Image'' with PyTorch
-- [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+- [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) - PyTorch implementation of AnimeGANv2
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [prerna135/prose-for-a-painting](https://github.com/prerna135/prose-for-a-painting) - Prose for a painting source code
