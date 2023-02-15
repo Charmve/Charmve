@@ -338,196 +338,175 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   <tr>
     <td align="center">
       <a href="https://github.com/CHYbeta">
-        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42px;" alt="CHYbeta"/>
+        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
       </a>
       <br />
       <a href="https://github.com/CHYbeta">chybeta</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
-        <img src="https://avatars2.githubusercontent.com/u/3008098" width="42px;" alt="riusksk"/>
+        <img src="https://avatars2.githubusercontent.com/u/3008098" width="42.4px;" alt="riusksk"/>
       </a>
       <br />
       <a href="https://github.com/riusksk">泉哥</a>
     </td>
     <td align="center">
       <a href="https://github.com/YuePanEdward">
-        <img src="https://avatars2.githubusercontent.com/u/34207278" width="42px;" alt="YuePanEdward"/>
+        <img src="https://avatars2.githubusercontent.com/u/34207278" width="42.4px;" alt="YuePanEdward"/>
       </a>
       <br />
       <a href="https://github.com/YuePanEdward">Yue Pan </a>
     </td>
     <td align="center">
       <a href="https://github.com/tonghuaroot">
-        <img src="https://avatars2.githubusercontent.com/u/23011166" width="42px;" alt="tonghuaroot"/>
+        <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
       </a>
       <br />
       <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChinaVolvocars">
-        <img src="https://avatars2.githubusercontent.com/u/11059094" width="42px;" alt="ChinaVolvocars"/>
+        <img src="https://avatars2.githubusercontent.com/u/11059094" width="42.4px;" alt="ChinaVolvocars"/>
       </a>
       <br />
       <a href="https://github.com/ChinaVolvocars">Atlantis</a>
     </td>
     <td align="center">
       <a href="https://github.com/Hsury">
-        <img src="https://avatars2.githubusercontent.com/u/26821563" width="42px;" alt="Hsury"/>
+        <img src="https://avatars2.githubusercontent.com/u/26821563" width="42.4px;" alt="Hsury"/>
       </a>
       <br />
       <a href="https://github.com/Hsury">Ruoyang</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sanster">
-        <img src="https://avatars2.githubusercontent.com/u/3998421" width="42px;" alt="Sanster"/>
+        <img src="https://avatars2.githubusercontent.com/u/3998421" width="42.4px;" alt="Sanster"/>
       </a>
       <br />
       <a href="https://github.com/Sanster">Qing</a>
     </td>
     <td align="center">
       <a href="https://github.com/quxiaofeng">
-        <img src="https://avatars2.githubusercontent.com/u/1077425" width="42px;" alt="quxiaofeng"/>
+        <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
       </a>
       <br />
       <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/DequanWang">
-        <img src="https://avatars2.githubusercontent.com/u/8817763" width="42px;" alt="DequanWang"/>
+        <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
       </a>
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/district10">
-        <img src="https://avatars2.githubusercontent.com/u/5262037" width="42px;" alt="district10"/>
+        <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
       </a>
       <br />
       <a href="https://github.com/district10">TANG ZhiXiong</a>
     </td>
     <td align="center">
       <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42px;" alt="deepkolos"/>
+        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
       </a>
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
       <a href="https://github.com/yuchuangu85">
-        <img src="https://avatars2.githubusercontent.com/u/7369323" width="42px;" alt="yuchuangu85"/>
+        <img src="https://avatars2.githubusercontent.com/u/7369323" width="42.4px;" alt="yuchuangu85"/>
       </a>
       <br />
       <a href="https://github.com/yuchuangu85">CodeMX</a>
     </td>
     <td align="center">
       <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="42px;" alt="h4m5t"/>
+        <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
       </a>
       <br />
       <a href="https://github.com/h4m5t">h4m5t</a>
     </td>
     <td align="center">
       <a href="https://github.com/diggerdu">
-        <img src="https://avatars2.githubusercontent.com/u/5636045" width="42px;" alt="diggerdu"/>
+        <img src="https://avatars2.githubusercontent.com/u/5636045" width="42.4px;" alt="diggerdu"/>
       </a>
       <br />
       <a href="https://github.com/diggerdu">Sino Begonia(Xingjian. Du)</a>
     </td>
     <td align="center">
       <a href="https://github.com/xsser">
-        <img src="https://avatars2.githubusercontent.com/u/1850771" width="42px;" alt="xsser"/>
+        <img src="https://avatars2.githubusercontent.com/u/1850771" width="42.4px;" alt="xsser"/>
       </a>
       <br />
       <a href="https://github.com/xsser">xsser</a>
     </td>
     <td align="center">
       <a href="https://github.com/eggfly">
-        <img src="https://avatars2.githubusercontent.com/u/922837" width="42px;" alt="eggfly"/>
+        <img src="https://avatars2.githubusercontent.com/u/922837" width="42.4px;" alt="eggfly"/>
       </a>
       <br />
       <a href="https://github.com/eggfly">eggfly</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Koras02">
-        <img src="https://avatars2.githubusercontent.com/u/67436032" width="42px;" alt="Koras02"/>
+        <img src="https://avatars2.githubusercontent.com/u/67436032" width="42.4px;" alt="Koras02"/>
       </a>
       <br />
       <a href="https://github.com/Koras02">kobiad_ros</a>
     </td>
     <td align="center">
       <a href="https://github.com/bipabo1l">
-        <img src="https://avatars2.githubusercontent.com/u/20816849" width="42px;" alt="bipabo1l"/>
+        <img src="https://avatars2.githubusercontent.com/u/20816849" width="42.4px;" alt="bipabo1l"/>
       </a>
       <br />
       <a href="https://github.com/bipabo1l">bipabo1l</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/mio-dokuhaki">
-        <img src="https://avatars2.githubusercontent.com/u/97223678" width="42px;" alt="mio-dokuhaki"/>
+        <img src="https://avatars2.githubusercontent.com/u/97223678" width="42.4px;" alt="mio-dokuhaki"/>
       </a>
       <br />
       <a href="https://github.com/mio-dokuhaki">mio-dokuhaki</a>
     </td>
     <td align="center">
       <a href="https://github.com/i0Ek3">
-        <img src="https://avatars2.githubusercontent.com/u/9475646" width="42px;" alt="i0Ek3"/>
+        <img src="https://avatars2.githubusercontent.com/u/9475646" width="42.4px;" alt="i0Ek3"/>
       </a>
       <br />
       <a href="https://github.com/i0Ek3">i0Ek3</a>
     </td>
     <td align="center">
       <a href="https://github.com/temirlanZH">
-        <img src="https://avatars2.githubusercontent.com/u/86709653" width="42px;" alt="temirlanZH"/>
+        <img src="https://avatars2.githubusercontent.com/u/86709653" width="42.4px;" alt="temirlanZH"/>
       </a>
       <br />
       <a href="https://github.com/temirlanZH">tima?!</a>
     </td>
     <td align="center">
       <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42px;" alt="likyoo"/>
+        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
       </a>
       <br />
       <a href="https://github.com/likyoo">李开宇</a>
     </td>
     <td align="center">
       <a href="https://github.com/hueyzng">
-        <img src="https://avatars2.githubusercontent.com/u/14038071" width="42px;" alt="hueyzng"/>
+        <img src="https://avatars2.githubusercontent.com/u/14038071" width="42.4px;" alt="hueyzng"/>
       </a>
       <br />
       <a href="https://github.com/hueyzng">Huey Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/ricardodeazambuja">
-        <img src="https://avatars2.githubusercontent.com/u/6606382" width="42px;" alt="ricardodeazambuja"/>
+        <img src="https://avatars2.githubusercontent.com/u/6606382" width="42.4px;" alt="ricardodeazambuja"/>
       </a>
       <br />
       <a href="https://github.com/ricardodeazambuja">Ricardo de Azambuja</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/noname007">
-        <img src="https://avatars2.githubusercontent.com/u/8514816" width="42px;" alt="noname007"/>
-      </a>
-      <br />
-      <a href="https://github.com/noname007">soul11201</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/josearangos">
-        <img src="https://avatars2.githubusercontent.com/u/13352055" width="42px;" alt="josearangos"/>
-      </a>
-      <br />
-      <a href="https://github.com/josearangos">Jose Alberto Arango Sanchez</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enigmatisms">
-        <img src="https://avatars2.githubusercontent.com/u/46109954" width="42px;" alt="Enigmatisms"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enigmatisms">Qianyue He</a>
     </td>
   </tr>
 </table>
