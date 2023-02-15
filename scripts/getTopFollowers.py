@@ -88,17 +88,17 @@ query {{
 
     html = "<table>\n"
 
-    for i in range(min(len(followers), 27)):
+    for i in range(min(len(followers), 24)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
-        if i % 9 == 0:
+        if i % 8 == 0:
             if i != 0:
                 html += "  </tr>\n"
             html += "  <tr>\n"
         html += f'''    <td align="center">
       <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="42px;" alt="{login}"/>
+        <img src="https://avatars2.githubusercontent.com/u/{id}" width="42.4px;" alt="{login}"/>
       </a>
       <br />
       <a href="https://github.com/{login}">{name}</a>
