@@ -86,7 +86,7 @@ query {{
 
     followers.sort(reverse = True)
 
-    html = "<table style="margin:auto">\n"
+    html = "<table>\n"
 
     for i in range(min(len(followers), 27)):
         login = followers[i][1]
