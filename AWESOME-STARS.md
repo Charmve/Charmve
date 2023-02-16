@@ -357,7 +357,7 @@
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug) - A powerful and flexible machine learning platform for drug discovery
 - [openairplay/openairplay](https://github.com/openairplay/openairplay) - Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [THUDM/ProteinLM](https://github.com/THUDM/ProteinLM) - Protein Language Model
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
@@ -474,7 +474,6 @@
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's update PR creation logic. Feedback: https://github.com/orgs/community/discussions/categories/code-security
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [cryptopunksnotdead/programming-cryptopunks](https://github.com/cryptopunksnotdead/programming-cryptopunks) - Crypto Collectibles Book(let) Series. Programming (Crypto) Pixel Punk Profile Pictures & (Generative) Art - Step-by-Step Book / Guide. Inside Unique 24×24 Pixel Art on the Blockchain...
 - [ZeroChaos-/blue_hydra](https://github.com/ZeroChaos-/blue_hydra) - Blue Hydra
 
 ## Rust 
