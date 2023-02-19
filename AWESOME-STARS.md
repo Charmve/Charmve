@@ -111,6 +111,7 @@
 
 - [bradtraversy/hulu-webpage-clone](https://github.com/bradtraversy/hulu-webpage-clone) - Hulu webpage clone
 - [modelhub-ai/modelhub-ai.github.io](https://github.com/modelhub-ai/modelhub-ai.github.io) - Website repository for modelhub.ai
+- [Charmve/jsFlow](https://github.com/Charmve/jsFlow) - 🏄 A Lightweight Web Browser-based Machine Learning Framework
 - [cs217/cs217.github.io](https://github.com/cs217/cs217.github.io) - Course Webpage for CS 217 Hardware Accelerators for Machine Learning, Stanford University
 
 ## Dockerfile 
@@ -264,7 +265,6 @@
 - [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
-- [Charmve/jsFlow](https://github.com/Charmve/jsFlow) - 🏄 A Lightweight Web Browser-based Machine Learning Framework
 - [nailperry-zd/The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist 经济学人，持续更新
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [z-bingo/awesome-image-denoising-state-of-the-art](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art) - awesome image and video denoising, state of the art networks
