@@ -278,6 +278,8 @@
 
 ## Python 
 
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
+- [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [shunk031/training-free-structured-diffusion-guidance](https://github.com/shunk031/training-free-structured-diffusion-guidance) - 🤗 Unofficial huggingface/diffusers-based implementation of the paper "Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis".
