@@ -502,11 +502,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/ricardodeazambuja">Ricardo de Azambuja</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hueyzng">
-        <img src="https://avatars2.githubusercontent.com/u/14038071" width="42.4px;" alt="hueyzng"/>
+      <a href="https://github.com/kavincs">
+        <img src="https://avatars2.githubusercontent.com/u/14038071" width="42.4px;" alt="kavincs"/>
       </a>
       <br />
-      <a href="https://github.com/hueyzng">Huey Zhang</a>
+      <a href="https://github.com/kavincs">Kavin Zhang</a>
     </td>
   </tr>
 </table>
