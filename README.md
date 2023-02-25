@@ -163,7 +163,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 [Docker]:https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker
 
 <table><tbody>
-<tr><th> Application Development & Embedded Systems </th><th> Machine Learning </th></tr>
+<tr><th> Application Development & Embedded Systems </th><th> Machine Learning & Computer Vision </th></tr>
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
@@ -225,7 +225,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
     </tr>
     <tr>
         <td colspan="4" rowspan="1"  align="center" valign="center" class="ai-notebooks-table-points ai-orange-link">
-                <a href="https://charmve.github.io/sponsor.html" target="_blank"\>
+                <a href="https://github.com/sponsors/Charmve" target="_blank"\>
                     <h3 style="margin-top: 0px; margin-bottom: 0px;"\> <a href="https://charmve.github.io/sponsor.html" target="_blank"\> <kbd align="center" valign="center">
                          <code> <img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width=32 valign="center" style="max-width: 100%;vertical-align: bottom;"/> Sponsor me </code> <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="center" valign="center" alt="Sponsors" title="Sponsor me" width="64" style="max-width: 100%;vertical-align: bottom;">
                     </kbd> </a> </h3>
@@ -293,11 +293,11 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 | Title | Description | Stars |
 |--|--|--|
 | [Practicum4ECE](https://github.com/Charmve/Practicum4ECE) | <sub> 我的大学阶段课程设计、科创项目、毕业设计汇总 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> |
-| [LightCube](https://github.com/Charmve/LightCube) | <sub> 一种基于语音控制的3D动态显示系统设计</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LightCube?style=flat-square&labelColor=black"/> | 
+| [LightCube](https://github.com/Charmve/LightCube) | <sub> 一种基于语音控制的3D动态显示系统设计 (全国二等奖作品)</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LightCube?style=flat-square&labelColor=black"/> | 
 | [EmotionCube](https://github.com/Charmve/EmotionCube) | <sub> Intelligent Speech Companion Robot Based-on Sentiment Analysis </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/EmotionCube?style=flat-square&labelColor=black"/> |
 | [Wind-Pendulum-Controlling-System](https://github.com/Charmve/Wind-Pendulum-Controlling-System) | <sub> 2015年风力摆控制系统赛题（B题）解析+源代码开源 A Wind Pendulum Controlling System </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Wind-Pendulum-Controlling-System?style=flat-square&labelColor=black"/> | 
 | [BallPlate](https://github.com/Charmve/BallPlate) | <sub> 2017年全国大学生电子设计竞赛B题 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/BallPlate?style=flat-square&labelColor=black"/> | 
-| [SimElectronicGun](https://github.com/Charmve/jsFlow) | <sub> 基于视觉感知的模拟电磁曲射炮 （2019年全国大学生电子设计竞赛H题） 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | 
+| [SimElectronicGun](https://github.com/Charmve/SimElectronicGun) | <sub> 基于视觉感知的模拟电磁曲射炮 （2019年全国大学生电子设计竞赛H题） 全国二等奖作品 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | 
 
 </td></tr> 
 
