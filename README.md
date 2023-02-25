@@ -416,18 +416,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/yuchuangu85">CodeMX</a>
     </td>
     <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/h4m5t">
         <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
       </a>
       <br />
       <a href="https://github.com/h4m5t">h4m5t</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/deepkolos">
+        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
       <a href="https://github.com/diggerdu">
