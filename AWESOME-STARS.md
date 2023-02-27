@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [gnobitab/RectifiedFlow](https://github.com/gnobitab/RectifiedFlow) - 
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
