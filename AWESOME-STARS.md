@@ -421,7 +421,7 @@
 - [microsoft/CoCosNet-v2](https://github.com/microsoft/CoCosNet-v2) - CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation
 - [xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) - 🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐
 - [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
-- [ChenyangLEI/flash-reflection-removal](https://github.com/ChenyangLEI/flash-reflection-removal) - Code for CVPR2021 paper "Robust Reflection Removal with Reflection-free Flash-only Cues"
+- [ChenyangLEI/flash-reflection-removal](https://github.com/ChenyangLEI/flash-reflection-removal) - [CVPR2021] Robust Reflection Removal with Reflection-free Flash-only Cues
 - [ando-khachatryan/HiDDeN](https://github.com/ando-khachatryan/HiDDeN) - Pytorch implementation of paper "HiDDeN: Hiding Data With Deep Networks" by Jiren Zhu, Russell Kaplan, Justin Johnson, and Li Fei-Fei
 - [DAI-Lab/SteganoGAN](https://github.com/DAI-Lab/SteganoGAN) - SteganoGAN is a tool for creating steganographic images using adversarial training.
 - [JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral
