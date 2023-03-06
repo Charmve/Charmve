@@ -110,6 +110,7 @@
 
 ## CSS 
 
+- [yessGlory17/nft-marketplace](https://github.com/yessGlory17/nft-marketplace) - Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
 - [bradtraversy/hulu-webpage-clone](https://github.com/bradtraversy/hulu-webpage-clone) - Hulu webpage clone
 - [modelhub-ai/modelhub-ai.github.io](https://github.com/modelhub-ai/modelhub-ai.github.io) - Website repository for modelhub.ai
 - [Charmve/jsFlow](https://github.com/Charmve/jsFlow) - 🏄 A Lightweight Web Browser-based Machine Learning Framework
@@ -165,6 +166,7 @@
 
 ## JavaScript 
 
+- [aragon/aragon-apps](https://github.com/aragon/aragon-apps) - (Aragon 1) Aragon apps developed by Aragon Core Devs (smart contracts + webapps)
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [mikeyhodl/-Solidity-starter-beta](https://github.com/mikeyhodl/-Solidity-starter-beta) - 
@@ -205,7 +207,7 @@
 - [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets) - Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras
 - [waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - Waymo Open Dataset
-- [google-research/pix2seq](https://github.com/google-research/pix2seq) - Pix2Seq - A general framework for turning RGB pixels into semantically meaningful sequences
+- [google-research/pix2seq](https://github.com/google-research/pix2seq) - Pix2Seq codebase: multi-tasks with generative modeling (autoregressive and diffusion)
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image](https://github.com/IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image) - Unofficial implementation of ''BEDSR-Net: A Deep Shadow Removal from a Single Document Image'' with PyTorch
@@ -282,6 +284,7 @@
 
 ## Python 
 
+- [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - [ICCV 2021] Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [gnobitab/RectifiedFlow](https://github.com/gnobitab/RectifiedFlow) - 
@@ -514,6 +517,7 @@
 
 ## Solidity 
 
+- [iskdrews/awesome-solidity-gas-optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 
@@ -543,6 +547,7 @@
 
 ## TypeScript 
 
+- [trindadematheus/future-store](https://github.com/trindadematheus/future-store) - 👜 Next-gen e-commerce built with Remix, Chakra UI, GraphQL and web3
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [decentraland/governance](https://github.com/decentraland/governance) - 🏢 Frontend for governance of the Decentraland DAO
