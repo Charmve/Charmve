@@ -495,18 +495,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/likyoo">李开宇</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kavincs">
-        <img src="https://avatars2.githubusercontent.com/u/14038071" width="42.4px;" alt="kavincs"/>
-      </a>
-      <br />
-      <a href="https://github.com/kavincs">Kavin Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ricardodeazambuja">
         <img src="https://avatars2.githubusercontent.com/u/6606382" width="42.4px;" alt="ricardodeazambuja"/>
       </a>
       <br />
       <a href="https://github.com/ricardodeazambuja">Ricardo de Azambuja</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kavincs">
+        <img src="https://avatars2.githubusercontent.com/u/14038071" width="42.4px;" alt="kavincs"/>
+      </a>
+      <br />
+      <a href="https://github.com/kavincs">Kavin Zhang</a>
     </td>
   </tr>
 </table>
