@@ -416,18 +416,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/yuchuangu85">CodeMX</a>
     </td>
     <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
-      </a>
-      <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/deepkolos">
         <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
       </a>
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/h4m5t">
+        <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
+      </a>
+      <br />
+      <a href="https://github.com/h4m5t">h4m5t</a>
     </td>
     <td align="center">
       <a href="https://github.com/diggerdu">
@@ -460,18 +460,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Koras02">kobiad_ros</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bipabo1l">
-        <img src="https://avatars2.githubusercontent.com/u/20816849" width="42.4px;" alt="bipabo1l"/>
-      </a>
-      <br />
-      <a href="https://github.com/bipabo1l">bipabo1l</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mio-dokuhaki">
         <img src="https://avatars2.githubusercontent.com/u/97223678" width="42.4px;" alt="mio-dokuhaki"/>
       </a>
       <br />
       <a href="https://github.com/mio-dokuhaki">mio-dokuhaki</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bipabo1l">
+        <img src="https://avatars2.githubusercontent.com/u/20816849" width="42.4px;" alt="bipabo1l"/>
+      </a>
+      <br />
+      <a href="https://github.com/bipabo1l">bipabo1l</a>
     </td>
     <td align="center">
       <a href="https://github.com/i0Ek3">
