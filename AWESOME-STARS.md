@@ -219,6 +219,7 @@
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [patharanordev/simple-ml-as-a-services](https://github.com/patharanordev/simple-ml-as-a-services) - Example Machine Learning as a Service
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [usc-isi-i2/kgtk](https://github.com/usc-isi-i2/kgtk) - Knowledge Graph Toolkit
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.
@@ -301,7 +302,7 @@
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [chrisby/torchMTL](https://github.com/chrisby/torchMTL) - A lightweight module for Multi-Task Learning in pytorch.
 - [WangYueFt/detr3d](https://github.com/WangYueFt/detr3d) - 
-- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
+- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR 2022] ICON: Implicit Clothed humans Obtained from Normals
 - [google-research/mint](https://github.com/google-research/mint) - Multi-modal Content Creation Model Training Infrastructure including the FACT model (AI Choreographer) implementation.
 - [subho406/OmniNet](https://github.com/subho406/OmniNet) - Official Pytorch implementation of "OmniNet: A unified architecture for multi-modal multi-task learning" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain
 - [isl-org/MiDaS](https://github.com/isl-org/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022"
@@ -373,7 +374,6 @@
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug) - A powerful and flexible machine learning platform for drug discovery
 - [openairplay/openairplay](https://github.com/openairplay/openairplay) - Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [THUDM/ProteinLM](https://github.com/THUDM/ProteinLM) - Protein Language Model
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
