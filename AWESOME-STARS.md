@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥
@@ -286,6 +287,8 @@
 
 ## Python 
 
+- [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
+- [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023, Notable-Top-25%] Official PyTorch implementation for the paper "Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model"
 - [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - [ICCV 2021] Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
