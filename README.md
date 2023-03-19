@@ -481,18 +481,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/i0Ek3">i0Ek3</a>
     </td>
     <td align="center">
-      <a href="https://github.com/temirlanZH">
-        <img src="https://avatars2.githubusercontent.com/u/86709653" width="42.4px;" alt="temirlanZH"/>
-      </a>
-      <br />
-      <a href="https://github.com/temirlanZH">tima?!</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/likyoo">
         <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
       </a>
       <br />
       <a href="https://github.com/likyoo">李开宇</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/temirlanZH">
+        <img src="https://avatars2.githubusercontent.com/u/86709653" width="42.4px;" alt="temirlanZH"/>
+      </a>
+      <br />
+      <a href="https://github.com/temirlanZH">tima?!</a>
     </td>
     <td align="center">
       <a href="https://github.com/Enigmatisms">
