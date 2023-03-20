@@ -288,6 +288,7 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023, Notable-Top-25%] Official PyTorch implementation for the paper "Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model"
 - [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - [ICCV 2021] Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis.
