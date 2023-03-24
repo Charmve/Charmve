@@ -199,6 +199,7 @@
 
 ## Jupyter Notebook 
 
+- [michigan-traffic-lab/Dense-Deep-Reinforcement-Learning](https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning) - This repo contains the code for paper "Dense reinforcement learning for safety validation of autonomous vehicles"
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
@@ -288,6 +289,7 @@
 
 ## Python 
 
+- [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023, Notable-Top-25%] Official PyTorch implementation for the paper "Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model"
