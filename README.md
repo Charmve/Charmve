@@ -312,7 +312,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 | [CppMaster](https://github.com/Charmve/CppMaster) | <sub> C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/CppMaster?style=flat-square&labelColor=black"/> | ![C++][C++] ![Markdown][Markdown]|
 | [LeetCode4FLAG](https://github.com/Charmve/LeetCode4FLAG) | <sub> High frequent interview LeetCode TOP 100 </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/LeetCode4FLAG?style=flat-square&labelColor=black"/> | ![C++][C++] ![Python][Python]|
 | [OpenCC](https://github.com/Charmve/OpenCC) | <sub> Automatic driving long tail / corner cases scenarios dataset (Anomaly detection) </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OpenCC?style=flat-square&labelColor=black"/> | -- |
-| [OpenCS-Courses](https://github.com/Charmve/OpenCS-Courses) | <sub>Path to a free self-taught education in Computer Science</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OpenCS-Courses?style=flat-square&labelColor=black"/> | -- |
+| [OpenCS-Courses](https://github.com/Charmve/OpenCS-Courses) | <sub>Path to a free self-taught education in Computer Science</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OpenCS-Courses?style=flat-square&labelColor=black"/> | ![Markdown][Markdown] |
 
 </td></tr>
 </tbody></table>
@@ -531,14 +531,14 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
     <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
   </a>
-  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-  </a>
-  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-  </a>
   <a href="https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png">
+    <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/conect_me.svg" width="156" height="78" alt="Click to see the source">
+  </a>
+  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
     <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
+  </a>
+  <a href="https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/ads-sample.svg" width="156" height="78" alt="Click to see the source">
   </a>
     <div align="right">
         <sup>Ads</sup> &emsp;&emsp;&emsp;
