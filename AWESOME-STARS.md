@@ -146,7 +146,6 @@
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jonbarron/website](https://github.com/jonbarron/website) - 
 - [augmentedperception/total_relighting](https://github.com/augmentedperception/total_relighting) - 
-- [TexasInstruments/ble_examples](https://github.com/TexasInstruments/ble_examples) - Additional examples to compliment TI's Bluetooth Low Energy Stack offerings.
 - [augmentedperception/deepview](https://github.com/augmentedperception/deepview) - 
 - [cnnmon/coffeelings](https://github.com/cnnmon/coffeelings) - a mini journal & mood tracker chrome extension
 - [jakevdp/jakevdp.github.io](https://github.com/jakevdp/jakevdp.github.io) - Pythonic Perambulations website. Source at http://github.com/jakevdp/jakevdp.github.io-source
