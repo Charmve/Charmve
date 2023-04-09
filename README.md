@@ -409,13 +409,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/district10">TANG ZhiXiong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yuchuangu85">
-        <img src="https://avatars2.githubusercontent.com/u/7369323" width="42.4px;" alt="yuchuangu85"/>
-      </a>
-      <br />
-      <a href="https://github.com/yuchuangu85">CodeMX</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/h4m5t">
         <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
       </a>
@@ -428,6 +421,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yuchuangu85">
+        <img src="https://avatars2.githubusercontent.com/u/7369323" width="42.4px;" alt="yuchuangu85"/>
+      </a>
+      <br />
+      <a href="https://github.com/yuchuangu85">CodeMX</a>
     </td>
     <td align="center">
       <a href="https://github.com/diggerdu">
