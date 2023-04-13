@@ -416,18 +416,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/district10">TANG ZhiXiong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yuchuangu85">
         <img src="https://avatars2.githubusercontent.com/u/7369323" width="42.4px;" alt="yuchuangu85"/>
       </a>
       <br />
       <a href="https://github.com/yuchuangu85">CodeMX</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/deepkolos">
+        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
       <a href="https://github.com/diggerdu">
@@ -495,18 +495,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/temirlanZH">tima?!</a>
     </td>
     <td align="center">
+      <a href="https://github.com/WenyXu">
+        <img src="https://avatars2.githubusercontent.com/u/32535939" width="42.4px;" alt="WenyXu"/>
+      </a>
+      <br />
+      <a href="https://github.com/WenyXu">Weny Xu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Enigmatisms">
         <img src="https://avatars2.githubusercontent.com/u/46109954" width="42.4px;" alt="Enigmatisms"/>
       </a>
       <br />
       <a href="https://github.com/Enigmatisms">Qianyue He</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ricardodeazambuja">
-        <img src="https://avatars2.githubusercontent.com/u/6606382" width="42.4px;" alt="ricardodeazambuja"/>
-      </a>
-      <br />
-      <a href="https://github.com/ricardodeazambuja">Ricardo de Azambuja</a>
     </td>
   </tr>
 </table>
