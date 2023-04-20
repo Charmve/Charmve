@@ -1,0 +1,36 @@
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
+    # Run the GitHub Readme YouTube Cards action
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCxFkZjbpt0KyhEv1d342SQQ
+          lang: en
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }} # Configured in Actions Secrets (see Wiki)
+          max_videos: 6
+          base_url: https://ytcards.demolab.com/
+          card_width: 250
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          show_duration: true # Requires YouTube API Key (see Wiki)
+          author_name: GitHub Actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: "docs(readme): Update YouTube cards"
+          readme_path: README.md
+          output_only: false
+          output_type: markdown
