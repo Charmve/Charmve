@@ -224,13 +224,12 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-94%25-green&logo=github"/></td>
     </tr>
     <tr>
-        <td colspan="4" rowspan="1"  align="center" valign="center" class="ai-notebooks-table-points ai-orange-link">
-                <a href="https://github.com/sponsors/Charmve" target="_blank"\>
-                    <h3 style="margin-top: 0px; margin-bottom: 0px;"\> <a href="https://github.com/sponsors/Charmve" target="_blank"\> <kbd align="center" valign="center">
-                         <code> <img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width=32 valign="center" style="max-width: 100%;vertical-align: bottom;"/> Sponsor me </code> <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="center" valign="center" alt="Sponsors" title="Sponsor me" width="64" style="max-width: 100%;vertical-align: bottom;">
-                    </kbd> </a> </h3>
-                </a>
-         </td>
+        <td colspan="4" rowspan="1" align="center" valign="center">
+            <a href="https://github.com/sponsors/Charmve"> <kbd align="center" valign="center">
+                         <code> <img src="https://user-images.githubusercontent.com/29084184/218292687-bdde091a-40d5-4f2f-863b-d7f7d92440bd.png" alt="Sponsors" title="Sponsor me" width="32" valign="center" style="max-width: 100%; vertical-align: bottom;"> Sponsor me </code> <img src="https://user-images.githubusercontent.com/29084184/218292609-674b24b7-fa1f-4bf3-9cc1-9c51a23e435d.png" align="center" valign="center" alt="Sponsors" title="Sponsor me" width="64" style="max-width: 100%; vertical-align: bottom;">
+                    </kbd>
+            </a>
+        </td>
     </tr>
     </tbody>
 </table>
