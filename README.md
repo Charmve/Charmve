@@ -518,6 +518,10 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   </a>
 </p>
 
+<!-- https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 ---
