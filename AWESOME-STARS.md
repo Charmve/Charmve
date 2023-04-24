@@ -44,7 +44,7 @@
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [Charmve/EmotionCube](https://github.com/Charmve/EmotionCube) - 🐾 EmotionCube: An intelligent companion robot is designed based on expression recognition and intelligent speech.
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [TideSec/Peach_Fuzzing](https://github.com/TideSec/Peach_Fuzzing) - 在学习使用peach进行模糊测试时，搜集到的一些不错的资料，以及配套的一些软件或脚本。
