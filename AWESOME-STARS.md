@@ -40,6 +40,7 @@
 
 ## C 
 
+- [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
