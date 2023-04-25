@@ -466,18 +466,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/mio-dokuhaki">mio-dokuhaki</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bipabo1l">
-        <img src="https://avatars2.githubusercontent.com/u/20816849" width="42.4px;" alt="bipabo1l"/>
-      </a>
-      <br />
-      <a href="https://github.com/bipabo1l">bipabo1l</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/likyoo">
         <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
       </a>
       <br />
       <a href="https://github.com/likyoo">李开宇</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bipabo1l">
+        <img src="https://avatars2.githubusercontent.com/u/20816849" width="42.4px;" alt="bipabo1l"/>
+      </a>
+      <br />
+      <a href="https://github.com/bipabo1l">bipabo1l</a>
     </td>
     <td align="center">
       <a href="https://github.com/i0Ek3">
