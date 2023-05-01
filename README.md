@@ -459,13 +459,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Koras02">kobiad_ros</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mio-dokuhaki">
-        <img src="https://avatars2.githubusercontent.com/u/97223678" width="42.4px;" alt="mio-dokuhaki"/>
-      </a>
-      <br />
-      <a href="https://github.com/mio-dokuhaki">mio-dokuhaki</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/likyoo">
         <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
       </a>
@@ -506,6 +499,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/Enigmatisms">Qianyue He</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ricardodeazambuja">
+        <img src="https://avatars2.githubusercontent.com/u/6606382" width="42.4px;" alt="ricardodeazambuja"/>
+      </a>
+      <br />
+      <a href="https://github.com/ricardodeazambuja">Ricardo de Azambuja</a>
     </td>
   </tr>
 </table>
