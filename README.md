@@ -501,11 +501,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Enigmatisms">Qianyue He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ricardodeazambuja">
-        <img src="https://avatars2.githubusercontent.com/u/6606382" width="42.4px;" alt="ricardodeazambuja"/>
+      <a href="https://github.com/elicassion">
+        <img src="https://avatars2.githubusercontent.com/u/11537907" width="42.4px;" alt="elicassion"/>
       </a>
       <br />
-      <a href="https://github.com/ricardodeazambuja">Ricardo de Azambuja</a>
+      <a href="https://github.com/elicassion">Jinghuan Shang</a>
     </td>
   </tr>
 </table>
