@@ -300,7 +300,7 @@
 
 ## Python 
 
-- [OpenRL-Lab/openrl](https://github.com/OpenRL-Lab/openrl) - 通用强化学习研究框架
+- [OpenRL-Lab/openrl](https://github.com/OpenRL-Lab/openrl) - Unified Reinforcement Learning Framework (通用强化学习研究框架)
 - [tech-srl/code2vec](https://github.com/tech-srl/code2vec) - TensorFlow code for the neural network presented in the paper: "code2vec: Learning Distributed Representations of Code"
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
