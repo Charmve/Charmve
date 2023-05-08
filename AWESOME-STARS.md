@@ -202,6 +202,8 @@
 
 ## Jupyter Notebook 
 
+- [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
+- [nladuo/THSTrader](https://github.com/nladuo/THSTrader) - 量化交易。同花顺免费模拟炒股软件客户端的python API。(Python3)
 - [luo3300612/Visualizer](https://github.com/luo3300612/Visualizer) - assistant tools for attention visualization in deep learning
 - [michigan-traffic-lab/Dense-Deep-Reinforcement-Learning](https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning) - This repo contains the code for paper "Dense reinforcement learning for safety validation of autonomous vehicles"
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
@@ -300,6 +302,8 @@
 
 ## Python 
 
+- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [OpenRL-Lab/openrl](https://github.com/OpenRL-Lab/openrl) - Unified Reinforcement Learning Framework
 - [tech-srl/code2vec](https://github.com/tech-srl/code2vec) - TensorFlow code for the neural network presented in the paper: "code2vec: Learning Distributed Representations of Code"
