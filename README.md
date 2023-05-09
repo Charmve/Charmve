@@ -4,7 +4,7 @@
 
 ## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
 
@@ -240,6 +240,8 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 | [jsFlow](https://github.com/Charmve/jsFlow) | <sub> A Lightweight Web Browser-based Machine Learning Framework </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![JavaScript][JavaScript] |
 
 ### 📝 My latest posts
+
+These columns are automatically updated by github action.
 
 <table><tbody>
 <tr>
@@ -534,6 +536,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <!-- END YOUTUBE-CARDS -->
 
 </div>
+
+ :performing_arts: Leave a message to me? --> https://github.com/Charmve/Charmve/issues
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 <!-- ![bili-card](https://bilibili-readme-stats.vercel.app/api?id=62079686&card=default) -->
