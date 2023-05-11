@@ -134,7 +134,7 @@
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
@@ -268,7 +268,7 @@
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [Charmve/OpenCC](https://github.com/Charmve/OpenCC) - Automatic driving long tail / corner cases scenarios dataset (Anomaly detection)
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird-Eye-View, such as DETR3D, BEVDet, BEVFormer
-- [zhoubolei/poster_template](https://github.com/zhoubolei/poster_template) - some academic posters as references. May we have in-person poster session soon!
+- [zhoubolei/bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - some academic posters as references. May we have in-person poster session soon!
 - [lixiangyun/Disruptor_doc_ZH_CN](https://github.com/lixiangyun/Disruptor_doc_ZH_CN) - Disruptor中文参考
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -329,7 +330,7 @@
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [chrisby/torchMTL](https://github.com/chrisby/torchMTL) - A lightweight module for Multi-Task Learning in pytorch.
 - [WangYueFt/detr3d](https://github.com/WangYueFt/detr3d) - 
-- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR 2022] ICON: Implicit Clothed humans Obtained from Normals
+- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - CVPR 2022 | ICON: Implicit Clothed humans Obtained from Normals
 - [google-research/mint](https://github.com/google-research/mint) - Multi-modal Content Creation Model Training Infrastructure including the FACT model (AI Choreographer) implementation.
 - [subho406/OmniNet](https://github.com/subho406/OmniNet) - Official Pytorch implementation of "OmniNet: A unified architecture for multi-modal multi-task learning" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain
 - [isl-org/MiDaS](https://github.com/isl-org/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022"
