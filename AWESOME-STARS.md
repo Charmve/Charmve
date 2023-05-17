@@ -229,6 +229,7 @@
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [patharanordev/simple-ml-as-a-services](https://github.com/patharanordev/simple-ml-as-a-services) - Example Machine Learning as a Service
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [usc-isi-i2/kgtk](https://github.com/usc-isi-i2/kgtk) - Knowledge Graph Toolkit
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.
@@ -402,7 +403,6 @@
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug) - A powerful and flexible machine learning platform for drug discovery
 - [openairplay/openairplay](https://github.com/openairplay/openairplay) - Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [THUDM/ProteinLM](https://github.com/THUDM/ProteinLM) - Protein Language Model
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
@@ -495,7 +495,7 @@
 - [YyzHarry/imbalanced-semi-self](https://github.com/YyzHarry/imbalanced-semi-self) - [NeurIPS 2020] Semi-Supervision (Unlabeled Data) & Self-Supervision Improve Class-Imbalanced / Long-Tailed Learning
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [JizhiziLi/GFM](https://github.com/JizhiziLi/GFM) - [IJCV 2022] Bridging Composite and Real: Towards End-to-end Deep Image Matting
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [Charmve/SNE-RoadSeg2](https://github.com/Charmve/SNE-RoadSeg2) - 🌱 SNE-RoadSeg in PyTorch, ECCV 2020 by Rui (Ranger) Fan & Hengli Wang, but now we have improved it.
 - [creotiv/MiBand2](https://github.com/creotiv/MiBand2) - Library to work with Xiaomi MiBand 2
 - [francozappa/bias](https://github.com/francozappa/bias) - Bluetooth Impersonation AttackS (BIAS) [CVE 2020-10135]
