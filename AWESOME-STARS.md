@@ -269,7 +269,7 @@
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [Charmve/OpenCC](https://github.com/Charmve/OpenCC) - Automatic driving long tail / corner cases scenarios dataset (Anomaly detection)
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird-Eye-View, such as DETR3D, BEVDet, BEVFormer
-- [zhoubolei/bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - some academic posters as references. May we have in-person poster session soon!
+- [zhoubolei/bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!
 - [lixiangyun/Disruptor_doc_ZH_CN](https://github.com/lixiangyun/Disruptor_doc_ZH_CN) - Disruptor中文参考
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
@@ -314,7 +314,7 @@
 - [Carlisle-Liu/OCENet](https://github.com/Carlisle-Liu/OCENet) - 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023, Notable-Top-25%] Official PyTorch implementation for the paper "Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model"
+- [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023 Oral] Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model
 - [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - [ICCV 2021] Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
