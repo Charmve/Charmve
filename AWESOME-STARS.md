@@ -331,7 +331,7 @@
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [chrisby/torchMTL](https://github.com/chrisby/torchMTL) - A lightweight module for Multi-Task Learning in pytorch.
 - [WangYueFt/detr3d](https://github.com/WangYueFt/detr3d) - 
-- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - CVPR 2022 | ICON: Implicit Clothed humans Obtained from Normals
+- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR'22] ICON: Implicit Clothed humans Obtained from Normals
 - [google-research/mint](https://github.com/google-research/mint) - Multi-modal Content Creation Model Training Infrastructure including the FACT model (AI Choreographer) implementation.
 - [subho406/OmniNet](https://github.com/subho406/OmniNet) - Official Pytorch implementation of "OmniNet: A unified architecture for multi-modal multi-task learning" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain
 - [isl-org/MiDaS](https://github.com/isl-org/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022"
