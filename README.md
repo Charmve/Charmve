@@ -475,6 +475,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/bipabo1l">bipabo1l</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jovany-wang">
+        <img src="https://avatars2.githubusercontent.com/u/19473861" width="42.4px;" alt="jovany-wang"/>
+      </a>
+      <br />
+      <a href="https://github.com/jovany-wang">Qing Wang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/i0Ek3">
         <img src="https://avatars2.githubusercontent.com/u/9475646" width="42.4px;" alt="i0Ek3"/>
       </a>
@@ -501,13 +508,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/elicassion">Jinghuan Shang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enigmatisms">
-        <img src="https://avatars2.githubusercontent.com/u/46109954" width="42.4px;" alt="Enigmatisms"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enigmatisms">Qianyue He</a>
     </td>
   </tr>
 </table>
