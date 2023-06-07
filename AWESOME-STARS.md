@@ -262,7 +262,7 @@
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [Charmve/OpenCC](https://github.com/Charmve/OpenCC) - Automatic driving long tail / corner cases scenarios dataset (Anomaly detection)
-- [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird-Eye-View, such as DETR3D, BEVDet, BEVFormer
+- [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [zhoubolei/bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!
 - [lixiangyun/Disruptor_doc_ZH_CN](https://github.com/lixiangyun/Disruptor_doc_ZH_CN) - Disruptor中文参考
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -297,6 +297,7 @@
 
 ## Python 
 
+- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
