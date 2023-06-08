@@ -366,6 +366,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/CHYbeta">chybeta</a>
     </td>
     <td align="center">
+      <a href="https://github.com/kroitor">
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
+      </a>
+      <br />
+      <a href="https://github.com/kroitor">Igor Kroitor</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/riusksk">
         <img src="https://avatars2.githubusercontent.com/u/3008098" width="42.4px;" alt="riusksk"/>
       </a>
@@ -407,6 +414,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/ChinaVolvocars">Atlantis</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Hsury">
         <img src="https://avatars2.githubusercontent.com/u/26821563" width="42.4px;" alt="Hsury"/>
@@ -414,8 +423,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/Hsury">Ruoyang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/quxiaofeng">
         <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
@@ -465,6 +472,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/diggerdu">Sino Begonia(Xingjian. Du)</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/xsser">
         <img src="https://avatars2.githubusercontent.com/u/1850771" width="42.4px;" alt="xsser"/>
@@ -472,8 +481,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/xsser">xsser</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/eggfly">
         <img src="https://avatars2.githubusercontent.com/u/922837" width="42.4px;" alt="eggfly"/>
@@ -522,13 +529,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/i0Ek3">i0Ek3</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WenyXu">
-        <img src="https://avatars2.githubusercontent.com/u/32535939" width="42.4px;" alt="WenyXu"/>
-      </a>
-      <br />
-      <a href="https://github.com/WenyXu">Weny Xu</a>
     </td>
   </tr>
 </table>
