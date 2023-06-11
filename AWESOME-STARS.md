@@ -422,7 +422,7 @@
 - [RosettaCommons/RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) - This package contains deep learning models and related scripts for RoseTTAFold
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [xyjigsaw/Knowledge-Graph-And-Visualization-Demo](https://github.com/xyjigsaw/Knowledge-Graph-And-Visualization-Demo) - There are 2D-Search and 3D-Graph-View for knowledge graph visualization.
-- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Cloud-native Deep Reinforcement Learning. 🔥
+- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Massively Parallel Deep Reinforcement Learning. 🔥
 - [Sujit-O/pykg2vec](https://github.com/Sujit-O/pykg2vec) - Python library for knowledge graph embedding and representation learning.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [dunbar12138/DSNeRF](https://github.com/dunbar12138/DSNeRF) - Code release for DS-NeRF (Depth-supervised Neural Radiance Fields)
