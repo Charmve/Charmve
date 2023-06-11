@@ -524,11 +524,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/jovany-wang">Qing Wang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/i0Ek3">
-        <img src="https://avatars2.githubusercontent.com/u/9475646" width="42.4px;" alt="i0Ek3"/>
+      <a href="https://github.com/WenyXu">
+        <img src="https://avatars2.githubusercontent.com/u/32535939" width="42.4px;" alt="WenyXu"/>
       </a>
       <br />
-      <a href="https://github.com/i0Ek3">i0Ek3</a>
+      <a href="https://github.com/WenyXu">Weny Xu</a>
     </td>
   </tr>
 </table>
