@@ -169,6 +169,7 @@
 
 ## JavaScript 
 
+- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [Exrick/xmall-weapp](https://github.com/Exrick/xmall-weapp) - 终于开源！XMall商城微信小程序前端 共计20多个页面 页面联动 精美细节 含SKU设计
 - [opendreamnet/dreamtime](https://github.com/opendreamnet/dreamtime) - Use artificial intelligence to create fake nudes.
 - [aragon/aragon-apps](https://github.com/aragon/aragon-apps) - (Aragon 1) Aragon apps developed by Aragon Core Devs (smart contracts + webapps)
