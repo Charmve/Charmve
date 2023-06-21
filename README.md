@@ -216,7 +216,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;"/> <br> UFund </a>
         </td>
-        <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br> <sub>运行量化策略自动化完成股票和基金交易的机器人</sub> </td>
+        <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br> <sub>AI智能量化投研平台</sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github"/></td>
     </tr>
@@ -595,7 +595,7 @@ The following content is automatically updated by an automation script.
 
 <div align="center">
   <a href="https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/ads-sample.svg" width="156" height="78" alt="Click to see the source">
+    <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/ads-ardao.svg" width="156" height="78" alt="Click to see the source">
   </a>
   <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
     <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
