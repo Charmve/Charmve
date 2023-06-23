@@ -594,7 +594,7 @@ The following content is automatically updated by an automation script.
 [ContactMe]:https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
 
 <div align="center">
-  <a href="https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+  <a href="https://github.com/Charmve/AR-DAO" alt="AR-DAO" title="AR-DAO" target="_blank"\>
     <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/ads-ardao.svg" width="156" height="78" alt="Click to see the source">
   </a>
   <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
