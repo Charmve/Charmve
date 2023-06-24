@@ -202,6 +202,7 @@
 
 ## Jupyter Notebook 
 
+- [guoliangxie123/Anomaly_Detection](https://github.com/guoliangxie123/Anomaly_Detection) - 主要是一些异常检测的代码
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [luo3300612/Visualizer](https://github.com/luo3300612/Visualizer) - assistant tools for attention visualization in deep learning
 - [michigan-traffic-lab/Dense-Deep-Reinforcement-Learning](https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning) - This repo contains the code for paper "Dense reinforcement learning for safety validation of autonomous vehicles"
