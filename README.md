@@ -160,7 +160,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve) .
 
-### 🖥️ Open-Source Projects &emsp; <a href="https://github.com/Charmve?tab=stars"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
+### 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
 
 All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers)
 
