@@ -381,18 +381,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/CHYbeta">
-        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
-      </a>
-      <br />
-      <a href="https://github.com/CHYbeta">chybeta</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kroitor">
         <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
       </a>
       <br />
       <a href="https://github.com/kroitor">Igor Kroitor</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CHYbeta">
+        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
+      </a>
+      <br />
+      <a href="https://github.com/CHYbeta">chybeta</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
