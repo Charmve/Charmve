@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
 - [guoliangxie123/Anomaly_Detection](https://github.com/guoliangxie123/Anomaly_Detection) - 主要是一些异常检测的代码
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [luo3300612/Visualizer](https://github.com/luo3300612/Visualizer) - assistant tools for attention visualization in deep learning
@@ -210,7 +211,6 @@
 - [SCLBD/BackdoorBench](https://github.com/SCLBD/BackdoorBench) - 
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [KaihuaTang/Generalized-Long-Tailed-Benchmarks.pytorch](https://github.com/KaihuaTang/Generalized-Long-Tailed-Benchmarks.pytorch) - [ECCV 2022] A generalized long-tailed challenge that incorporates both the conventional class-wise imbalance and the overlooked attribute-wise imbalance within each class.  The proposed IFL together w
-- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets) - Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras
 - [waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - Waymo Open Dataset
 - [google-research/pix2seq](https://github.com/google-research/pix2seq) - Pix2Seq codebase: multi-tasks with generative modeling (autoregressive and diffusion)
@@ -338,6 +338,7 @@
 - [dandelin/ViLT](https://github.com/dandelin/ViLT) - Code for the ICML 2021 (long talk) paper: "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision"
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [ZHKKKe/Harmonizer](https://github.com/ZHKKKe/Harmonizer) - High-Resolution Image/Video Harmonization [ECCV 2022]
+- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
 - [nv-tlabs/lift-splat-shoot](https://github.com/nv-tlabs/lift-splat-shoot) - Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D (ECCV 2020)
 - [ceciliavision/perceptual-reflection-removal](https://github.com/ceciliavision/perceptual-reflection-removal) - Single Image Reflection Separation with Perceptual Losses
