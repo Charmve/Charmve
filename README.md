@@ -443,7 +443,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
       </a>
       <br />
-      <a href="https://github.com/wanttobeno">wanttobeno</a>
+      <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChinaVolvocars">
