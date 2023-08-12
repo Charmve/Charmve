@@ -383,6 +383,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Snailclimb">
+        <img src="https://avatars2.githubusercontent.com/u/29880145" width="42.4px;" alt="Snailclimb"/>
+      </a>
+      <br />
+      <a href="https://github.com/Snailclimb">Guide</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CHYbeta">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
       </a>
@@ -431,6 +438,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/WarpPrism">棱镜_JH</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Sanster">
         <img src="https://avatars2.githubusercontent.com/u/3998421" width="42.4px;" alt="Sanster"/>
@@ -438,8 +447,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/Sanster">Qing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tonghuaroot">
         <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
@@ -489,6 +496,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/h4m5t">
         <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
@@ -496,8 +505,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/h4m5t">h4m5t</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/district10">
         <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
@@ -546,13 +553,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/Koras02">kobiad_ros</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhanghuidinah">
-        <img src="https://avatars2.githubusercontent.com/u/31201589" width="42.4px;" alt="zhanghuidinah"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhanghuidinah">Hui Zhang</a>
     </td>
   </tr>
 </table>
