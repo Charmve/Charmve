@@ -390,18 +390,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Snailclimb">Guide</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kroitor">
-        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
-      </a>
-      <br />
-      <a href="https://github.com/kroitor">Igor Kroitor</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CHYbeta">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
       </a>
       <br />
       <a href="https://github.com/CHYbeta">chybeta</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kroitor">
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
+      </a>
+      <br />
+      <a href="https://github.com/kroitor">Igor Kroitor</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
@@ -490,20 +490,20 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/district10">
         <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
       </a>
       <br />
       <a href="https://github.com/district10">TANG ZhiXiong</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/deepkolos">
+        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
       <a href="https://github.com/h4m5t">
