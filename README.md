@@ -300,14 +300,14 @@ These columns are automatically updated by github action.
 <table><tbody>
 <tr>
   <td>
-  <li> 🔥 <a href="https://blog.csdn.net/charmve/category_12097938.html">自动驾驶感知算法实战专栏（源代码）</a></li> 
+  <li> 🔥🔥 <a href="https://blog.csdn.net/charmve/category_12097938.html">自动驾驶感知算法实战专栏（源代码）</a></li> 
   <li> 🔥 <a href="https://blog.csdn.net/charmve/category_9657673.html">机器学习算法分类讲解与Kaggle实战</a></li>
   <li> <a href="https://blog.csdn.net/charmve/category_10954850.html">《跨界模型 Transformer》专栏</a></li>
   <li> 🔥 <a href="https://blog.csdn.net/charmve/category_9577245.html"> 竞赛科创实录特辑 | 电子信息创新设计项目实践</a></li>
-  <li> <a href="https://blog.csdn.net/charmve/category_9622929.html"> 专栏：大厂后端/算法面经分类整理(字节+美团+华为+阿里等) </a></li>
+  <li> 🔥🔥<a href="https://blog.csdn.net/charmve/category_9622929.html"> 专栏：大厂后端/算法面经分类整理(字节+美团+华为+阿里等) </a></li>
   </td>
   <td>
-  <li> 🔥 <a href="https://blog.csdn.net/charmve/category_10595130.html"> 计算机视觉实战专栏 | 练手项目，开放源码 </a></li>
+  <li> 🔥🔥🔥 <a href="https://blog.csdn.net/charmve/category_10595130.html"> 计算机视觉实战专栏 | 练手项目，开放源码 </a></li>
   <li> <a href="https://blog.csdn.net/charmve/category_9754344.html"> 人脸表情识别(FER)原理及项目实战 </a></li>
   <li> <a href="https://blog.csdn.net/charmve/category_10101246.html"> 专栏：<b>硬件加速</b>/<b>模型压缩量化部署</b>/边缘计算研究 </a></li>
   <li> 🔥 <a href="https://blog.csdn.net/charmve/category_11934776.html"> 专题：自动驾驶中的深度学习模型量化、部署、加速实战 </a></li>
@@ -622,7 +622,11 @@ The following content is automatically updated by an automation script.
     </div>
 </div>
 
-📘 Latest Blog Posts
+### 📘 Latest Blog Posts
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
+</a>
 
 <sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 ）</sup>
 
@@ -639,10 +643,6 @@ The following content is automatically updated by an automation script.
 - [自动驾驶感知算法实战12——BEV 基于图像/Lidar/多模态数据的3D检测与分割任务](https://blog.csdn.net/Charmve/article/details/127991639)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
-</a>
-
 <table>
     <tbody>
         <tr> 
@@ -652,20 +652,19 @@ The following content is automatically updated by an automation script.
         </tr>
         <tr> 
             <td valign="top" width="50%"> 
-                Recent Blog
-                <!-- START_SECTION:blog -->
-* <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05
-* <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02
-* <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23
-* <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11
-* <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04
-<!-- END_SECTION:blog --> 
+               <h4> Recent Blog</h4>
+               <!-- START_SECTION:blog -->
+                * <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05
+                * <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02
+                * <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23
+                * <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11
+                * <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04
+               <!-- END_SECTION:blog --> 
             </td> 
             <td valign="top" width=50%"> 
-                <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a>
-                <!-- START_SECTION:douban -->
-
-<!-- END_SECTION:douban --> 
+                <h4><a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a></h4>
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
             </td>
         </tr> 
     </tbody> 
