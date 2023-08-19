@@ -1,9 +1,16 @@
 name: Latest blog post workflow
 
 on: 
+  watch:
+    types: started
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
   repository_dispatch: 
     types: [special_repository]
   workflow_dispatch:
+
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
@@ -15,8 +22,9 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://shenxianpeng.github.io/atom.xml"
+          feed_list: "https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://blog.csdn.net/Charmve/rss/list?spm=1001.2014.3001.5494,https://charmve.github.io,https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve"
           max_post_count: 10
           date_format: mmm d, yyyy
