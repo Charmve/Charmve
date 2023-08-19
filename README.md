@@ -637,7 +637,7 @@ The following content is automatically updated by an automation script.
     <tbody>
         <tr> 
             <td valign="top" colspan="2" rowspan="1">
-                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" style="max-width: 100%; vertical-align: bottom;"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" style="max-width: 100%; vertical-align: bottom;"/> CSDN</a> &emsp; <a href="" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" style="max-width: 100%; vertical-align: bottom;"/> 微信公众号</a>
+                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" align="center" valign="center"/> 微信公众号</a>
             </td>
         </tr>
         <tr> 
@@ -647,7 +647,7 @@ The following content is automatically updated by an automation script.
                 <!-- END_SECTION:blog --> 
             </td> 
             <td valign="top" width=50%"> 
-                <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" style="vertical-align: bottom;"/>Medium</a>
+                <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a>
                 <!-- START_SECTION:douban --> 
                 <!-- END_SECTION:douban --> 
             </td>
@@ -655,7 +655,7 @@ The following content is automatically updated by an automation script.
     </tbody> 
 </table>
 
-**:octocat: Idols**
+**:octocat: Idols <sup><i>respect!</i></sup>**
 
 <div align="center">
 <!--
