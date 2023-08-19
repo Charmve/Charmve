@@ -653,13 +653,19 @@ The following content is automatically updated by an automation script.
         <tr> 
             <td valign="top" width="50%"> 
                 Recent Blog
-                <!-- START_SECTION:blog --> 
-                <!-- END_SECTION:blog --> 
+                <!-- START_SECTION:blog -->
+* <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05
+* <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02
+* <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23
+* <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11
+* <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04
+<!-- END_SECTION:blog --> 
             </td> 
             <td valign="top" width=50%"> 
                 <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a>
-                <!-- START_SECTION:douban --> 
-                <!-- END_SECTION:douban --> 
+                <!-- START_SECTION:douban -->
+
+<!-- END_SECTION:douban --> 
             </td>
         </tr> 
     </tbody> 
