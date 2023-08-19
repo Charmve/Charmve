@@ -627,6 +627,16 @@ The following content is automatically updated by an automation script.
 <sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 ）</sup>
 
 <!-- BLOG-POST-LIST:START -->
+- [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
+- [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
+- [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
+- [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
+- [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)
+- [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)
+- [自动驾驶感知算法实战16——激光雷达点云处理原理与实战](https://blog.csdn.net/Charmve/article/details/128147654)
+- [自动驾驶感知算法实战6——目标分类详解（ResNet、VGG、GoogLeNet等）](https://blog.csdn.net/Charmve/article/details/127989572)
+- [自动驾驶感知算法实战13——自动驾驶感知未来发展方向分享](https://blog.csdn.net/Charmve/article/details/128028697)
+- [自动驾驶感知算法实战12——BEV 基于图像/Lidar/多模态数据的3D检测与分割任务](https://blog.csdn.net/Charmve/article/details/127991639)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/kittinan/spotify-github-profile">
