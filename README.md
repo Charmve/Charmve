@@ -464,6 +464,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sun0225SUN">
+        <img src="https://avatars2.githubusercontent.com/u/79169717" width="42.4px;" alt="sun0225SUN"/>
+      </a>
+      <br />
+      <a href="https://github.com/sun0225SUN">小孙同学</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wanttobeno">
         <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
       </a>
@@ -498,6 +505,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/deepkolos">
         <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
@@ -505,8 +514,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/district10">
         <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
@@ -555,13 +562,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/Koras02">kobiad_ros</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
-      </a>
-      <br />
-      <a href="https://github.com/likyoo">李开宇</a>
     </td>
   </tr>
 </table>
