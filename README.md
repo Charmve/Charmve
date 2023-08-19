@@ -7,7 +7,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
-
 <!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
@@ -24,22 +23,34 @@
   
   ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
 
-
 <!--my introduction end -->
 
 <br>
 
+<!-- github stats
 <p align="center">
   <a href="https://github.com/Charmve" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    --
+  </a>
+</p>
+-->
+
+<p align="center">
+  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="JackHCC's Stats" >
     -->
   </a>
 </p>
 
-<!--  media account   
+<!--  media account 
 <div align="center">
+  <a href="https://www.zhihu.com/people/MaiweiE-com" style="text-decoration:none;">
+    <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="3%" alt="" /></a>
   <a href="https://charmve.medium.com/" style="text-decoration:none;">
     <img src="https://user-images.githubusercontent.com/25839884/219255827-67c1a27f-f8c5-46a9-811d-5e57448c61d1.png" width="3%" alt="" /></a>
   <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
@@ -55,10 +66,8 @@
   <a href="https://space.bilibili.com/62079686" style="text-decoration:none;">
     <img src="https://user-images.githubusercontent.com/25839884/219026751-d7d14cce-a7c9-4e82-9942-8375fca65b99.png" width="3%" alt="" /></a>
   <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://www.zhihu.com/people/MaiweiE-com" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="3%" alt="" /></a>
 </div>
---->
+ --->
 
 <p align="center">
   <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
@@ -455,13 +464,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sun0225SUN">
-        <img src="https://avatars2.githubusercontent.com/u/79169717" width="42.4px;" alt="sun0225SUN"/>
-      </a>
-      <br />
-      <a href="https://github.com/sun0225SUN">小孙同学</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wanttobeno">
         <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
       </a>
@@ -496,8 +498,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/deepkolos">
         <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
@@ -505,6 +505,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/district10">
         <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
@@ -554,6 +556,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/Koras02">kobiad_ros</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/likyoo">
+        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
+      </a>
+      <br />
+      <a href="https://github.com/likyoo">李开宇</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
@@ -588,9 +597,6 @@ The following content is automatically updated by an automation script.
 
  :performing_arts: Leave a message to me? --> https://github.com/Charmve/Charmve/issues
 
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
-<!-- ![bili-card](https://bilibili-readme-stats.vercel.app/api?id=62079686&card=default) -->
-
 ---
 
 [ContactMe]:https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
@@ -616,6 +622,70 @@ The following content is automatically updated by an automation script.
     </div>
 </div>
 
+📘 Latest Blog Posts
+
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 ）</sup>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
+</a>
+
+<table>
+    <tbody>
+        <tr> 
+            <td valign="top" colspan="2" rowspan="1">
+                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" style="max-width: 100%; vertical-align: bottom;"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" style="max-width: 100%; vertical-align: bottom;"/> CSDN</a> &emsp; <a href="" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" style="max-width: 100%; vertical-align: bottom;"/> 微信公众号</a>
+            </td>
+        </tr>
+        <tr> 
+            <td valign="top" width="50%"> 
+                Recent Blog
+                <!-- START_SECTION:blog --> 
+                <!-- END_SECTION:blog --> 
+            </td> 
+            <td valign="top" width=50%"> 
+                <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" style="vertical-align: bottom;"/>Medium</a>
+                <!-- START_SECTION:douban --> 
+                <!-- END_SECTION:douban --> 
+            </td>
+        </tr> 
+    </tbody> 
+</table>
+
+**:octocat: Idols**
+
+<div align="center">
+<!--
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+  <a href="https://stackoverflow.com/users/8317261/charmve" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8317261" height="300" alt="Charmve StackOverflow" style="vertical-align:bottom;"/>
+  </a> -->
+</div>
+
+<div id="idols">
+  <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://camo.githubusercontent.com/cb666029311a3194da1c43912946b170634fc77c007ad8b55449eb13fa5db29c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f73746576656e2e706e67" width="88" alt="steven"/>
+  </a>
+  <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/703702d3-6bc6-47bd-88af-a308667052f8" width="88" alt="奥巴马"/>
+  </a>
+  <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/07a46f22-2db7-48f0-8843-80c8ec7b6ae3" width="88" alt="马斯克"/>
+  </a>
+  <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/04d0f7f5-1d0a-49e1-81e2-25adadda1861" width="88" alt="何凯明"/>
+  </a>
+  <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/376e0e22-baee-47ee-a200-b70bb252c400" width="88" alt="陶哲轩"/>
+  </a>
+</div>
+
+<!-- https://github.com/sun0225SUN/sun0225SUN/blob/main/.github/workflows/metrics.yml -->
+
+<br>
 
 🚧 **My Todoist Stats: ⬇️**
 
