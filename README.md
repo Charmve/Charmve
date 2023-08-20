@@ -631,16 +631,13 @@ The following content is automatically updated by an automation script.
 <sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 🕦 `2023-08-19 23:45:33`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
-- [git怎么撤销合并?](http://www.zhihu.com/question/617544270?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3169600970)
-- [一个人能做出什么开源项目？](http://www.zhihu.com/question/47684138?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3159252230)
-- [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](http://www.zhihu.com/question/608671199?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3091470106)
-- [如何成为一名合格的自动驾驶感知算法工程师？](http://www.zhihu.com/question/549032734?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3061087439)
-- [我每天都看基金涨跌，只要跌了我就买入，坚持下去会赚钱吗？](http://www.zhihu.com/question/264787755?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043503943)
-- [有没有免费的比较好的基金筛选工具？](http://www.zhihu.com/question/443740931?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043502063)
-- [股票、基金买卖有哪些好用的软件？](http://www.zhihu.com/question/437665688?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043482725)
-- [量化交易都有哪些主要的策略模型？](http://www.zhihu.com/question/24179101?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043309819)
-- [据说高手们能稳定盈利的交易系统很简单，大道至简，所以到底有多简单？](http://www.zhihu.com/question/538106887?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3040357893)
-- [个人做量化交易靠谱吗？](http://www.zhihu.com/question/329206671?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3037122067)
+- [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
+- [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
+- [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
+- [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
+- [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)
+- [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)
+- [自动驾驶感知算法实战16——激光雷达点云处理原理与实战](https://blog.csdn.net/Charmve/article/details/128147654)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
