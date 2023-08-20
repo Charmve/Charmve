@@ -628,7 +628,7 @@ The following content is automatically updated by an automation script.
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
 </a>
 
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 🕐 `2023-08-19 23:45:33`）</sup>
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock730 `2023-08-20 19:37:18`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - 🥳 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
@@ -675,6 +675,9 @@ The following content is automatically updated by an automation script.
 <li> <a href='https://distill.pub/2021/gnn-intro' target='_blank'>A Gentle Introduction to Graph Neural Networks</a> - 2021-09-02 08:00:00 PM </li>
 <li> <a href='https://distill.pub/2021/distill-hiatus' target='_blank'>Distill Hiatus</a> - 2021-07-02 08:00:00 PM </li>
 <li> <a href='https://distill.pub/selforg/2021/adversarial' target='_blank'>Adversarial Reprogramming of Neural Cellular Automata</a> - 2021-05-06 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2020/circuits/weight-banding' target='_blank'>Weight Banding</a> - 2021-04-08 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2020/circuits/branch-specialization' target='_blank'>Branch Specialization</a> - 2021-04-05 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2021/multimodal-neurons' target='_blank'>Multimodal Neurons in Artificial Neural Networks</a> - 2021-03-04 08:00:00 PM </li>
 <!-- END_SECTION:brain -->
 
 <!-- START_SECTION:douban -->
