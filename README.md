@@ -643,31 +643,39 @@ The following content is automatically updated by an automation script.
 - [个人做量化交易靠谱吗？](http://www.zhihu.com/question/329206671?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3037122067)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- ZHIHU-POST-LIST:START -->
+<!-- ZHIHU-POST-LIST:END -->
+
 <table>
     <tbody>
         <tr> 
             <td valign="top" colspan="2" rowspan="1">
-                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="https://charmve.github.io/img/contact-card.png" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" align="center" valign="center"/> 微信公众号</a> &emsp;
+                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="https://charmve.github.io/img/contact-card.png" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" align="center" valign="center"/> 微信公众号</a> &emsp; <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a> &emsp;
             </td>
         </tr>
         <tr> 
             <td valign="top" width="50%"> 
-               <h4><a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a></h4>
-               <!-- START_SECTION:blog -->
-                <li> <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05 </li>
-                <li> <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02 </li>
-                <li> <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23 </li>
-                <li> <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11 </li>
-                <li> <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04 </li>
-               <!-- END_SECTION:blog --> 
-            </td> 
+
+#### 🤹‍♀️ <a href="https://medium.com/@charmve" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+* <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05
+* <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02
+* <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23
+* <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11
+* <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04
+<!-- END_SECTION:blog -->
+</td>
             <td valign="top" width=50%"> 
-                 <h4> Recommended Blog </h4>
+
+#### 🤠 <a href="" target="_blank">Recommended Blog</a>
+
 <!-- START_SECTION:brain -->
 <!-- END_SECTION:brain -->
+
 <!-- START_SECTION:douban -->
 <!-- END_SECTION:douban -->
-            </td>
+</td>
         </tr> 
     </tbody> 
 </table>
