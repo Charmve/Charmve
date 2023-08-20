@@ -640,12 +640,11 @@ The following content is automatically updated by an automation script.
 - 🤡 [自动驾驶感知算法实战16——激光雷达点云处理原理与实战](https://blog.csdn.net/Charmve/article/details/128147654)<!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
-- [git怎么撤销合并?](http://www.zhihu.com/question/617544270?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3169600970)
-- [一个人能做出什么开源项目？](http://www.zhihu.com/question/47684138?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3159252230)
-- [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](http://www.zhihu.com/question/608671199?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3091470106)
-- [如何成为一名合格的自动驾驶感知算法工程师？](http://www.zhihu.com/question/549032734?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3061087439)
-- [我每天都看基金涨跌，只要跌了我就买入，坚持下去会赚钱吗？](http://www.zhihu.com/question/264787755?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043503943)
-<!-- ZHIHU-POST-LIST:END -->
+- 🥳 [git怎么撤销合并?](http://www.zhihu.com/question/617544270?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3169600970) | Aug 17, 2023
+- 🙉 [一个人能做出什么开源项目？](http://www.zhihu.com/question/47684138?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3159252230) | Aug 10, 2023
+- 🤩 [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](http://www.zhihu.com/question/608671199?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3091470106) | Jun 26, 2023
+- 🪄 [如何成为一名合格的自动驾驶感知算法工程师？](http://www.zhihu.com/question/549032734?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3061087439) | Jun 6, 2023
+- 🕴 [我每天都看基金涨跌，只要跌了我就买入，坚持下去会赚钱吗？](http://www.zhihu.com/question/264787755?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043503943) | May 25, 2023<!-- ZHIHU-POST-LIST:END -->
 
 <table>
     <tbody>
