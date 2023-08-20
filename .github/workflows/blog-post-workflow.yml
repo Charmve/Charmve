@@ -26,6 +26,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.csdn.net/Charmve/rss/list?spm=1001.2014.3001.5494" # https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url)"
           max_post_count: 7
           date_format: mmm d, yyyy
   
@@ -43,5 +44,6 @@ jobs:
         with:
           feed_list: "https://www.zhihu.com/rss/people/MaiweiE-com" # https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve
           comment_tag_name: "ZHIHU-POST-LIST"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date"
           max_post_count: 5
           date_format: mmm d, yyyy
