@@ -641,6 +641,11 @@ The following content is automatically updated by an automation script.
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
+- [git怎么撤销合并?](http://www.zhihu.com/question/617544270?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3169600970)
+- [一个人能做出什么开源项目？](http://www.zhihu.com/question/47684138?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3159252230)
+- [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](http://www.zhihu.com/question/608671199?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3091470106)
+- [如何成为一名合格的自动驾驶感知算法工程师？](http://www.zhihu.com/question/549032734?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3061087439)
+- [我每天都看基金涨跌，只要跌了我就买入，坚持下去会赚钱吗？](http://www.zhihu.com/question/264787755?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043503943)
 <!-- ZHIHU-POST-LIST:END -->
 
 <table>
