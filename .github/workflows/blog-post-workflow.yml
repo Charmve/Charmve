@@ -25,7 +25,7 @@ jobs:
       - name: Pull csdn blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.csdn.net/Charmve/rss/list?spm=1001.2014.3001.5494,https://www.zhihu.com/rss/people/MaiweiE-com" # https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve
+          feed_list: "https://blog.csdn.net/Charmve/rss/list?spm=1001.2014.3001.5494" # https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve
           max_post_count: 7
           date_format: mmm d, yyyy
   
