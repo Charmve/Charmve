@@ -659,11 +659,11 @@ The following content is automatically updated by an automation script.
 #### 🤹‍♀️ <a href="https://medium.com/@charmve" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05
-* <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02
-* <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23
-* <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11
-* <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04
+<li> <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05 04:06:37 AM </li>
+<li> <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02 09:38:07 AM </li>
+<li> <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23 06:41:16 AM </li>
+<li> <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11 03:22:34 AM </li>
+<li> <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04 03:35:30 AM </li>
 <!-- END_SECTION:blog -->
 </td>
             <td valign="top" width=50%"> 
@@ -671,9 +671,17 @@ The following content is automatically updated by an automation script.
 #### 🤠 <a href="" target="_blank">Recommended Blog</a>
 
 <!-- START_SECTION:brain -->
+<li> <a href='https://distill.pub/2021/understanding-gnns' target='_blank'>Understanding Convolutions on Graphs</a> - 2021-09-02 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2021/gnn-intro' target='_blank'>A Gentle Introduction to Graph Neural Networks</a> - 2021-09-02 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2021/distill-hiatus' target='_blank'>Distill Hiatus</a> - 2021-07-02 08:00:00 PM </li>
+<li> <a href='https://distill.pub/selforg/2021/adversarial' target='_blank'>Adversarial Reprogramming of Neural Cellular Automata</a> - 2021-05-06 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2020/circuits/weight-banding' target='_blank'>Weight Banding</a> - 2021-04-08 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2020/circuits/branch-specialization' target='_blank'>Branch Specialization</a> - 2021-04-05 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2021/multimodal-neurons' target='_blank'>Multimodal Neurons in Artificial Neural Networks</a> - 2021-03-04 08:00:00 PM </li>
 <!-- END_SECTION:brain -->
 
 <!-- START_SECTION:douban -->
+
 <!-- END_SECTION:douban -->
 </td>
         </tr> 
