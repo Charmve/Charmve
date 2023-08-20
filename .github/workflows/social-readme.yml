@@ -11,7 +11,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/Social-Readme@main
+      - uses: Charmve/Social-Readme@main
         with:
           brain_rss_link: https://distill.pub/rss.xml
           brain_limit: 7
