@@ -628,41 +628,43 @@ The following content is automatically updated by an automation script.
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
 </a>
 
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 ）</sup>
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 🕦 `2023-08-19 23:45:33`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
-- [git怎么撤销合并?](http://www.zhihu.com/question/617544270?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3169600970)
-- [一个人能做出什么开源项目？](http://www.zhihu.com/question/47684138?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3159252230)
-- [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](http://www.zhihu.com/question/608671199?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3091470106)
-- [如何成为一名合格的自动驾驶感知算法工程师？](http://www.zhihu.com/question/549032734?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3061087439)
-- [我每天都看基金涨跌，只要跌了我就买入，坚持下去会赚钱吗？](http://www.zhihu.com/question/264787755?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043503943)
-- [有没有免费的比较好的基金筛选工具？](http://www.zhihu.com/question/443740931?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043502063)
-- [股票、基金买卖有哪些好用的软件？](http://www.zhihu.com/question/437665688?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043482725)
-- [量化交易都有哪些主要的策略模型？](http://www.zhihu.com/question/24179101?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3043309819)
-- [据说高手们能稳定盈利的交易系统很简单，大道至简，所以到底有多简单？](http://www.zhihu.com/question/538106887?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3040357893)
-- [个人做量化交易靠谱吗？](http://www.zhihu.com/question/329206671?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3037122067)
+- [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
+- [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
+- [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
+- [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
+- [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)
+- [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)
+- [自动驾驶感知算法实战16——激光雷达点云处理原理与实战](https://blog.csdn.net/Charmve/article/details/128147654)
+- [自动驾驶感知算法实战6——目标分类详解（ResNet、VGG、GoogLeNet等）](https://blog.csdn.net/Charmve/article/details/127989572)
+- [自动驾驶感知算法实战13——自动驾驶感知未来发展方向分享](https://blog.csdn.net/Charmve/article/details/128028697)
+- [自动驾驶感知算法实战12——BEV 基于图像/Lidar/多模态数据的3D检测与分割任务](https://blog.csdn.net/Charmve/article/details/127991639)
 <!-- BLOG-POST-LIST:END -->
 
 <table>
     <tbody>
         <tr> 
             <td valign="top" colspan="2" rowspan="1">
-                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" align="center" valign="center"/> 微信公众号</a>
+                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="https://charmve.github.io/img/contact-card.png" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" align="center" valign="center"/> 微信公众号</a> &emsp;
             </td>
         </tr>
         <tr> 
             <td valign="top" width="50%"> 
-               <h4> Recent Blog</h4>
+               <h4><a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a></h4>
                <!-- START_SECTION:blog -->
-                * <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05
-                * <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02
-                * <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23
-                * <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11
-                * <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04
+                <li> <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05 </li>
+                <li> <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02 </li>
+                <li> <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23 </li>
+                <li> <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11 </li>
+                <li> <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04 </li>
                <!-- END_SECTION:blog --> 
             </td> 
             <td valign="top" width=50%"> 
-                <h4><a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a></h4>
+                 <h4> Recommended Blog </h4>
+<!-- START_SECTION:brain -->
+<!-- END_SECTION:brain -->
 <!-- START_SECTION:douban -->
 <!-- END_SECTION:douban -->
             </td>
