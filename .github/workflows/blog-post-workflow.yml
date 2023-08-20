@@ -13,7 +13,7 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-csdn:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
@@ -22,9 +22,26 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-      - name: Pull blog posts
+      - name: Pull csdn blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://blog.csdn.net/Charmve/rss/list?spm=1001.2014.3001.5494,https://www.zhihu.com/rss/people/MaiweiE-com,https://charmve.github.io" # https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve
-          max_post_count: 10
+          feed_list: "https://blog.csdn.net/Charmve/rss/list?spm=1001.2014.3001.5494,https://www.zhihu.com/rss/people/MaiweiE-com" # https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve
+          max_post_count: 7
+          date_format: mmm d, yyyy
+  
+  update-readme-with-zhihu:
+    name: Update this repo's README with latest zhihu posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "git config"
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - name: Pull zhihu posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.zhihu.com/rss/people/MaiweiE-com" # https://rss.lilydjwg.me/zhihu/MaiweiE-com,https://charmve.github.io/feed.xml,https://charmve.github.io/atom.xml,https://dev.to/feed/charmve
+          comment_tag_name: "ZHIHU-POST-LIST"
+          max_post_count: 5
           date_format: mmm d, yyyy
