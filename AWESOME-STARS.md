@@ -295,6 +295,7 @@
 ## Python 
 
 - [Charmve/Charmve](https://github.com/Charmve/Charmve) - 🤡  About Me.
+- [Charmve/Social-Readme](https://github.com/Charmve/Social-Readme) - 
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nladuo/THSTrader](https://github.com/nladuo/THSTrader) - 量化交易工具。同花顺手机版模拟炒股python API，基于uiautomator2和图色方法实现。【可自行扩展到实盘】
