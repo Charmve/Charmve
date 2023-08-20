@@ -675,9 +675,6 @@ The following content is automatically updated by an automation script.
 <li> <a href='https://distill.pub/2021/gnn-intro' target='_blank'>A Gentle Introduction to Graph Neural Networks</a> - 2021-09-02 08:00:00 PM </li>
 <li> <a href='https://distill.pub/2021/distill-hiatus' target='_blank'>Distill Hiatus</a> - 2021-07-02 08:00:00 PM </li>
 <li> <a href='https://distill.pub/selforg/2021/adversarial' target='_blank'>Adversarial Reprogramming of Neural Cellular Automata</a> - 2021-05-06 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2020/circuits/weight-banding' target='_blank'>Weight Banding</a> - 2021-04-08 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2020/circuits/branch-specialization' target='_blank'>Branch Specialization</a> - 2021-04-05 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2021/multimodal-neurons' target='_blank'>Multimodal Neurons in Artificial Neural Networks</a> - 2021-03-04 08:00:00 PM </li>
 <!-- END_SECTION:brain -->
 
 <!-- START_SECTION:douban -->
