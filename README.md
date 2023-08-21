@@ -559,11 +559,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/eggfly">eggfly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Koras02">
-        <img src="https://avatars2.githubusercontent.com/u/67436032" width="42.4px;" alt="Koras02"/>
+      <a href="https://github.com/daviddwlee84">
+        <img src="https://avatars2.githubusercontent.com/u/1515662" width="42.4px;" alt="daviddwlee84"/>
       </a>
       <br />
-      <a href="https://github.com/Koras02">kobiad_ros</a>
+      <a href="https://github.com/daviddwlee84">David Lee</a>
     </td>
   </tr>
 </table>
