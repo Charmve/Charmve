@@ -19,9 +19,11 @@
 - 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
 
 ---
-</details>
+
   
   ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
+
+</details>
 
 <!--my introduction end -->
 
