@@ -650,7 +650,7 @@ The following content is automatically updated by an automation script.
     <tbody>
         <tr> 
             <td valign="top" colspan="2" rowspan="1">
-                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="https://charmve.github.io/img/contact-card.png" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/91f3fada-8549-40ab-a446-562bed9a046f" width="24.4px;" align="center" valign="center"/> 微信公众号</a> &emsp; <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github.com/Charmve/Charmve/assets/29084184/a65ac216-fdd8-4199-990b-467c249ac3e3" width="24.4px;" align="center" valign="center"/> Medium</a> &emsp;
+                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" style="border-radius:8px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="https://charmve.github.io/img/contact-card.png" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29084184/261807178-91f3fada-8549-40ab-a446-562bed9a046f.png" width="24.4px;" align="center" valign="center"/> 微信公众号</a> &emsp; <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29084184/261806656-a65ac216-fdd8-4199-990b-467c249ac3e3.png" width="24.4px;" align="center" valign="center"/> Medium</a> &emsp;
             </td>
         </tr>
         <tr> 
@@ -703,16 +703,16 @@ The following content is automatically updated by an automation script.
     <img src="https://camo.githubusercontent.com/cb666029311a3194da1c43912946b170634fc77c007ad8b55449eb13fa5db29c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f73746576656e2e706e67" width="88" alt="steven"/>
   </a>
   <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://github.com/Charmve/Charmve/assets/29084184/703702d3-6bc6-47bd-88af-a308667052f8" width="88" alt="奥巴马"/>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/703702d3-6bc6-47bd-88af-a308667052f8" style="border-radius: 8px;" width="88" alt="奥巴马"/>
   </a>
   <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://github.com/Charmve/Charmve/assets/29084184/07a46f22-2db7-48f0-8843-80c8ec7b6ae3" width="88" alt="马斯克"/>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/07a46f22-2db7-48f0-8843-80c8ec7b6ae3" style="border-radius: 8px;" width="88" alt="马斯克"/>
   </a>
   <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://github.com/Charmve/Charmve/assets/29084184/04d0f7f5-1d0a-49e1-81e2-25adadda1861" width="88" alt="何凯明"/>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/04d0f7f5-1d0a-49e1-81e2-25adadda1861" style="border-radius: 8px;" width="88" alt="何凯明"/>
   </a>
   <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://github.com/Charmve/Charmve/assets/29084184/376e0e22-baee-47ee-a200-b70bb252c400" width="88" alt="陶哲轩"/>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/376e0e22-baee-47ee-a200-b70bb252c400" style="border-radius: 8px;" width="88" alt="陶哲轩"/>
   </a>
 </div>
 
