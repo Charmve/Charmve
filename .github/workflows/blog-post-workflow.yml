@@ -4,7 +4,7 @@ on:
   watch:
     types: started
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 16 * * *'
   repository_dispatch: 
     types: [special_repository]
   workflow_dispatch:
