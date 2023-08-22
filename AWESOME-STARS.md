@@ -294,6 +294,7 @@
 
 ## Python 
 
+- [easezyc/WSDM2022-PTUPCDR](https://github.com/easezyc/WSDM2022-PTUPCDR) - This is the official implementation of our paper Personalized Transfer of User Preferences for Cross-domain Recommendation (PTUPCDR), which has been accepted by WSDM2022.
 - [Charmve/Charmve](https://github.com/Charmve/Charmve) - 🤡  About Me.
 - [Charmve/Social-Readme](https://github.com/Charmve/Social-Readme) - 
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
