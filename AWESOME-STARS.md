@@ -38,6 +38,7 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
@@ -165,6 +166,7 @@
 
 ## JavaScript 
 
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [Exrick/xmall-weapp](https://github.com/Exrick/xmall-weapp) - 终于开源！XMall商城微信小程序前端 共计20多个页面 页面联动 精美细节 含SKU设计
 - [opendreamnet/dreamtime](https://github.com/opendreamnet/dreamtime) - Use artificial intelligence to create fake nudes.
@@ -578,6 +580,7 @@
 
 ## TypeScript 
 
+- [lxfriday/ChatVRM-cn](https://github.com/lxfriday/ChatVRM-cn) - See demo at
 - [trindadematheus/future-store](https://github.com/trindadematheus/future-store) - 👜 Next-gen e-commerce built with Remix, Chakra UI, GraphQL and web3
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
