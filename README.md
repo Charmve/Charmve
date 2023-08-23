@@ -317,12 +317,6 @@ These columns are automatically updated by github action.
   </td>
 </tr>
 
-<!-- <tr>
-    <td colspan="2" rowspan="1" align="left" class="ai-notebooks-table-points ai-orange-link">
-      <a href="https://charmve.blog.csdn.net" target="_blank"> >> Read more ✨✨ </a>
-    </td>
-</tr> -->
-
 <!--START_SECTION:subscribe my blog-->
 <tr>
     <a href="https://charmve.github.io/sponsor.html">
@@ -630,7 +624,7 @@ The following content is automatically updated by an automation script.
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
 </a>
 
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1230 `2023-08-24 00:20:38`）</sup>
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock11 `2023-08-23 10:54:15`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - 🥳 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
@@ -690,15 +684,40 @@ The following content is automatically updated by an automation script.
     </tbody> 
 </table>
 
-**:octocat: Idols <sup><i>respect!</i></sup>**
+<table>
+  <tr>
+    <td align="center">
+      <details open><summary>Worldmap</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img width="900" height="1" alt="">
+      <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
+<!--       <details><summary>GitHub City</summary><a href="https://honzaap.github.io/GithubCity/?name=Charmve&year=2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></a></details> -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="1" align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="4" align="center" width="42%">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg" alt=""></img>
+    </td>
+    <td align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img>
+    </td>
+  <tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsorships.svg" alt=""></img>
+    </td>
+  </tr>
+  <tr>
+    <td>
 
-<div align="center">
-<!--
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-  <a href="https://stackoverflow.com/users/8317261/charmve" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8317261" height="300" alt="Charmve StackOverflow" style="vertical-align:bottom;"/>
-  </a> -->
-</div>
+**:octocat: Idols <sup><i>respect!</i></sup>**
 
 <div id="idols">
   <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
@@ -717,8 +736,57 @@ The following content is automatically updated by an automation script.
     <img src="https://github.com/Charmve/Charmve/assets/29084184/376e0e22-baee-47ee-a200-b70bb252c400" style="border-radius: 8px;" width="88" alt="陶哲轩"/>
   </a>
 </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<!--
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+  <a href="https://stackoverflow.com/users/8317261/charmve" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8317261" height="300" alt="Charmve StackOverflow" style="vertical-align:bottom;"/>
+  </a> -->
+</div>
 
 <!-- https://github.com/sun0225SUN/sun0225SUN/blob/main/.github/workflows/metrics.yml -->
+
+<br>
+
+<!-- Belarus - My Home-->
+<!-- 
+{{< mapbox lng=121.485 lat=31.233 zoom=12 >}}
+-->
+<div align="right" midth="70%">
+
+```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [120.619585, 31.299379],
+             [120.6195857188, 31.2993792421],
+             [120.6195857399, 31.3093798078],
+             [121.4737, 31.2304],
+             [116.4074, 39.9042],
+             [114.1694, 22.3193]
+         ]
+       ]
+     }
+   }
+ ]
+}
+```
+
+</div>
 
 <br>
 
