@@ -553,11 +553,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/eggfly">eggfly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
+      <a href="https://github.com/daviddwlee84">
+        <img src="https://avatars2.githubusercontent.com/u/1515662" width="42.4px;" alt="daviddwlee84"/>
       </a>
       <br />
-      <a href="https://github.com/likyoo">李开宇</a>
+      <a href="https://github.com/daviddwlee84">David Lee</a>
     </td>
   </tr>
 </table>
@@ -688,10 +688,8 @@ The following content is automatically updated by an automation script.
   <tr>
     <td align="center">
       <details open><summary>Worldmap</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <img width="900" height="1" alt="">
       <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
 <!--       <details><summary>GitHub City</summary><a href="https://honzaap.github.io/GithubCity/?name=Charmve&year=2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></a></details> -->
     </td>
