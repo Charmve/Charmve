@@ -6,11 +6,12 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  github-activity:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: src/assert/metrics.plugin.activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Charmve
           config_timezone: Asia/Shanghai
@@ -20,7 +21,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.reactions.svg
+          filename: src/assert/metrics.plugin.reactions.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 100
@@ -31,8 +33,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.sponsorships.svg
-          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          filename: src/assert/metrics.plugin.sponsorships.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_sponsorships: yes
 
@@ -41,7 +43,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.tweets.svg
+          filename: src/assert/metrics.plugin.tweets.svg
           token: NOT_NEEDED
           base: ""
           plugin_tweets: yes
@@ -53,7 +55,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.skyline.svg
+          filename: src/assert/metrics.plugin.skyline.svg
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
@@ -66,7 +68,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.skyline.city.svg
+          filename: src/assert/metrics.plugin.skyline.city.svg
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
@@ -86,7 +88,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.city.svg
+          filename: src/assert/metrics.plugin.topics.city.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           plugin_topics: yes  # плагин ипсользуемых тем
           plugin_topics_limit: 0
           plugin_topics_mode: icons
