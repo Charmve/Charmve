@@ -88,8 +88,20 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: src/assert/metrics.plugin.topics.city.svg
+          filename: src/assert/metrics.plugin.topics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_topics: yes  # плагин ипсользуемых тем
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+  leetcode-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: src/assert/metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+  
