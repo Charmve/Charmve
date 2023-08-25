@@ -188,7 +188,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
                 </p>
                 <p>漫山岛 ManDAO</p>
                 <blockquote>
-                <p>漫，既是一种生活方式，更是一种生活态度！</p>
+                <p>漫，既是一种生活方式，更是一种生活态度！<br><sub>Geekdom is not only a way of life but also an attitude towards life! </sub></p>
                 </blockquote>
                 <p align="right">
                 Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;
@@ -219,7 +219,7 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
 [Docker]:https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker
 
 <table><tbody>
-<tr><th> Application Development & Embedded Systems </th><th> Machine Learning & Computer Vision </th></tr>
+<tr><th> Application Development </th><th> Machine Learning & Computer Vision </th></tr>
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
@@ -696,7 +696,7 @@ The following content is automatically updated by an automation script.
   </tr>
   <tr>
     <td colspan="2" rowspan="1" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
+      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.reactions.svg" alt=""></img>
     </td>
   </tr>
   <tr>
@@ -709,7 +709,7 @@ The following content is automatically updated by an automation script.
   <tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsorships.svg" alt=""></img>
+      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.sponsorships.svg" alt=""></img>
     </td>
   </tr>
   <tr>
