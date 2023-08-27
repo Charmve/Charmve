@@ -329,7 +329,10 @@ These columns are automatically updated by github action.
           <img align="center" src="https://user-images.githubusercontent.com/29084184/218117635-513e5a76-7a15-413a-ac5d-dc0d935ab95c.png" width="180" alt="subscribe" />
         </a>
         <a href="https://github.com/Charmve/Charmve/blob/master/src/assert/maiwei-club.JPG" class="rich-diff-level-one">
-          <img align="center" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" width="160" alt="subscribe" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" align="center" width="160" alt="community" srcset="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu2.png" />
+            <img align="center" width="160" alt="community" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" />
+          </picture>
         </a>
     </td>
 </tr>
