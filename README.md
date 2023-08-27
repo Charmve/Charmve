@@ -1,6 +1,11 @@
-<a href="https://github.com/Charmve/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a>
+<div>
+    <kbd valign="center">
+        <a href="https://github.com/Charmve/computer-vision-in-action">
+            <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+        </a>
+        <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">github action</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </kbd>
+</div>
 
 ## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
@@ -624,7 +629,7 @@ The following content is automatically updated by an automation script.
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
 </a>
 
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1230 `2023-08-27 00:41:36`）</sup>
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1230: `2023-08-27 00:41:36`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - 🥳 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
