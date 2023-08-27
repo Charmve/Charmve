@@ -1,5 +1,5 @@
 <div>
-    <kbd valign="center">
+    <kbd align="center" valign="center">
         <a href="https://github.com/Charmve/computer-vision-in-action">
             <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
         </a>
@@ -324,13 +324,14 @@ These columns are automatically updated by github action.
 
 <!--START_SECTION:subscribe my blog-->
 <tr>
-    <a href="https://charmve.github.io/sponsor.html">
     <td colspan="2" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://blog.csdn.net/charmve/category_10595130.html" class="rich-diff-level-one">
           <img align="center" src="https://user-images.githubusercontent.com/29084184/218117635-513e5a76-7a15-413a-ac5d-dc0d935ab95c.png" width="180" alt="subscribe" />
         </a>
+        <a href="https://github.com/Charmve/Charmve/blob/master/src/assert/maiwei-club.JPG" class="rich-diff-level-one">
+          <img align="center" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" width="160" alt="subscribe" />
+        </a>
     </td>
-    </a>
 </tr>
 <!--END_SECTION:subscribe my blog-->
 </tbody></table>
