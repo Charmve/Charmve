@@ -328,7 +328,7 @@ These columns are automatically updated by github action.
         <a href="https://blog.csdn.net/charmve/category_10595130.html" class="rich-diff-level-one">
           <img align="center" src="https://user-images.githubusercontent.com/29084184/218117635-513e5a76-7a15-413a-ac5d-dc0d935ab95c.png" width="180" alt="subscribe" />
         </a>
-        <a href="https://github.com/Charmve/Charmve/blob/master/src/assert/maiwei-club.JPG" class="rich-diff-level-one">
+        <a href="https://github.com/sponsors/Charmve" class="rich-diff-level-one">
           <picture>
             <source media="(prefers-color-scheme: dark)" align="center" width="160" alt="community" srcset="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu2.png" />
             <img align="center" width="160" alt="community" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" />
