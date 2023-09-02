@@ -7,9 +7,15 @@
     </kbd>
 </div>
 
-## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+我的网名是`Charmve` <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup> [真名：张伟(Zhang Wei)]，是一名软件开发工程师，先后任职于360、Momenta，对自动驾驶视觉感知、系统架构、软件开发有略微认识。同时，在量化交易也有多年研究和实践。目前，我主要关注在：端到端、大模型、自动驾驶、量化交易。
+
+个人主页：https://charmve.github.io
+
+希望跟大家一起多多交流，感兴趣的可以继续看下去。
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
 <!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
@@ -25,7 +31,6 @@
 
 ---
 
-  
   ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
 
 </details>
@@ -334,6 +339,7 @@ These columns are automatically updated by github action.
             <img align="center" width="160" alt="community" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" />
           </picture>
         </a>
+        <br>(点击加入我的知识星球🌍)
     </td>
 </tr>
 <!--END_SECTION:subscribe my blog-->
@@ -377,7 +383,7 @@ These columns are automatically updated by github action.
 </td></tr>
 </tbody></table>
 
-If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
+If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://github.com/sponsors/Charmve) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
 
 <!--START_SECTION:sponsors-->
 <a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> &emsp;&emsp; <a href='https://ko-fi.com/U7U427H25' target='_blank'><img height='42' style='border:10px;height:42.11px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -633,7 +639,7 @@ The following content is automatically updated by an automation script.
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
 </a>
 
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1230: `2023-09-03 00:18:37`）</sup>
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1230: `2023-09-02 00:20:51`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - 🥳 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
@@ -748,7 +754,7 @@ The following content is automatically updated by an automation script.
 </table>
 
 <div align="center">
-    <img src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" />
+    <img src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" width="468"/>
 <!--
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
   <a href="https://stackoverflow.com/users/8317261/charmve" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
@@ -801,5 +807,17 @@ The following content is automatically updated by an automation script.
 🚧 **My Todoist Stats: ⬇️**
 
 <!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![gpt-eyes](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=gpt-eyes)](https://github.com/Charmve/gpt-eyes) 
 -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Qbot](https://github-readme-stats.vercel.app/api/pin/?username=UFund-Me&repo=Qbot)](https://github.com/UFund-Me/Qbot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![gpt-eyes](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=gpt-eyes)](https://github.com/Charmve/gpt-eyes)  
+
+<div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/UFund-Me/Qbot#-community" class="rich-diff-level-one">
+       <picture>
+         <source media="(prefers-color-scheme: dark)" align="center" width="240" alt="community" srcset="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu2.png" />
+         <img align="center" width="240" alt="community" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" />
+       </picture>
+    </a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(点击加入我的知识星球 🌍)
+</div>
