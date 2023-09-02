@@ -748,6 +748,7 @@ The following content is automatically updated by an automation script.
 </table>
 
 <div align="center">
+    <img src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" />
 <!--
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
   <a href="https://stackoverflow.com/users/8317261/charmve" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
