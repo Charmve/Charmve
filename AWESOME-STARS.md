@@ -243,7 +243,7 @@
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [ISICV/ManTraNet](https://github.com/ISICV/ManTraNet) - ManTra-Net: Manipulation Tracing Network For Detection And Localization of Image Forgeries With Anomalous Features
 - [LarryJiang134/Image_manipulation_detection](https://github.com/LarryJiang134/Image_manipulation_detection) - Paper: CVPR2018, Learning Rich Features for Image Manipulation Detection
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [linzhiqiu/digital_chirality](https://github.com/linzhiqiu/digital_chirality) - Testing the chirality of digital imaging operations.
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
 - [awai54st/PYNQ-Classification](https://github.com/awai54st/PYNQ-Classification) - Python on Zynq FPGA for Convolutional Neural Networks
@@ -430,7 +430,7 @@
 - [makeuptransfer/SCGAN](https://github.com/makeuptransfer/SCGAN) - 
 - [xuhaocuhk/TilinGNN](https://github.com/xuhaocuhk/TilinGNN) - TilinGNN: Learning to Tile with Self-Supervised Graph Neural Network (SIGGRAPH 2020)
 - [RosettaCommons/RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) - This package contains deep learning models and related scripts for RoseTTAFold
-- [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [xyjigsaw/Knowledge-Graph-And-Visualization-Demo](https://github.com/xyjigsaw/Knowledge-Graph-And-Visualization-Demo) - There are 2D-Search and 3D-Graph-View for knowledge graph visualization.
 - [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Massively Parallel Deep Reinforcement Learning. 🔥
 - [Sujit-O/pykg2vec](https://github.com/Sujit-O/pykg2vec) - Python library for knowledge graph embedding and representation learning.
