@@ -554,6 +554,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/diggerdu">Sino Begonia(Xingjian. Du)</a>
     </td>
     <td align="center">
+      <a href="https://github.com/MaverickPeter">
+        <img src="https://avatars2.githubusercontent.com/u/22994599" width="42.4px;" alt="MaverickPeter"/>
+      </a>
+      <br />
+      <a href="https://github.com/MaverickPeter">Xuecheng Xu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/xsser">
         <img src="https://avatars2.githubusercontent.com/u/1850771" width="42.4px;" alt="xsser"/>
       </a>
@@ -566,13 +573,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/eggfly">eggfly</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
-      </a>
-      <br />
-      <a href="https://github.com/likyoo">李开宇</a>
     </td>
   </tr>
 </table>
