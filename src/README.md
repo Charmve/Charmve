@@ -16,13 +16,13 @@
     <tr align="center">
     <tr>
       <td width="36%">
-        <a href=""><img src="https://github.com/Charmve/Charmve/blob/master/src/assert/algrithom-group.JPG" title="算法刷题集训" alt="算法刷题集训"> </a>
+        <a href=""><img src="https://github.com/Charmve/Charmve/blob/master/src/assert/algrithom-group.jpg" title="算法刷题集训" alt="算法刷题集训"> </a>
       </td>
       <td>
-        <a href=""><img src="https://github.com/Charmve/Charmve/blob/master/src/assert/maiwei-club.JPG" title="迈微AI研习社-会员" alt="迈微AI研习社-会员"> </a>
+        <a href=""><img src="https://github.com/Charmve/Charmve/blob/master/src/assert/maiwei-club.jpg" title="迈微AI研习社-会员" alt="迈微AI研习社-会员"> </a>
       </td>
       <td>
-        <a href=""><img src="https://github.com/Charmve/Charmve/blob/master/src/assert/auto-driving.JPG" title="自动驾驶技术参考" alt="自动驾驶技术参考"> </a>
+        <a href=""><img src="https://github.com/Charmve/Charmve/blob/master/src/assert/auto-driving.jpg" title="自动驾驶技术参考" alt="自动驾驶技术参考"> </a>
       </td>
     </tr>
   </tbody>

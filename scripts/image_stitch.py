@@ -1,4 +1,7 @@
-# python3 image_stitch.py -d [图像合集目录] -i [待拼凑的图片] -s [小图最终的边长] -r
+# python image_stitch.py -d [图像合集目录] -i [待拼凑的图片] -s [小图最终的边长](30) -r
+# python scripts/image_stitch.py -d image/ -i image/chaoyue.jpeg -s 30 -r
+#
+# https://github.com/godweiyang/FunnyMedia
 # https://godweiyang.com/2022/04/22/funny-media/
 
 import argparse

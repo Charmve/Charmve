@@ -1,0 +1,30 @@
+## 🎉 End of Game 🎉
+
+Congratulations to the winner: ![]({{root}}/raw/master/assets/{{ color }}.png) @{{ winner }}
+
+Press the button to start a new game: [![Restart](https://img.shields.io/badge/New%20Game%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)]({{root}}/issues/new?title=gomoku%7Cnew&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+
+
+### The Last Game Field
+
+{% set upper_alpha = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
+| |{% for i in range(dimension) %}{{ upper_alpha[i] }}|{% endfor %}
+| - |{% for i in range(dimension) %} - |{% endfor %}
+{% for i in range(dimension)-%}
+| {{i + 1}} | {% for j in range(dimension)-%}
+{%-if field[i][j] == 1-%}
+    ![]({{root}}/raw/master/assets/black.png)
+{%-elif field[i][j] == 0-%}
+    ![]({{root}}/raw/master/assets/white.png)
+{%-else-%}
+    ![]({{root}}/raw/master/assets/blank.png)
+{%-endif %} |{% endfor %}
+{% endfor %}
+
+### Participants(Most recent first)
+
+| Team | Move | Made by |
+| ---- | ---- | ------- |
+{% for step in last_steps-%}
+| {{step.color}} | {{step.pos}} | @{{step.user}} |
+{% endfor %}

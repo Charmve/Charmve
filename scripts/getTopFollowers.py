@@ -1,5 +1,5 @@
 """
-   Copyright 2020-2022 Yufan You <https://github.com/Charmve>
+   Copyright 2020-2022 Charmve <https://github.com/Charmve>
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -18,6 +18,10 @@ import requests
 import json
 import sys
 import re
+import os
+os.makedirs('./src/image/', exist_ok=True)
+
+from urllib.request import urlretrieve
 
 if __name__ == "__main__":
     assert(len(sys.argv) == 4)
@@ -75,6 +79,7 @@ query {{
             id = follower["databaseId"]
             followerNumber = follower["followers"]["totalCount"]
             thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
+            urlretrieve("https://avatars2.githubusercontent.com/u/{id}", './src/image/img_{id}.png')
             if following > thirdStars * 50 + repoCount * 5 + followerNumber:
                 print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
                 continue

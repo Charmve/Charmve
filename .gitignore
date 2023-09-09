@@ -1,2 +1,4 @@
-.DS_Srore
+*.DS_Srore
+**/*.DS_Srore
 .vscode/
+src/image/

@@ -37,7 +37,8 @@ jobs:
   github-sponsorships:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 💝 GitHub Sponsorships
+        uses: lowlighter/metrics@latest
         with:
           filename: src/assert/metrics.plugin.sponsorships.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -64,44 +65,24 @@ jobs:
   tweets-feed:
     runs-on: ubuntu-latest
     steps:
-      - name: 📒 Markdown template - Example with plugins configuration for embed use
-        uses: lowlighter/metrics@master
+      - name: Latest tweets including attachments
+        uses: lowlighter/metrics@latest
         with:
-          template: markdown
-          filename: src/assert/metrics.markdown.full.md
-          markdown: >-
-            https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
-          config_output: markdown
-          plugin_activity: yes
-          plugin_activity_limit: 7
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
-          plugin_posts_limit: 2
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 4
+          filename: src/assert/metrics.plugin.tweets.attachments.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: github
           plugin_tweets_attachments: yes
+          plugin_tweets_user: github
           plugin_tweets_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 24
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output_action: commit
-          committer_branch: examples
-          delay: 120
-          user: lowlighter
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+        prod:
+          skip: true
+        test:
+          skip: true
       
-      - uses: lowlighter/metrics@latest
+      - name: 🐤 Latest tweets
+        uses: lowlighter/metrics@latest
         with:
           filename: src/assert/metrics.plugin.tweets.svg
           token: NOT_NEEDED
@@ -149,16 +130,27 @@ jobs:
       - name: 📌 Starred topics - Labels
         uses: lowlighter/metrics@master
         with:
-          filename: src/assert/metrics.plugin.topics.svg
+          filename: src/assert/metrics.plugin.topics1.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
           output_action: none
-          delay: 120
           user: lowlighter
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
+  
+  github-topics2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/assert/metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
 
   leetcode-progress:
     runs-on: ubuntu-latest
@@ -172,11 +164,10 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           output_action: none
-          delay: 120
           user: yida-zhang
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-  
+    
   stock-price-feeds:
     runs-on: ubuntu-latest
     steps:
@@ -190,7 +181,6 @@ jobs:
           plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_symbol: TSLA
           output_action: none
-          delay: 120
           user: lowlighter
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}

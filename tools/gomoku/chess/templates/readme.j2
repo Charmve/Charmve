@@ -1,0 +1,52 @@
+![](https://img.shields.io/badge/Total%20moves-{{total_moves}}-blue)
+![](https://img.shields.io/badge/Completed%20games-{{completed_games}}-brightgreen)
+![](https://img.shields.io/badge/Total%20players-{{total_players}}-orange)
+
+Everyone is welcome to participate! To make a move, click on the blank cell you wish to drop your piece in.
+
+{% if winner %}
+{% set winner_user = last_steps[0].user %}
+Winner: {{ winner|capitalize }}! ![](/assets/{{winner}}.png) ([@{{winner_user}}](https://github.com/{{winner_user}}))
+
+[![Restart](https://img.shields.io/badge/New%20Game%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)](https://github.com/{{repo}}/issues/new?title=gomoku%7Cnew&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+{% elif draw %}
+The game has lead to a tie, please start a new game.
+
+[![Restart](https://img.shields.io/badge/New%20Game%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)](https://github.com/{{repo}}/issues/new?title=gomoku%7Cnew&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+{% else %}
+It's the **{{color}}** team's turn to play. ![](/assets/{{color}}.png)
+
+[![Surrender](https://img.shields.io/badge/Surrender%20-%2348e3c9.svg?&style=for-the-badge&logoColor=white)](https://github.com/{{repo}}/issues/new?title=gomoku%7Csurrender&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+{% endif %}
+
+{% set upper_alpha = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
+| |{% for i in range(dimension) %}{{ upper_alpha[i] }}|{% endfor %}
+| - |{% for i in range(dimension) %} - |{% endfor %}
+{% for i in range(dimension)-%}
+| {{i + 1}} | {% for j in range(dimension)-%}
+{%-if field[i][j] == 1-%}
+    ![](/assets/black.png)
+{%-elif field[i][j] == 0-%}
+    ![](/assets/white.png)
+{%-else-%}
+    {%-if winner-%}
+    ![](/assets/blank.png)
+    {%-else-%}
+    [![](/assets/blank.png)](https://github.com/{{repo}}/issues/new?title=gomoku%7Cdrop%7C{{ color }}%7C{{upper_alpha[j]}}{{i + 1}}&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+    {%-endif-%}
+{%-endif %} |{% endfor %}
+{% endfor %}
+
+**:alarm_clock: Most recent moves**
+| Team | Move | Made by |
+| ---- | ---- | ------- |
+{% for step in last_steps[:5]-%}
+| {{step.color}} | {{step.pos}} | [@{{step.user}}](https://github.com/{{step.user}}) |
+{% endfor %}
+
+**:trophy: Hall of Fame: Top 10 players with the most game winning moves :1st_place_medal:**
+| Player | Wins |
+| ------ | -----|
+{% for player, wins in top_wins-%}
+| [@{{player}}](https://github.com/{{player}}) | {{ wins }} |
+{% endfor %}

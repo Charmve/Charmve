@@ -7,15 +7,15 @@
     </kbd>
 </div>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
+<h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
 
-我的网名是`Charmve` <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup> [真名：张伟(Zhang Wei)]，是一名软件开发工程师，先后任职于360、Momenta，对自动驾驶视觉感知、系统架构、软件开发有略微认识。同时，在量化交易也有多年研究和实践。目前，我主要关注在：端到端、大模型、自动驾驶、量化交易。
+我的网名是`Charmve` <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>，是一名软件开发工程师，先后任职于360、Momenta，对自动驾驶视觉感知、系统架构、软件开发有略微认识。另外，在量化交易摸爬滚打，也有几年策略研究和实践。目前，我主要关注在：端到端、大模型、自动驾驶、量化交易。下方可以看到我开源的相关项目repo。
 
 个人主页：https://charmve.github.io
 
 希望跟大家一起多多交流，感兴趣的可以继续看下去。
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
 <!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
@@ -82,32 +82,32 @@
  --->
 
 <p align="center">
-  <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
+  <a href= "src/assert/maiwei_paper.png" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://blog.csdn.net/Charmve" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+    <img src="src/assert/icons/csdn.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+    <img src="src/assert/icons/zhihu.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://space.bilibili.com/62079686" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+    <img src="src/assert/icons/bilibili.png" width="30px"/>
   </a>
   &emsp;
   <a href= "https://www.instagram.com/charmve_/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+    <img src="src/assert/icons/instagram.svg" width="28px"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+    <img src="src/assert/icons/youtube-play.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/charmve" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+    <img src="src/assert/icons/linkedin.svg" width="26px"/>
   </a>
   &emsp;
   <br><br>
@@ -150,7 +150,7 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
 <code><img height="20" width="22" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="src/assert/icons/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
 **Tools and Environments**
@@ -198,10 +198,10 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
                 </p>
                 <p>漫山岛 ManDAO</p>
                 <blockquote>
-                <p>漫，既是一种生活方式，更是一种生活态度！<br><sub>Geekdom is not only a way of life but also an attitude towards life! </sub></p>
+                  <p>漫，既是一种生活方式，更是一种生活态度！<br><sub>Geekdom is not only a way of life but also an attitude towards life! </sub></p>
                 </blockquote>
                 <p align="right">
-                Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;
+                  Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;
                 </p>
             </div>
         </td>
@@ -586,9 +586,9 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </p>
 -->
 
-### <img src="https://github.com/Charmve/Charmve/assets/29084184/3a690fdb-739a-4b4e-bc52-057d33a90b3c"  width="24.4px;"> YouTube [[Follow me]](https://www.youtube.com/@Charmve)
+### <img src="src/assert/icons/youtube.png"  width="24.4px;"> YouTube [[Follow me]](https://www.youtube.com/@Charmve)
 
-<a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/YouTube--red?logo=youtube" alt="video-YouTube"></a>  <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/B站--blue?logo=bilibili" alt="video-B站"></a>
+<a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a>  <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a>
 
 The following content is automatically updated by an automation script.
 
@@ -656,6 +656,8 @@ The following content is automatically updated by an automation script.
 - 🤩 [一个人能做出什么开源项目？](http://www.zhihu.com/question/47684138?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3159252230) | Aug 10, 2023
 - 🪄 [Open AI 与多家教育科技公司合作建构人工智能适应性学习系统，推进教育「天下大同」能带来变革吗？](http://www.zhihu.com/question/608671199?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3091470106) | Jun 26, 2023
 - 🕴 [如何成为一名合格的自动驾驶感知算法工程师？](http://www.zhihu.com/question/549032734?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3061087439) | Jun 6, 2023<!-- ZHIHU-POST-LIST:END -->
+
+<br>
 
 <table>
     <tbody>
