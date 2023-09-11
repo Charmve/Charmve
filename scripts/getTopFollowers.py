@@ -79,7 +79,7 @@ query {{
             id = follower["databaseId"]
             followerNumber = follower["followers"]["totalCount"]
             thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
-            urlretrieve("https://avatars2.githubusercontent.com/u/{id}", './src/image/img_{id}.png')
+            # urlretrieve("https://avatars2.githubusercontent.com/u/{id}", './src/image/img_{id}.png')
             if following > thirdStars * 50 + repoCount * 5 + followerNumber:
                 print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
                 continue
