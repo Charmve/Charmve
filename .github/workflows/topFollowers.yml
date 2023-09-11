@@ -22,7 +22,6 @@ jobs:
       - name: Update README
         run: |
           python scripts/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
-          python image_stitch.py -d image/ -i -s 30 -r
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
