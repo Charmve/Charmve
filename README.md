@@ -558,7 +558,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         <img src="https://avatars2.githubusercontent.com/u/22994599" width="42.4px;" alt="MaverickPeter"/>
       </a>
       <br />
-      <a href="https://github.com/MaverickPeter">Xuecheng Xu</a>
+      <a href="https://github.com/MaverickPeter">Xuecheng</a>
     </td>
     <td align="center">
       <a href="https://github.com/xsser">
