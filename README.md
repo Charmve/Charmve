@@ -561,18 +561,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/KevinLADLee">ChengYang Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xsser">
-        <img src="https://avatars2.githubusercontent.com/u/1850771" width="42.4px;" alt="xsser"/>
-      </a>
-      <br />
-      <a href="https://github.com/xsser">xsser</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MaverickPeter">
         <img src="https://avatars2.githubusercontent.com/u/22994599" width="42.4px;" alt="MaverickPeter"/>
       </a>
       <br />
       <a href="https://github.com/MaverickPeter">Xuecheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xsser">
+        <img src="https://avatars2.githubusercontent.com/u/1850771" width="42.4px;" alt="xsser"/>
+      </a>
+      <br />
+      <a href="https://github.com/xsser">xsser</a>
     </td>
   </tr>
 </table>
