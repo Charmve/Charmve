@@ -145,6 +145,7 @@
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
+- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jonbarron/website](https://github.com/jonbarron/website) - 
 - [augmentedperception/total_relighting](https://github.com/augmentedperception/total_relighting) - 
@@ -352,7 +353,6 @@
 - [dandelin/ViLT](https://github.com/dandelin/ViLT) - Code for the ICML 2021 (long talk) paper: "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision"
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [ZHKKKe/Harmonizer](https://github.com/ZHKKKe/Harmonizer) - High-Resolution Image/Video Harmonization [ECCV 2022]
-- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
 - [nv-tlabs/lift-splat-shoot](https://github.com/nv-tlabs/lift-splat-shoot) - Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D (ECCV 2020)
 - [ceciliavision/perceptual-reflection-removal](https://github.com/ceciliavision/perceptual-reflection-removal) - Single Image Reflection Separation with Perceptual Losses
@@ -446,7 +446,7 @@
 - [xuebinqin/BASNet](https://github.com/xuebinqin/BASNet) - Code for CVPR 2019 paper. BASNet: Boundary-Aware Salient Object Detection
 - [3D-FRONT-FUTURE/3D-FUTURE-ToolBox](https://github.com/3D-FRONT-FUTURE/3D-FUTURE-ToolBox) - FUTURE3D Toolbox: Rendering, Projection, and Re-Projection
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
+- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [zhaoyuzhi/Semantic-Colorization-GAN](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN) - SCGAN: Saliency-map Guided Colorization with Generative Adversarial Network. IEEE TCSVT, 2020
 - [hanzhanggit/StackGAN](https://github.com/hanzhanggit/StackGAN) - 
 - [tensorlayer/SRGAN](https://github.com/tensorlayer/SRGAN) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
