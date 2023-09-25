@@ -489,6 +489,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
+      <a href="https://github.com/isaac-lal">
+        <img src="https://avatars2.githubusercontent.com/u/98765071" width="42.4px;" alt="isaac-lal"/>
+      </a>
+      <br />
+      <a href="https://github.com/isaac-lal">Isaac Lal</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChinaVolvocars">
         <img src="https://avatars2.githubusercontent.com/u/11059094" width="42.4px;" alt="ChinaVolvocars"/>
       </a>
@@ -509,6 +516,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/DequanWang">
         <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
@@ -516,8 +525,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/deepkolos">
         <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
@@ -566,13 +573,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/MaverickPeter">Xuecheng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xsser">
-        <img src="https://avatars2.githubusercontent.com/u/1850771" width="42.4px;" alt="xsser"/>
-      </a>
-      <br />
-      <a href="https://github.com/xsser">xsser</a>
     </td>
   </tr>
 </table>
