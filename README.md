@@ -482,18 +482,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wanttobeno">
-        <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
-      </a>
-      <br />
-      <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/isaac-lal">
         <img src="https://avatars2.githubusercontent.com/u/98765071" width="42.4px;" alt="isaac-lal"/>
       </a>
       <br />
       <a href="https://github.com/isaac-lal">Isaac Lal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wanttobeno">
+        <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
+      </a>
+      <br />
+      <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChinaVolvocars">
