@@ -591,6 +591,7 @@
 
 ## TypeScript 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [lxfriday/ChatVRM-cn](https://github.com/lxfriday/ChatVRM-cn) - See demo at
 - [trindadematheus/future-store](https://github.com/trindadematheus/future-store) - 👜 Next-gen e-commerce built with Remix, Chakra UI, GraphQL and web3
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
