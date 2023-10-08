@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Elixir](#elixir)
+- [FreeMarker](#freemarker)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -34,6 +35,7 @@
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
 - [Verilog](#verilog)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## C 
@@ -126,6 +128,10 @@
 ## Elixir 
 
 - [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla  🚘
+
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 
 ## Go 
 
@@ -303,6 +309,7 @@
 
 ## Python 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [vimalabs/VIMA](https://github.com/vimalabs/VIMA) - Official Algorithm Implementation of ICML'23 Paper "VIMA: General Robot Manipulation with Multimodal Prompts"
 - [google-research/robotics_transformer](https://github.com/google-research/robotics_transformer) - 
 - [GT-RIPL/robo-vln](https://github.com/GT-RIPL/robo-vln) - Pytorch code for ICRA'21 paper: "Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation"
@@ -550,6 +557,7 @@
 
 ## Shell 
 
+- [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [Abaco-Systems/jetson-tx2-sample-filesystems](https://github.com/Abaco-Systems/jetson-tx2-sample-filesystems) - Alternative Jetson Tegra TX file systems
 - [ruffsl/ros_docker_demos](https://github.com/ruffsl/ros_docker_demos) - A collection of Docker demos for ROS
@@ -591,6 +599,8 @@
 
 ## TypeScript 
 
+- [Zo3i/chatgptWithMidjourney](https://github.com/Zo3i/chatgptWithMidjourney) - 
+- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [lxfriday/ChatVRM-cn](https://github.com/lxfriday/ChatVRM-cn) - See demo at
 - [trindadematheus/future-store](https://github.com/trindadematheus/future-store) - 👜 Next-gen e-commerce built with Remix, Chakra UI, GraphQL and web3
@@ -614,6 +624,10 @@
 
 - [sumanth-kalluri/cnn_hardware_acclerator_for_fpga](https://github.com/sumanth-kalluri/cnn_hardware_acclerator_for_fpga) - This is a fully parameterized verilog implementation of computation kernels for accleration of the Inference of Convolutional Neural Networks on FPGAs
 - [IBM/AccDNN](https://github.com/IBM/AccDNN) - A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration.
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
 
