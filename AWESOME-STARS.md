@@ -212,6 +212,7 @@
 
 ## Jupyter Notebook 
 
+- [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
 - [the-chet/speedbreaker-pothole-detector](https://github.com/the-chet/speedbreaker-pothole-detector) - Speed breaker and pothole detection using deep learning (tensorflow models). I have used SSD mobilenet and Faster RCNN algorithms on the dataset.
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
 - [guoliangxie123/Anomaly_Detection](https://github.com/guoliangxie123/Anomaly_Detection) - 主要是一些异常检测的代码
@@ -309,6 +310,9 @@
 
 ## Python 
 
+- [ansj11/SANet](https://github.com/ansj11/SANet) - 
+- [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - 
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [vimalabs/VIMA](https://github.com/vimalabs/VIMA) - Official Algorithm Implementation of ICML'23 Paper "VIMA: General Robot Manipulation with Multimodal Prompts"
 - [google-research/robotics_transformer](https://github.com/google-research/robotics_transformer) - 
