@@ -558,7 +558,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         <img src="https://avatars2.githubusercontent.com/u/5636045" width="42.4px;" alt="diggerdu"/>
       </a>
       <br />
-      <a href="https://github.com/diggerdu">Sino Begonia(Xingjian. Du)</a>
+      <a href="https://github.com/diggerdu">Xingjian Du</a>
     </td>
     <td align="center">
       <a href="https://github.com/KevinLADLee">
