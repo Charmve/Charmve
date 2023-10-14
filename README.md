@@ -520,18 +520,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DequanWang">
         <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
       </a>
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/deepkolos">
+        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
       <a href="https://github.com/district10">
