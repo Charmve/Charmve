@@ -384,7 +384,7 @@
 - [poodarchu/Det3D](https://github.com/poodarchu/Det3D) - A general 3D object detection codebse.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [autonomousvision/neat](https://github.com/autonomousvision/neat) - [ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving
-- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'22] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
+- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 - [xiefan-guo/ctsdg](https://github.com/xiefan-guo/ctsdg) - [ICCV 2021] Image Inpainting via Conditional Texture and Structure Dual Generation
 - [nianticlabs/manydepth](https://github.com/nianticlabs/manydepth) - [CVPR 2021] Self-supervised depth estimation from short sequences
 - [sanghyun-son/EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch) - PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
