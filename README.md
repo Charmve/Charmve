@@ -411,18 +411,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Snailclimb">Guide</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kroitor">
-        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
-      </a>
-      <br />
-      <a href="https://github.com/kroitor">Igor Kroitor</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CHYbeta">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
       </a>
       <br />
       <a href="https://github.com/CHYbeta">chybeta</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kroitor">
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
+      </a>
+      <br />
+      <a href="https://github.com/kroitor">Igor Kroitor</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
@@ -511,14 +511,21 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Hsury">Ruoyang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/liuzl">
+        <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
+      </a>
+      <br />
+      <a href="https://github.com/liuzl">Zhanliang Liu</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/quxiaofeng">
         <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
       </a>
       <br />
       <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/deepkolos">
         <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
@@ -567,13 +574,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/KevinLADLee">ChengYang Li</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MaverickPeter">
-        <img src="https://avatars2.githubusercontent.com/u/22994599" width="42.4px;" alt="MaverickPeter"/>
-      </a>
-      <br />
-      <a href="https://github.com/MaverickPeter">Xuecheng</a>
     </td>
   </tr>
 </table>
