@@ -74,6 +74,7 @@
 
 ## C++ 
 
+- [real-stanford/dextairity](https://github.com/real-stanford/dextairity) - [RSS 2022, Best System Paper Finalist] DextAIRity: Deformable Manipulation Can be a Breeze
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python
@@ -312,6 +313,7 @@
 
 ## Python 
 
+- [jimmyyhwu/tidybot](https://github.com/jimmyyhwu/tidybot) - TidyBot: Personalized Robot Assistance with Large Language Models
 - [ansj11/SANet](https://github.com/ansj11/SANet) - 
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
 - [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - 
@@ -382,7 +384,7 @@
 - [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
 - [JianqiangRen/FlowBasedBodyReshaping](https://github.com/JianqiangRen/FlowBasedBodyReshaping) - Official repository of the paper 'Structure-Aware Flow Generation for Human Body Reshaping' in CVPR 2022
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
-- [poodarchu/Det3D](https://github.com/poodarchu/Det3D) - A general 3D object detection codebse.
+- [V2AI/Det3D](https://github.com/V2AI/Det3D) - World's first general purpose 3D object detection codebse.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [autonomousvision/neat](https://github.com/autonomousvision/neat) - [ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving
 - [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
