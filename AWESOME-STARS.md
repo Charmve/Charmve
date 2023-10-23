@@ -216,6 +216,7 @@
 
 ## Jupyter Notebook 
 
+- [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
 - [the-chet/speedbreaker-pothole-detector](https://github.com/the-chet/speedbreaker-pothole-detector) - Speed breaker and pothole detection using deep learning (tensorflow models). I have used SSD mobilenet and Faster RCNN algorithms on the dataset.
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
@@ -314,6 +315,9 @@
 
 ## Python 
 
+- [hustvl/MapTR](https://github.com/hustvl/MapTR) - [ICLR'23 Spotlight] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
+- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
+- [hyunwoongko/transformer](https://github.com/hyunwoongko/transformer) - Transformer: PyTorch Implementation of "Attention Is All You Need"
 - [jimmyyhwu/tidybot](https://github.com/jimmyyhwu/tidybot) - TidyBot: Personalized Robot Assistance with Large Language Models
 - [ansj11/SANet](https://github.com/ansj11/SANet) - 
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
