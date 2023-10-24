@@ -307,6 +307,7 @@
 
 ## PHP 
 
+- [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
 - [graphp/graphviz](https://github.com/graphp/graphviz) - GraphViz graph drawing for the mathematical graph/network library GraPHP.
 
 ## Perl 
