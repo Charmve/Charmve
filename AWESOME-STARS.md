@@ -164,6 +164,7 @@
 
 ## Java 
 
+- [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
 - [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [oseiskar/corona-sniffer](https://github.com/oseiskar/corona-sniffer) - Contact Tracing BLE sniffer PoC
@@ -422,6 +423,7 @@
 - [yumingj/Talk-to-Edit](https://github.com/yumingj/Talk-to-Edit) - Code for Talk-to-Edit (ICCV2021). Paper: Talk-to-Edit: Fine-Grained Facial Editing via Dialog.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [emirongrr/pixelArt_Generator](https://github.com/emirongrr/pixelArt_Generator) - pixelArt Generator for create new NFT punks series
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [google/sg2im](https://github.com/google/sg2im) - Code for "Image Generation from Scene Graphs", Johnson et al, CVPR 2018
 - [danfeiX/scene-graph-TF-release](https://github.com/danfeiX/scene-graph-TF-release) - "Scene Graph Generation by Iterative Message Passing" code repository
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -585,7 +587,6 @@
 
 - [0xisk/awesome-solidity-gas-optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 
 ## Swift 
 
