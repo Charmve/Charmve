@@ -222,7 +222,6 @@
 - [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
 - [the-chet/speedbreaker-pothole-detector](https://github.com/the-chet/speedbreaker-pothole-detector) - Speed breaker and pothole detection using deep learning (tensorflow models). I have used SSD mobilenet and Faster RCNN algorithms on the dataset.
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
-- [guoliangxie123/Anomaly_Detection](https://github.com/guoliangxie123/Anomaly_Detection) - 主要是一些异常检测的代码
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [luo3300612/Visualizer](https://github.com/luo3300612/Visualizer) - assistant tools for attention visualization in deep learning
 - [michigan-traffic-lab/Dense-Deep-Reinforcement-Learning](https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning) - This repo contains the code for paper "Dense reinforcement learning for safety validation of autonomous vehicles"
@@ -318,6 +317,7 @@
 
 ## Python 
 
+- [NJUVISION/rho-vision](https://github.com/NJUVISION/rho-vision) - ρ-Vision: Efficient Visual Computing with Camera RAW Snapshots
 - [hustvl/GKT](https://github.com/hustvl/GKT) - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
 - [hustvl/MapTR](https://github.com/hustvl/MapTR) - [ICLR'23 Spotlight] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
