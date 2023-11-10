@@ -154,7 +154,7 @@
 - [katlol/trackmyairtag](https://github.com/katlol/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
-- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
+- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（请勿在贡献代码以外的情况下 Fork）
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jonbarron/website](https://github.com/jonbarron/website) - 
 - [augmentedperception/total_relighting](https://github.com/augmentedperception/total_relighting) - 
