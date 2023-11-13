@@ -497,6 +497,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
+      <a href="https://github.com/cubxxw">
+        <img src="https://avatars2.githubusercontent.com/u/86140903" width="42.4px;" alt="cubxxw"/>
+      </a>
+      <br />
+      <a href="https://github.com/cubxxw">Xinwei Xiong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChinaVolvocars">
         <img src="https://avatars2.githubusercontent.com/u/11059094" width="42.4px;" alt="ChinaVolvocars"/>
       </a>
@@ -510,6 +517,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/Hsury">Ruoyang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/liuzl">
         <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
@@ -517,8 +526,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/liuzl">Zhanliang Liu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/quxiaofeng">
         <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
@@ -567,13 +574,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/diggerdu">Xingjian Du</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KevinLADLee">
-        <img src="https://avatars2.githubusercontent.com/u/15060244" width="42.4px;" alt="KevinLADLee"/>
-      </a>
-      <br />
-      <a href="https://github.com/KevinLADLee">ChengYang Li</a>
     </td>
   </tr>
 </table>
