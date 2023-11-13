@@ -129,7 +129,7 @@
 
 ## Elixir 
 
-- [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla  🚘
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
 
 ## FreeMarker 
 
@@ -154,7 +154,7 @@
 - [katlol/trackmyairtag](https://github.com/katlol/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
-- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（请勿在贡献代码以外的情况下 Fork）
+- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️请勿在贡献代码以外的情况下 Fork）
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jonbarron/website](https://github.com/jonbarron/website) - 
 - [augmentedperception/total_relighting](https://github.com/augmentedperception/total_relighting) - 
@@ -318,6 +318,7 @@
 
 ## Python 
 
+- [megvii-research/OccDepth](https://github.com/megvii-research/OccDepth) - Maybe the first academic open work on stereo 3D SSC method with vision-only input.
 - [NJUVISION/rho-vision](https://github.com/NJUVISION/rho-vision) - ρ-Vision: Efficient Visual Computing with Camera RAW Snapshots
 - [hustvl/GKT](https://github.com/hustvl/GKT) - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
 - [hustvl/MapTR](https://github.com/hustvl/MapTR) - [ICLR'23 Spotlight] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
