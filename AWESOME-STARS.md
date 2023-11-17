@@ -74,6 +74,7 @@
 
 ## C++ 
 
+- [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [real-stanford/dextairity](https://github.com/real-stanford/dextairity) - [RSS 2022, Best System Paper Finalist] DextAIRity: Deformable Manipulation Can be a Breeze
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
