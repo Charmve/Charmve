@@ -319,6 +319,7 @@
 
 ## Python 
 
+- [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [megvii-research/OccDepth](https://github.com/megvii-research/OccDepth) - Maybe the first academic open work on stereo 3D SSC method with vision-only input.
 - [NJUVISION/rho-vision](https://github.com/NJUVISION/rho-vision) - ρ-Vision: Efficient Visual Computing with Camera RAW Snapshots
 - [hustvl/GKT](https://github.com/hustvl/GKT) - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
