@@ -152,6 +152,7 @@
 
 ## HTML 
 
+- [qixinbo/qixinbo.github.io](https://github.com/qixinbo/qixinbo.github.io) - 个人网站：https://qixinbo.info/
 - [katlol/trackmyairtag](https://github.com/katlol/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
