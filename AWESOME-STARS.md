@@ -278,6 +278,7 @@
 
 ## Others 
 
+- [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [westlake-autolab/FusionAD](https://github.com/westlake-autolab/FusionAD) - Official Code Release of "FusionAD"
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks](https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks) - A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers
