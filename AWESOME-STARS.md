@@ -278,6 +278,7 @@
 
 ## Others 
 
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [westlake-autolab/FusionAD](https://github.com/westlake-autolab/FusionAD) - Official Code Release of "FusionAD"
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
@@ -321,6 +322,8 @@
 
 ## Python 
 
+- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- [black0017/MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch) - A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [megvii-research/OccDepth](https://github.com/megvii-research/OccDepth) - Maybe the first academic open work on stereo 3D SSC method with vision-only input.
 - [NJUVISION/rho-vision](https://github.com/NJUVISION/rho-vision) - ρ-Vision: Efficient Visual Computing with Camera RAW Snapshots
