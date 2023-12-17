@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Dart](#dart)
 - [Elixir](#elixir)
 - [FreeMarker](#freemarker)
 - [Go](#go)
@@ -128,6 +129,10 @@
 - [Charmve/jsFlow](https://github.com/Charmve/jsFlow) - 🏄 A Lightweight Web Browser-based Machine Learning Framework
 - [cs217/cs217.github.io](https://github.com/cs217/cs217.github.io) - Course Webpage for CS 217 Hardware Accelerators for Machine Learning, Stanford University
 
+## Dart 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
 ## Elixir 
 
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
@@ -183,6 +188,7 @@
 
 ## JavaScript 
 
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [dcervenkov/presentation-timer](https://github.com/dcervenkov/presentation-timer) - A browser based timer useful mainly for presentations.
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
