@@ -162,6 +162,7 @@
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️请勿在贡献代码以外的情况下 Fork）
+- [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jonbarron/website](https://github.com/jonbarron/website) - 
 - [augmentedperception/total_relighting](https://github.com/augmentedperception/total_relighting) - 
@@ -290,7 +291,6 @@
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks](https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks) - A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-- [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [Charmve/OpenCC](https://github.com/Charmve/OpenCC) - Automatic driving long tail / corner cases scenarios dataset (Anomaly detection)
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [zhoubolei/bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!
