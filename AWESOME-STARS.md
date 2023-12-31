@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -173,6 +174,7 @@
 
 ## Java 
 
+- [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
 - [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
@@ -285,6 +287,8 @@
 
 ## Others 
 
+- [dreamoving/dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
+- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linhandev/dataset](https://github.com/linhandev/dataset) - 医学影像数据集列表 『An Index for Medical Imaging Datasets』
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [westlake-autolab/FusionAD](https://github.com/westlake-autolab/FusionAD) - Official Code Release of "FusionAD"
@@ -328,6 +332,8 @@
 
 ## Python 
 
+- [ubc-vision/COTR](https://github.com/ubc-vision/COTR) - Code release for "COTR: Correspondence Transformer for Matching Across Images"(ICCV 2021)
+- [zhyever/PatchFusion](https://github.com/zhyever/PatchFusion) - An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
