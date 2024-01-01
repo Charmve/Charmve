@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [real-stanford/dextairity](https://github.com/real-stanford/dextairity) - [RSS 2022, Best System Paper Finalist] DextAIRity: Deformable Manipulation Can be a Breeze
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -225,7 +226,7 @@
 - [DigitalSecurity/btlejuice](https://github.com/DigitalSecurity/btlejuice) - BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 
 ## Jupyter Notebook 
 
@@ -287,6 +288,7 @@
 
 ## Others 
 
+- [PJLab-ADG/GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving
 - [dreamoving/dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linhandev/dataset](https://github.com/linhandev/dataset) - 医学影像数据集列表 『An Index for Medical Imaging Datasets』
@@ -332,6 +334,7 @@
 
 ## Python 
 
+- [cheukcat/The-Eyes-Have-It](https://github.com/cheukcat/The-Eyes-Have-It) - An intuitive approach for 3D Occupancy Detection
 - [ubc-vision/COTR](https://github.com/ubc-vision/COTR) - Code release for "COTR: Correspondence Transformer for Matching Across Images"(ICCV 2021)
 - [zhyever/PatchFusion](https://github.com/zhyever/PatchFusion) - An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
@@ -642,6 +645,7 @@
 
 ## TypeScript 
 
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [Zo3i/chatgptWithMidjourney](https://github.com/Zo3i/chatgptWithMidjourney) - 
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
