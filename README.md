@@ -453,14 +453,21 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/sun0225SUN">小孙同学</a>
     </td>
     <td align="center">
+      <a href="https://github.com/wey-gu">
+        <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
+      </a>
+      <br />
+      <a href="https://github.com/wey-gu">Wey Gu</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Sanster">
         <img src="https://avatars2.githubusercontent.com/u/3998421" width="42.4px;" alt="Sanster"/>
       </a>
       <br />
       <a href="https://github.com/Sanster">Qing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/YuePanEdward">
         <img src="https://avatars2.githubusercontent.com/u/34207278" width="42.4px;" alt="YuePanEdward"/>
@@ -510,6 +517,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/ChinaVolvocars">Atlantis</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Hsury">
         <img src="https://avatars2.githubusercontent.com/u/26821563" width="42.4px;" alt="Hsury"/>
@@ -517,8 +526,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/Hsury">Ruoyang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/liuzl">
         <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
@@ -567,13 +574,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/yuchuangu85">CodeMX</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/diggerdu">
-        <img src="https://avatars2.githubusercontent.com/u/5636045" width="42.4px;" alt="diggerdu"/>
-      </a>
-      <br />
-      <a href="https://github.com/diggerdu">Xingjian Du</a>
     </td>
   </tr>
 </table>
