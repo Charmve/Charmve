@@ -334,6 +334,7 @@
 
 ## Python 
 
+- [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [cheukcat/The-Eyes-Have-It](https://github.com/cheukcat/The-Eyes-Have-It) - An intuitive approach for 3D Occupancy Detection
 - [ubc-vision/COTR](https://github.com/ubc-vision/COTR) - Code release for "COTR: Correspondence Transformer for Matching Across Images"(ICCV 2021)
 - [zhyever/PatchFusion](https://github.com/zhyever/PatchFusion) - An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation
