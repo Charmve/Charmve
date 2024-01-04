@@ -117,7 +117,7 @@
 - [AgoraIO/Basic-Video-Call](https://github.com/AgoraIO/Basic-Video-Call) - Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.
 - [nccgroup/BLEBoy](https://github.com/nccgroup/BLEBoy) - BLEBoy is a training tool to teach users about BLE security by providing a single BLE peripheral that can be used to experiment with each BLE pairing method and demonstrates GATT security concepts.
 - [changwoolee/lenet5_hls](https://github.com/changwoolee/lenet5_hls) - FPGA Accelerator for CNN using Vivado HLS
-- [cneben/QuickQanava](https://github.com/cneben/QuickQanava) - :link: C++14 network/graph visualization library / Qt node editor.
+- [cneben/QuickQanava](https://github.com/cneben/QuickQanava) - :link: C++17 network/graph visualization library / Qt node editor.
 - [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [OAID/FaceRecognition](https://github.com/OAID/FaceRecognition) - This is an implematation project of face detection and  recognition. The face detection using MTCNN algorithm, and recognition using LightenenCNN algorithm.
 
@@ -175,6 +175,7 @@
 
 ## Java 
 
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
 - [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries
@@ -334,6 +335,8 @@
 
 ## Python 
 
+- [VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian) - "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS", Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang
+- [LinShan-Bin/OccNeRF](https://github.com/LinShan-Bin/OccNeRF) - Code of "OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields".
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [cheukcat/The-Eyes-Have-It](https://github.com/cheukcat/The-Eyes-Have-It) - An intuitive approach for 3D Occupancy Detection
 - [ubc-vision/COTR](https://github.com/ubc-vision/COTR) - Code release for "COTR: Correspondence Transformer for Matching Across Images"(ICCV 2021)
