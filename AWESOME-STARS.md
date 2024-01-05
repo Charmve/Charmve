@@ -41,6 +41,7 @@
 
 ## C 
 
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [Androidest/Speed_Bump_Detection](https://github.com/Androidest/Speed_Bump_Detection) - Detect speed bump and their distances from the car using Yolov2, built with Visual Studio on Windows. Marking images with yolo-mark.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
@@ -75,6 +76,7 @@
 
 ## C++ 
 
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [real-stanford/dextairity](https://github.com/real-stanford/dextairity) - [RSS 2022, Best System Paper Finalist] DextAIRity: Deformable Manipulation Can be a Breeze
@@ -335,6 +337,7 @@
 
 ## Python 
 
+- [pengzhiliang/MRBrainS_seg](https://github.com/pengzhiliang/MRBrainS_seg) - 医学图像分割
 - [VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian) - "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS", Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang
 - [LinShan-Bin/OccNeRF](https://github.com/LinShan-Bin/OccNeRF) - Code of "OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields".
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
