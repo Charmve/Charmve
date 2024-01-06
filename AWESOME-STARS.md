@@ -119,7 +119,7 @@
 - [AgoraIO/Basic-Video-Call](https://github.com/AgoraIO/Basic-Video-Call) - Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.
 - [nccgroup/BLEBoy](https://github.com/nccgroup/BLEBoy) - BLEBoy is a training tool to teach users about BLE security by providing a single BLE peripheral that can be used to experiment with each BLE pairing method and demonstrates GATT security concepts.
 - [changwoolee/lenet5_hls](https://github.com/changwoolee/lenet5_hls) - FPGA Accelerator for CNN using Vivado HLS
-- [cneben/QuickQanava](https://github.com/cneben/QuickQanava) - :link: C++17 network/graph visualization library / Qt node editor.
+- [cneben/QuickQanava](https://github.com/cneben/QuickQanava) - :link: C++17 network / graph visualization library - Qt6 / QML node editor.
 - [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [OAID/FaceRecognition](https://github.com/OAID/FaceRecognition) - This is an implematation project of face detection and  recognition. The face detection using MTCNN algorithm, and recognition using LightenenCNN algorithm.
 
