@@ -338,6 +338,9 @@
 
 ## Python 
 
+- [mgjinnn/wm_baseline](https://github.com/mgjinnn/wm_baseline) - baseline
+- [Renovamen/Speech-Emotion-Recognition](https://github.com/Renovamen/Speech-Emotion-Recognition) - Speech emotion recognition implemented in Keras (LSTM, CNN, SVM, MLP) | 语音情感识别
+- [XinyingWang55/FGVC](https://github.com/XinyingWang55/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
 - [LeapLabTHU/DAT](https://github.com/LeapLabTHU/DAT) - Repository of Vision Transformer with Deformable Attention (CVPR2022) and DAT++: Spatially Dynamic Vision Transformerwith Deformable Attention
 - [OPEN-AIR-SUN/mars](https://github.com/OPEN-AIR-SUN/mars) - MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
