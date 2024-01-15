@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
@@ -338,6 +339,8 @@
 
 ## Python 
 
+- [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
+- [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) - compiler learning resources collect.
 - [mgjinnn/wm_baseline](https://github.com/mgjinnn/wm_baseline) - baseline
 - [Renovamen/Speech-Emotion-Recognition](https://github.com/Renovamen/Speech-Emotion-Recognition) - Speech emotion recognition implemented in Keras (LSTM, CNN, SVM, MLP) | 语音情感识别
 - [XinyingWang55/FGVC](https://github.com/XinyingWang55/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
@@ -696,6 +699,7 @@
 
 ## Vue 
 
+- [YYJeffrey/chocolate](https://github.com/YYJeffrey/chocolate) - A data assistant for selected stocks and funds. - 股票基金助手浏览器插件
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [fofapro/vulfocus](https://github.com/fofapro/vulfocus) - 🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
