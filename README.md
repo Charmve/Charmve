@@ -476,18 +476,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/YuePanEdward">Yue Pan </a>
     </td>
     <td align="center">
-      <a href="https://github.com/isaac-lal">
-        <img src="https://avatars2.githubusercontent.com/u/98765071" width="42.4px;" alt="isaac-lal"/>
-      </a>
-      <br />
-      <a href="https://github.com/isaac-lal">Isaac Lal</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/WarpPrism">
         <img src="https://avatars2.githubusercontent.com/u/8694020" width="42.4px;" alt="WarpPrism"/>
       </a>
       <br />
       <a href="https://github.com/WarpPrism">棱镜_JH</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/isaac-lal">
+        <img src="https://avatars2.githubusercontent.com/u/98765071" width="42.4px;" alt="isaac-lal"/>
+      </a>
+      <br />
+      <a href="https://github.com/isaac-lal">Isaac Lal</a>
     </td>
     <td align="center">
       <a href="https://github.com/tonghuaroot">
