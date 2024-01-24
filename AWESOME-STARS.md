@@ -148,7 +148,7 @@
 
 ## Go 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -163,6 +163,7 @@
 
 ## HTML 
 
+- [James4Ever0/prometheous](https://github.com/James4Ever0/prometheous) - AI generated documentation and RAG
 - [qixinbo/qixinbo.github.io](https://github.com/qixinbo/qixinbo.github.io) - 个人网站：https://qixinbo.info/
 - [katlol/trackmyairtag](https://github.com/katlol/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
@@ -609,6 +610,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
