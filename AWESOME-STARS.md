@@ -669,6 +669,7 @@
 
 ## TypeScript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [Zo3i/chatgptWithMidjourney](https://github.com/Zo3i/chatgptWithMidjourney) - 
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
