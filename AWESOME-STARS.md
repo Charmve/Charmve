@@ -236,6 +236,7 @@
 
 ## Jupyter Notebook 
 
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
 - [the-chet/speedbreaker-pothole-detector](https://github.com/the-chet/speedbreaker-pothole-detector) - Speed breaker and pothole detection using deep learning (tensorflow models). I have used SSD mobilenet and Faster RCNN algorithms on the dataset.
@@ -341,6 +342,7 @@
 
 ## Python 
 
+- [YJHMITWEB/ExFlow](https://github.com/YJHMITWEB/ExFlow) - Explore Inter-layer Expert Affinity in MoE Model Inference
 - [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 - [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) - compiler learning resources collect.
 - [mgjinnn/wm_baseline](https://github.com/mgjinnn/wm_baseline) - baseline
