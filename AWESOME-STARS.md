@@ -198,6 +198,7 @@
 
 ## JavaScript 
 
+- [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [dcervenkov/presentation-timer](https://github.com/dcervenkov/presentation-timer) - A browser based timer useful mainly for presentations.
@@ -236,6 +237,7 @@
 
 ## Jupyter Notebook 
 
+- [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
@@ -343,6 +345,13 @@
 
 ## Python 
 
+- [runnanchen/CLIP2Scene](https://github.com/runnanchen/CLIP2Scene) - 
+- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - WidthFormer: Toward Efficient Transformer-based BEV View Transformation
+- [Morphlng/Carla_nuScenes_BEV](https://github.com/Morphlng/Carla_nuScenes_BEV) - Generate nuScenes style birdeye-view image in Carla Simulator
+- [guardstrikelab/carla_apollo_bridge](https://github.com/guardstrikelab/carla_apollo_bridge) - This project aims to provide a data and control bridge for the communication between the latest version of Apollo and Carla.
+- [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
+- [xavhl/GlassSemNet](https://github.com/xavhl/GlassSemNet) - 
+- [FANG-MING/occupancy-for-nuscenes](https://github.com/FANG-MING/occupancy-for-nuscenes) - 3D occupancy
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [E2E-AD/AD-MLP](https://github.com/E2E-AD/AD-MLP) - 
 - [OpenDriveLab/ST-P3](https://github.com/OpenDriveLab/ST-P3) - [ECCV 2022] ST-P3, an end-to-end vision-based autonomous driving framework via spatial-temporal feature learning.
@@ -676,6 +685,7 @@
 
 ## TypeScript 
 
+- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [Zo3i/chatgptWithMidjourney](https://github.com/Zo3i/chatgptWithMidjourney) - 
