@@ -345,6 +345,8 @@
 
 ## Python 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - [AAAI-23 Oral] Official implementation of the paper "Are Transformers Effective for Time Series Forecasting?"
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [YiyangZhou/LURE](https://github.com/YiyangZhou/LURE) - [ICLR 2024] Analyzing and Mitigating Object Hallucination in Large Vision-Language Models
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
