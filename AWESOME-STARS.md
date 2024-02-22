@@ -200,6 +200,7 @@
 
 ## JavaScript 
 
+- [goldvideo/h265player](https://github.com/goldvideo/h265player) - 一套完整的Web版H.265播放器解决方案，非常适合学习交流和实际应用。基于JS码流解封装、WebAssembly(FFmpeg)视频解码，利用Canvas画布投影、AudioContext播放音频。
 - [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -239,6 +240,7 @@
 
 ## Jupyter Notebook 
 
+- [ysh329/kaggle-lung-cancer-classification](https://github.com/ysh329/kaggle-lung-cancer-classification) - kaggle data science bowl 2017 solution
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -347,6 +349,7 @@
 
 ## Python 
 
+- [dcharatan/pixelsplat](https://github.com/dcharatan/pixelsplat) - Code for "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" by David Charatan, Sizhe Li, Andrea Tagliasacchi, and Vincent Sitzmann.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - [AAAI-23 Oral] Official implementation of the paper "Are Transformers Effective for Time Series Forecasting?"
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
