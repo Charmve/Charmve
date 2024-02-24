@@ -350,6 +350,7 @@
 
 ## Python 
 
+- [zhiyuanyou/UniAD](https://github.com/zhiyuanyou/UniAD) - [NeurIPS 2022 Spotlight] A Unified Model for Multi-class Anomaly Detection
 - [dcharatan/pixelsplat](https://github.com/dcharatan/pixelsplat) - Code for "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" by David Charatan, Sizhe Li, Andrea Tagliasacchi, and Vincent Sitzmann.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - [AAAI-23 Oral] Official implementation of the paper "Are Transformers Effective for Time Series Forecasting?"
