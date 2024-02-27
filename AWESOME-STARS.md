@@ -200,6 +200,7 @@
 
 ## JavaScript 
 
+- [spiermar/d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - A D3.js plugin that produces flame graphs from hierarchical data.
 - [goldvideo/h265player](https://github.com/goldvideo/h265player) - 一套完整的Web版H.265播放器解决方案，非常适合学习交流和实际应用。基于JS码流解封装、WebAssembly(FFmpeg)视频解码，利用Canvas画布投影、AudioContext播放音频。
 - [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
@@ -240,7 +241,7 @@
 
 ## Jupyter Notebook 
 
-- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering (CVPR 2024)
 - [ysh329/kaggle-lung-cancer-classification](https://github.com/ysh329/kaggle-lung-cancer-classification) - kaggle data science bowl 2017 solution
 - [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
@@ -393,7 +394,7 @@
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [NVlabs/SegFormer](https://github.com/NVlabs/SegFormer) - Official PyTorch implementation of SegFormer
-- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - [CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 - [black0017/MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch) - A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
