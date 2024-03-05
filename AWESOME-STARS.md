@@ -78,6 +78,7 @@
 
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
@@ -372,7 +373,6 @@
 - [E2E-AD/AD-MLP](https://github.com/E2E-AD/AD-MLP) - 
 - [OpenDriveLab/ST-P3](https://github.com/OpenDriveLab/ST-P3) - [ECCV 2022] ST-P3, an end-to-end vision-based autonomous driving framework via spatial-temporal feature learning.
 - [YJHMITWEB/ExFlow](https://github.com/YJHMITWEB/ExFlow) - Explore Inter-layer Expert Affinity in MoE Model Inference
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 - [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) - compiler learning resources collect.
 - [mgjinnn/wm_baseline](https://github.com/mgjinnn/wm_baseline) - baseline
