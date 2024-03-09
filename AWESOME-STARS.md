@@ -353,6 +353,8 @@
 
 ## Python 
 
+- [PJLab-ADG/neuralsim](https://github.com/PJLab-ADG/neuralsim) - neuralsim: 3D surface reconstruction and simulation based on 3D neural rendering.
+- [HKUST-Aerial-Robotics/SIMPL](https://github.com/HKUST-Aerial-Robotics/SIMPL) - SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving
 - [zhiyuanyou/UniAD](https://github.com/zhiyuanyou/UniAD) - [NeurIPS 2022 Spotlight] A Unified Model for Multi-class Anomaly Detection
 - [dcharatan/pixelsplat](https://github.com/dcharatan/pixelsplat) - Code for "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" by David Charatan, Sizhe Li, Andrea Tagliasacchi, and Vincent Sitzmann.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
