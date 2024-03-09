@@ -607,7 +607,7 @@ The following content is automatically updated by an automation script.
 
 </div>
 
- :performing_arts: Leave a message to me? --> https://github.com/Charmve/Charmve/issues
+ <b>:performing_arts: Leave a message to me? </b>--> https://github.com/Charmve/Charmve/issues
 
 ---
 
@@ -670,7 +670,7 @@ The following content is automatically updated by an automation script.
         <tr> 
             <td valign="top" width="50%"> 
 
-#### 🤹‍♀️ <a href="https://medium.com/@charmve" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://medium.com/@charmve" target="_blank">My Recent Blogs</a>
 
 <!-- START_SECTION:blog -->
 <li> <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05 04:06:37 AM </li>
@@ -682,7 +682,7 @@ The following content is automatically updated by an automation script.
 </td>
             <td valign="top" width=50%"> 
 
-#### 🤠 <a href="" target="_blank">Recommended Blog</a>
+#### 🤠 <a href="" target="_blank">Recommended Blogs</a>
 
 <!-- START_SECTION:brain -->
 <li> <a href='https://distill.pub/2021/understanding-gnns' target='_blank'>Understanding Convolutions on Graphs</a> - 2021-09-02 08:00:00 PM </li>
