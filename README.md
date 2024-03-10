@@ -1,3 +1,6 @@
+<!--START_SECTION:weather-->
+<img align="center" width="30%" src="https://github.com/Charmve/github-readme-weather-widget/blob/main/api/weather-main.svg" alt="weather-local"></img>
+<!--END_SECTION:weather-->
 <div>
     <kbd align="center" valign="center">
         <a href="https://github.com/Charmve/computer-vision-in-action">
@@ -6,12 +9,6 @@
         <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </kbd>
 </div>
-
-<!--START_SECTION:weather-->
-<div align="right" >
-    <img width="90%" src="https://github.com/Charmve/github-readme-weather-widget/blob/main/api/weather-main.svg" alt="weather-local"></img>
-</div>
-<!--END_SECTION:weather-->
 
 <h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
 
