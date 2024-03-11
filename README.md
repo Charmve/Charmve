@@ -1,5 +1,5 @@
 <!--START_SECTION:weather-->
-<img align="center" width="30%" src="https://github.com/Charmve/github-readme-weather-widget/blob/main/api/weather-main.svg" alt="weather-local"></img>
+<img align="center" width="30%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local"></img>
 <!--END_SECTION:weather-->
 <div>
     <kbd align="center" valign="center">
