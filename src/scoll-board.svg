@@ -1,0 +1,220 @@
+<svg fill="none" viewBox="0 0 854 556" width="854" height="556" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        
+        @keyframes scroll {
+          0% {
+            left: 400px;
+          }
+          3% {
+            left: 0px;
+          }
+          30% {
+            left: 0px;
+          }
+          36% {
+            left: -800px;
+          }
+          64% {
+            left: -800px;
+          }
+          68% {
+            left: -1600px;
+          }
+          97% {
+            left: -1600px
+          }
+          100% {
+            left: -2000px
+          }
+        }
+        @keyframes moves {
+          0% {
+              transform: translate(0);
+          }
+       
+          100% {
+              transform: translate(-4250px);
+          }
+        }
+        @keyframes tittle {
+          0% {
+          transform: translateX(0px);
+          }
+          8% {
+          transform: translateX(7px);
+          }
+          12% {
+          transform: translateX(0px);
+          }
+          100% {
+          transform: translateX(0px);
+          }
+        }
+        @keyframes desc{
+          0% {
+          transform: translateX(0px);
+          }
+          10% {
+          transform: translateX(12px);
+          }
+          15% {
+          transform: translateX(0px);
+          }
+          90% {
+            transform: translateX(0px);
+            }
+          95% {
+            transform: translateX(-20px);
+            }
+          100% {
+          transform: translateX(0px);
+          }
+        }
+        @keyframes screen-name {
+          0% {
+          transform: rotate(-3deg);
+          }
+          41% {
+          transform: rotate(-3deg);
+          }
+          47% {
+          transform: rotate(2deg);
+          }
+          49% {
+          transform: rotate(-2deg);
+          }
+          50% {
+          transform: rotate(0deg);
+          }
+          51% {
+          transform: rotate(-2deg);
+          }
+          55% {
+          transform: rotate(-3deg);
+          }
+          51% {
+          transform: rotate(2deg);
+          }
+          100% {
+          transform: rotate(-3deg);
+          }
+        }
+
+        .tittle {
+          display: inline-block;
+          animation: tittle 2s infinite linear;
+        }
+
+        ul.followers {
+          margin: 0;
+          padding: 0 rem;
+          position: absolute;
+          list-style-type: none;
+          display: flex;
+          <!-- margin-top: 100px; -->
+          justify-content: space-around;
+          width: 2400px;
+          animation: scroll 6s ease-out infinite;
+        }
+        ul.followers:hover { // 移入停止
+          animation: scroll 20s ease-out infinite paused;
+          animation-play-state: paused !important;
+        }
+
+        ul.followers li {
+          margin: 0;
+          width: 854px;
+          padding: 0 8rem;
+        }
+        ul.followers a {
+          text-decoration: none;
+          color: rgba(255, 255, 255, 0.83);
+        }
+        ul.followers h2 {
+          padding: 0;
+          margin: 0;
+          margin-top: 2rem;
+          font-family:Verdana, Geneva, Tahoma, sans-serif
+        }
+
+        ul.followers p {
+          padding-left: 6px;
+          animation: desc 2s infinite linear;
+          border-left: 8px solid rgba(255, 255, 255, 0.308);
+          border-left: 8px solid #FF66C4;
+          border-left: 8px solid #FFD558;
+        }
+        ul.followers img {
+          margin-top: 10px; 
+        }
+
+        .container {
+          background: #18222E;
+          height: 100%;
+          width: 100%;
+          height: 536px;
+          width: 834px;
+          color: rgba(255, 255, 255, 0.77);
+          border: 5px solid transparent;
+          border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+          border-image: linear-gradient(to bottom right, #FF66C4 0%, #8C52FF 100%);
+
+          border-image-slice: 1;
+        }
+
+        .screen-name {
+          color: #FFD558;
+          font-size: 1.2rem;
+          padding-left: 1rem;
+          display: inline-block;
+          transform: rotate(-3deg);
+          animation: screen-name 2s infinite linear;
+        }
+			</style>
+
+			<div class="container">
+        <ul class='followers'>
+          <li>
+              <h2>
+                  <a href='https://twitter.com/kutieme888'>
+                      <span class='tittle'>Kutieme</span><span class='screen-name'>@kutieme888</span>
+                  </a>
+              </h2>
+
+              <img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kew_Gardens_Waterlily_House_-_Sept_2008.jpg/350px-Kew_Gardens_Waterlily_House_-_Sept_2008.jpg" />
+
+              <p>
+                  ♻🌐❄🌊🌈🇭🇰🧢🐍☁️ Aspiring data engineer, current senior product manager. Data science, machine learning, Docker is magical!
+              </p>
+          </li>
+          <li>
+              <h2>
+                  <a href='https://www.youtube.com/watch?v=Xc_AfRVF1nw'>
+                      <span class='tittle'>迈微智能</span><span class='screen-name'>@MyWay.AI</span>
+                  </a>
+              </h2>
+              <a href="https://www.youtube.com/watch?v=Xc_AfRVF1nw"><img width="100%" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1710321278/video_to_markdown/images/youtube--Xc_AfRVF1nw-c05b58ac6eb4c4700831b2b3070cd403.jpg" /></a>
+              <p>
+                  扬州迈微电子科技有限公司·项目演示视频
+              </p>
+          </li>
+          <li>
+              <h2>
+                  <a href='https://twitter.com/shyvesfps'>
+                      <span class='tittle'>Chaves</span><span class='screen-name'>@shyvesfps</span>
+                  </a>
+              </h2>
+
+              <img width="100%" src="https://www.kawabangga.com/wp-content/uploads/2020/10/1920px-Vaxholmsleden_February_2013_02_crop.jpg" />
+
+              <p>
+                <a href="https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day">Wikipedia:Picture of the day</a>
+              </p>
+          </li>
+        </ul>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
