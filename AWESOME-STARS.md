@@ -306,6 +306,7 @@
 
 ## Others 
 
+- [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
 - [OpenGVLab/DriveMLM](https://github.com/OpenGVLab/DriveMLM) - 
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
 - [georghess/NeuRAD](https://github.com/georghess/NeuRAD) - NeuRAD: Neural Rendering for Autonomous Driving
@@ -354,6 +355,7 @@
 
 ## Python 
 
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [PJLab-ADG/neuralsim](https://github.com/PJLab-ADG/neuralsim) - neuralsim: 3D surface reconstruction and simulation based on 3D neural rendering.
 - [HKUST-Aerial-Robotics/SIMPL](https://github.com/HKUST-Aerial-Robotics/SIMPL) - SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving
