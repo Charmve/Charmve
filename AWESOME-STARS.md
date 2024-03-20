@@ -211,7 +211,6 @@
 - [dcervenkov/presentation-timer](https://github.com/dcervenkov/presentation-timer) - A browser based timer useful mainly for presentations.
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [Exrick/xmall-weapp](https://github.com/Exrick/xmall-weapp) - 终于开源！XMall商城微信小程序前端 共计20多个页面 页面联动 精美细节 含SKU设计
 - [sukebenet/dreamtime](https://github.com/sukebenet/dreamtime) - Use artificial intelligence to create fake nudes.
 - [aragon/aragon-apps](https://github.com/aragon/aragon-apps) - (Aragon 1) Aragon apps developed by Aragon Core Devs (smart contracts + webapps)
@@ -720,6 +719,7 @@
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [lxfriday/ChatVRM-cn](https://github.com/lxfriday/ChatVRM-cn) - See demo at
+- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [trindadematheus/future-store](https://github.com/trindadematheus/future-store) - 👜 Next-gen e-commerce built with Remix, Chakra UI, GraphQL and web3
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
