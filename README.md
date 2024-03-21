@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" width="30%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
+<img align="right" width="31%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
 
 <h2><a href="https://github.com/Charmve"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/sayhi.svg" /></a></h2>
 
@@ -55,12 +55,6 @@
     <td><img src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black" /></td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-24%25-green&logo=github" /></td>
 </tr>
-<tr>
-    <td align="center"><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank"><img src="https://github.com/Charmve/computer-vision-in-action/raw/main/res/ui/frontpage/2020-sponsors.svg" alt="L0CV" width="36" style="vertical-align:bottom;" /><br> SurfaceDD </a></td>
-    <td><sub>目前最大的工业缺陷检测数据库及论文集</sub><br> <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">Project Home</a> | <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">GitHub</a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Surface-Defect-Detection?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-85%25-green&logo=github" /></td>
-</tr>
 </tbody>
 </table>
 
@@ -92,13 +86,13 @@ For sponsors reaching certain tiers to have early access to my WIP works earlier
     <tr><td>
     <h2>Table of Content</h2>
     <ui>
-        <li> <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----"> 🖥️ Open-Source Projects</a></li>
-        <li> 🔥🔥 <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----"> 📘 Hot Blog Columns</a></li>
-        <li> <a href="https://github.com/Charmve#-my-latest-posts">📝 My latest posts</a></li>
-        <li> <a href="https://github.com/Charmve#-youtube-follow-me"><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube Vlog</a></li>
-        <li> <a href="https://github.com/Charmve#hearts-acknowledgements">:hearts: Acknowledgements</a></li>
-        <li> <a href="https://github.com/Charmve#miscs">Miscs</a></li>
-        <li> <a href="https://github.com/Charmve#gallery">Gallery</a></li>
+        <li> <a href="#open-source"> 🖥️ Open-Source Projects</a></li>
+        <li> 🔥🔥 <a href="#-hot-blog-columns"> 📘 Hot Blog Columns</a></li>
+        <li> <a href="#blogs">📝 My latest posts</a></li>
+        <li> <a href="#vlogs"><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube Vlog</a></li>
+        <li> <a href="#i-come-from-you">:hearts: Acknowledgements</a></li>
+        <li> <a href="#miscs">Miscs</a></li>
+        <li> <a href="#gallery">Gallery</a></li>
     </ui>
     <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -106,11 +100,10 @@ For sponsors reaching certain tiers to have early access to my WIP works earlier
 </tbody></table>
 
 <!-- content -->
-<details>
-<summary><p align="right">Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;</p></summary>
+<details><summary><p align="right">Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;</p></summary>
 
-<details>
-<summary><b> 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a></b></summary>
+<details><summary><b> 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a></b></summary>
+<h3>Open-Source</h3>
 
 <table align="center" style="table-layout: auto; width: 100%;">
     <tr>
@@ -232,7 +225,7 @@ All open-source repo orted by stars. <a href="https://github.com/Charmve?tab=rep
 | [AccANN](https://github.com/Charmve/AccANN) | <sub> A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration</sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AccANN?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow]|
 | [jsFlow](https://github.com/Charmve/jsFlow) | <sub> A Lightweight Web Browser-based Machine Learning Framework </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/Charmve/jsFlow?style=flat-square&labelColor=black"/> | ![TensorFlow][TensorFlow] ![JavaScript][JavaScript] |
 
-### 📝 My latest posts
+### 📘 Hot Blog Columns
 
 These columns are automatically updated by github action.
 
@@ -319,14 +312,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 </details>
 
-[Index](#table-of-content)
+[Index](#open-source) | [TOP](#table-of-content) 
 
-<details>
-<summary><b>📝 Latest Blog Posts</b></summary>
+<details open><summary><b>📘 Latest Blog Posts</b></summary>
     <a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
-</a>
-<br>
+        <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
+    </a>
+    <h3>Blogs</h3>
 <sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1130: `2024-03-11 23:40:10`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
@@ -390,15 +382,16 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </table>
 </details>
 
-[Index](#table-of-content)
+[Index](#blogs) | [TOP](#table-of-content) 
 
 <details>
 <summary><b><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
 </b></summary>
 
+<h3>Vlogs</h3>
+
 <a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a> <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a>
 
-The following content is automatically updated by an automation script.
 
 <!-- https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div alias="Youtube-cards" align="center">
@@ -417,11 +410,11 @@ The following content is automatically updated by an automation script.
 </div>
 </details>
 
-[Index](#table-of-content)
+[Index](#vlogs) | [TOP](#table-of-content) 
 
-<details>
-<summary><b>:hearts: <a href="https://github.com/sponsors/Charmve">Acknowledgements</a></b></summary>
-    <img align="center" src="scripts/result2.png" width="460px;" alt="Followers"/>
+<details open><summary><b>:hearts: <a href="https://github.com/sponsors/Charmve">Acknowledgements</a></b></summary>
+    <h3>I come from you!</h3>
+    <a href="https://github.com/Charmve/Charmve/blob/master/scripts/result2.png?raw=true"><img align="center" src="scripts/result2.png" alt="Followers"/></a>
     <details><summary>Top <i>24</i> of my followers</b> will be displayed here (Scheduled automatic updates):</summary>
 
 <!--START_SECTION:top-followers-->
@@ -435,18 +428,18 @@ The following content is automatically updated by an automation script.
       <a href="https://github.com/Snailclimb">Guide</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kroitor">
-        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
-      </a>
-      <br />
-      <a href="https://github.com/kroitor">Igor Kroitor</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CHYbeta">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
       </a>
       <br />
       <a href="https://github.com/CHYbeta">chybeta</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kroitor">
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
+      </a>
+      <br />
+      <a href="https://github.com/kroitor">Igor Kroitor</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
@@ -601,24 +594,24 @@ The following content is automatically updated by an automation script.
     </td>
   </tr>
 </table>
+</details>
 <!--END_SECTION:top-followers-->
 </details>
 
-[Index](#table-of-content)
+[Index](#i-come-from-you) | [TOP](#table-of-content) 
 
 <details><summary><b>Miscs</b></summary>
+<h3>Miscs</h3>
 <table><tbody>
   <tr>
-    <td colspan="1" rowspan="2" align="center">
+    <td align="center">
       <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td colspan="2" rowspan="1" align="center">
       <img align="right" src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" width="468"/>
     </td>
-  </tr>
-  <tr>
     <td>
 
 **:octocat: Idols <sup><i>respect!</i></sup>**
@@ -646,9 +639,10 @@ The following content is automatically updated by an automation script.
 </table>
 </details>
 
-[Index](#table-of-content)
+[Index](#miscs) | [TOP](#table-of-content) 
 
 <details><summary><b>Gallery</b></summary>
+  <h3>Gallery</h3>
   <table align="center" style="table-layout: auto; width: 100%;">
   <tbody>
     <tr>
@@ -730,6 +724,8 @@ The following content is automatically updated by an automation script.
   </tbody>
 </table>
 </details>
+
+[Index](#gallery) | [TOP](#table-of-content) 
 
 </details>
 
