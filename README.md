@@ -55,6 +55,12 @@
     <td><img src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black" /></td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-24%25-green&logo=github" /></td>
 </tr>
+<tr>
+    <td align="center"><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank"><img src="https://github.com/Charmve/computer-vision-in-action/raw/main/res/ui/frontpage/2020-sponsors.svg" alt="L0CV" width="36" style="vertical-align:bottom;" /><br> SurfaceDD </a></td>
+    <td><sub>目前最大的工业缺陷检测数据库及论文集</sub><br> <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">Project Home</a> | <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">GitHub</a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Surface-Defect-Detection?style=flat-square&labelColor=black" /></td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-85%25-green&logo=github" /></td>
+</tr>
 </tbody>
 </table>
 
@@ -63,7 +69,8 @@ Your sponsorship means a lot to me. It will help me sustain my projects actively
 <a href="https://charmve.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank"><img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="188px"></a>
 
 > To express my gratitude for your sponsorship, I have prepared a small gift for you. Click on the icon!
-----
+
+---
 
 如果您来自中国区，建议通过微信/支付宝赞助!
 
@@ -73,9 +80,10 @@ Sponsor list: https://charmve.github.io/sponsor.html
 
 ☎️ [Contact me](https://charmve.github.io/img/contact-card.png)
 
-----
+---
+
 <h4> 🐣 <samp>Sponsor Program</samp></h4>
-For sponsors reaching certain tiers to have early access to my WIP works earlier. [More details](https://github.com/Charmve/sponsor-pro) 
+For sponsors reaching certain tiers to have early access to my WIP works earlier. <a href="https://github.com/Charmve/sponsor-pro">More details</a> 
 </div>
 
 <br>
@@ -83,17 +91,17 @@ For sponsors reaching certain tiers to have early access to my WIP works earlier
 <table align="center" width="600"><tbody>
     <tr><td>
     <h2>Table of Content</h2>
-         <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     <ui>
         <li> <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----"> 🖥️ Open-Source Projects</a></li>
         <li> 🔥🔥 <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----"> 📘 Hot Blog Columns</a></li>
         <li> <a href="https://github.com/Charmve#-my-latest-posts">📝 My latest posts</a></li>
-        <li> <a href="https://github.com/Charmve#-youtube-follow-me"><img src="src/assert/icons/youtube.png"  width="24.4px;"> YouTube Vlog</a></li>
+        <li> <a href="https://github.com/Charmve#-youtube-follow-me"><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube Vlog</a></li>
         <li> <a href="https://github.com/Charmve#hearts-acknowledgements">:hearts: Acknowledgements</a></li>
         <li> <a href="https://github.com/Charmve#miscs">Miscs</a></li>
         <li> <a href="https://github.com/Charmve#gallery">Gallery</a></li>
     </ui>
+    <p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td></tr>
 </tbody></table>
 
@@ -103,7 +111,6 @@ For sponsors reaching certain tiers to have early access to my WIP works earlier
 
 <details>
 <summary><b> 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a></b></summary>
-All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers)
 
 <table align="center" style="table-layout: auto; width: 100%;">
     <tr>
@@ -125,6 +132,8 @@ All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repos
         </td>
     </tr>
 </table>
+
+All open-source repo orted by stars. <a href="https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers">here</a>
 
 [TensorFlow]:https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow
 [PyTorch]:https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch
@@ -310,12 +319,14 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 </details>
 
+[Index](#table-of-content)
+
 <details>
-<summary><b>📘 Latest Blog Posts</b></summary>
+<summary><b>📝 Latest Blog Posts</b></summary>
     <a href="https://github.com/kittinan/spotify-github-profile">
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
 </a>
-
+<br>
 <sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1130: `2024-03-11 23:40:10`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
@@ -356,7 +367,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <li> <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04 03:35:30 AM </li>
 <!-- END_SECTION:blog -->
 </td>
-            <td valign="top" width=50%"> 
+            <td valign="top" width="50%"> 
 
 #### 🤠 <a href="" target="_blank">Recommended Blogs</a>
 
@@ -379,11 +390,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </table>
 </details>
 
+[Index](#table-of-content)
+
 <details>
-<summary><b><img src="src/assert/icons/youtube.png"  width="24.4px;"> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
+<summary><b><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
 </b></summary>
 
-<a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a>  <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a>
+<a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a> <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a>
 
 The following content is automatically updated by an automation script.
 
@@ -391,22 +404,25 @@ The following content is automatically updated by an automation script.
 <div alias="Youtube-cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![AI智能量化交易助手，助你自动化交易提高收益](https://ytcards.demolab.com/?id=9eLR_GP1doM&title=AI%E6%99%BA%E8%83%BD%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%8A%A9%E4%BD%A0%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%A4%E6%98%93%E6%8F%90%E9%AB%98%E6%94%B6%E7%9B%8A&lang=en&timestamp=1684768682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170 "AI智能量化交易助手，助你自动化交易提高收益")](https://www.youtube.com/watch?v=9eLR_GP1doM#gh-dark-mode-only)[![AI智能量化交易助手，助你自动化交易提高收益](https://ytcards.demolab.com/?id=9eLR_GP1doM&title=AI%E6%99%BA%E8%83%BD%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%8A%A9%E4%BD%A0%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%A4%E6%98%93%E6%8F%90%E9%AB%98%E6%94%B6%E7%9B%8A&lang=en&timestamp=1684768682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170 "AI智能量化交易助手，助你自动化交易提高收益")](https://www.youtube.com/watch?v=9eLR_GP1doM#gh-light-mode-only)
 [![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）](https://ytcards.demolab.com/?id=CfUf9Jm0AHg&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88CP%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648195411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）")](https://www.youtube.com/watch?v=CfUf9Jm0AHg#gh-dark-mode-only)[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）](https://ytcards.demolab.com/?id=CfUf9Jm0AHg&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88CP%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648195411&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）")](https://www.youtube.com/watch?v=CfUf9Jm0AHg#gh-light-mode-only)
 [![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）](https://ytcards.demolab.com/?id=tzSqUuDHQt8&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88APA%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648193018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）")](https://www.youtube.com/watch?v=tzSqUuDHQt8#gh-dark-mode-only)[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）](https://ytcards.demolab.com/?id=tzSqUuDHQt8&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88APA%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648193018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）")](https://www.youtube.com/watch?v=tzSqUuDHQt8#gh-light-mode-only)
 [![日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”](https://ytcards.demolab.com/?id=f36bbNIr5Wo&title=%E6%97%A5%E8%90%BD%E5%B0%8F%E5%B1%8B+%E2%80%9C%E6%AF%94%E8%B5%B7%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%83%AD%E7%9A%84%E9%99%AA%E4%BC%B4%EF%BC%8C%E5%AD%A4%E7%8B%AC%E6%9B%B4%E8%AE%A9%E4%BA%BA%E8%B8%8F%E5%AE%9E%E2%80%9D&lang=en&timestamp=1608037093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13 "日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”")](https://www.youtube.com/watch?v=f36bbNIr5Wo#gh-dark-mode-only)[![日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”](https://ytcards.demolab.com/?id=f36bbNIr5Wo&title=%E6%97%A5%E8%90%BD%E5%B0%8F%E5%B1%8B+%E2%80%9C%E6%AF%94%E8%B5%B7%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%83%AD%E7%9A%84%E9%99%AA%E4%BC%B4%EF%BC%8C%E5%AD%A4%E7%8B%AC%E6%9B%B4%E8%AE%A9%E4%BA%BA%E8%B8%8F%E5%AE%9E%E2%80%9D&lang=en&timestamp=1608037093&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13 "日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”")](https://www.youtube.com/watch?v=f36bbNIr5Wo#gh-light-mode-only)
 [![Hi, Siri! 日落会给我们答案](https://ytcards.demolab.com/?id=F_pN3vAglIY&title=Hi%2C+Siri%21+%E6%97%A5%E8%90%BD%E4%BC%9A%E7%BB%99%E6%88%91%E4%BB%AC%E7%AD%94%E6%A1%88&lang=en&timestamp=1608036870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16 "Hi, Siri! 日落会给我们答案")](https://www.youtube.com/watch?v=F_pN3vAglIY#gh-dark-mode-only)[![Hi, Siri! 日落会给我们答案](https://ytcards.demolab.com/?id=F_pN3vAglIY&title=Hi%2C+Siri%21+%E6%97%A5%E8%90%BD%E4%BC%9A%E7%BB%99%E6%88%91%E4%BB%AC%E7%AD%94%E6%A1%88&lang=en&timestamp=1608036870&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16 "Hi, Siri! 日落会给我们答案")](https://www.youtube.com/watch?v=F_pN3vAglIY#gh-light-mode-only)
 [![一切都在慢慢變好，2020再见！](https://ytcards.demolab.com/?id=sZ4hziNo8jY&title=%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E6%85%A2%E6%85%A2%E8%AE%8A%E5%A5%BD%EF%BC%8C2020%E5%86%8D%E8%A7%81%EF%BC%81&lang=en&timestamp=1608036720&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42 "一切都在慢慢變好，2020再见！")](https://www.youtube.com/watch?v=sZ4hziNo8jY#gh-dark-mode-only)[![一切都在慢慢變好，2020再见！](https://ytcards.demolab.com/?id=sZ4hziNo8jY&title=%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E6%85%A2%E6%85%A2%E8%AE%8A%E5%A5%BD%EF%BC%8C2020%E5%86%8D%E8%A7%81%EF%BC%81&lang=en&timestamp=1608036720&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42 "一切都在慢慢變好，2020再见！")](https://www.youtube.com/watch?v=sZ4hziNo8jY#gh-light-mode-only)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
-
 </details>
+
+[Index](#table-of-content)
 
 <details>
 <summary><b>:hearts: <a href="https://github.com/sponsors/Charmve">Acknowledgements</a></b></summary>
-    <img src="scripts/result2.png" width="460px;" alt="Followers"/>
-    <b>Top <i>24</i> of my followers</b> will be displayed here (Scheduled automatic updates):
+    <img align="center" src="scripts/result2.png" width="460px;" alt="Followers"/>
+    <details><summary>Top <i>24</i> of my followers</b> will be displayed here (Scheduled automatic updates):</summary>
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -419,18 +435,18 @@ The following content is automatically updated by an automation script.
       <a href="https://github.com/Snailclimb">Guide</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kroitor">
-        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
-      </a>
-      <br />
-      <a href="https://github.com/kroitor">Igor Kroitor</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CHYbeta">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
       </a>
       <br />
       <a href="https://github.com/CHYbeta">chybeta</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kroitor">
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
+      </a>
+      <br />
+      <a href="https://github.com/kroitor">Igor Kroitor</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
@@ -585,18 +601,21 @@ The following content is automatically updated by an automation script.
     </td>
   </tr>
 </table>
+</details>
 <!--END_SECTION:top-followers-->
 </details>
+
+[Index](#table-of-content)
 
 <details><summary><b>Miscs</b></summary>
 <table><tbody>
   <tr>
-    <td align="center">
+    <td colspan="1" rowspan="2" align="center">
       <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
     </td>
   </tr>
   <tr>
-    <td colspan="2" rowspan="1" align="center">
+    <td align="center">
       <img align="right" src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" width="468"/>
     </td>
   </tr>
@@ -627,6 +646,8 @@ The following content is automatically updated by an automation script.
 </tbody>
 </table>
 </details>
+
+[Index](#table-of-content)
 
 <details><summary><b>Gallery</b></summary>
   <table align="center" style="table-layout: auto; width: 100%;">
@@ -717,4 +738,4 @@ The following content is automatically updated by an automation script.
 
 <b>:performing_arts: Leave a message to me? </b>--> https://github.com/Charmve/Charmve/issues
 
-[ContactMe]:https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
+[ContactMe]: https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
