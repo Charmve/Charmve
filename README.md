@@ -1,193 +1,108 @@
-<!--START_SECTION:weather-->
-<img align="center" width="30%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local"></img>
-<!--END_SECTION:weather-->
 <div>
-    <kbd align="center" valign="center">
-        <a href="https://github.com/Charmve/computer-vision-in-action">
-            <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-        </a>
-        <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </kbd>
+        <kbd align="center" valign="center">
+            <a href="https://github.com/Charmve/computer-vision-in-action">
+                <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+            </a>
+            <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </kbd>
 </div>
 
-<h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
+<br>
 
-我的网名是`Charmve` <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>，是一名软件开发工程师，先后任职于360、Momenta，对自动驾驶视觉感知、系统架构、软件开发有略微认识。另外，在量化交易摸爬滚打，也有几年策略研究和实践。目前，我主要关注在：端到端、大模型、自动驾驶、量化交易。下方可以看到我开源的相关项目repo。
+<img align="right" width="30%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
 
-个人主页：https://charmve.github.io
-
-希望跟大家一起多多交流，感兴趣的可以继续看下去。
-
-<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<h2><a href="https://github.com/Charmve"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/sayhi.svg" /></a></h2>
 
 <!--my introduction start-->
-<!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
-> You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop online studying open-source repo is public at [<i><b>@computer-vision-in-action</b></i>](https://github.com/Charmve/computer-vision-in-action) <a href="https://charmve.github.io/computer-vision-in-action"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
-- 🌱 I’m currently working at Momenta.ai, an <b>autonomous driving</b> company. Before that, I was employed at Future Security Labs of Qihoo 360 as a Research SDE. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. ([#2](https://github.com/Charmve/Charmve/issues/2))
-- 🤔 Only two things make me moved. 
-  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
-  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
+<div>
+    Dreaming up ideas and making them come true is where my passion lies. See my project list <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----">here</a>. <code>自动驾驶</code>  <code>量化交易</code>  <code>计算机视觉</code>
+    <b>A few highlights:</b>
+<br><br>
+<table><tbody>
+<tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
+<tr>
+    <td align="center"><a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;" /> <br> UFund </a></td>
+    <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br><sub>运行量化策略自动化完成股票和基金交易的机器人</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black" /></td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github" /></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://charmve.github.io/OccNet-Course" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" alt="BEV-Occ" width="36" style="vertical-align:bottom;" /><br> BEV-Occ </a></td>
+    <td><sub>国内首个占据栅格网络全栈课程《从BEV到Occupancy Network：算法原理与工程实践》</sub><br><a href="https://github.com/Charmve/OccNet-Course" target="_blank">GitHub</a> | <a href="http://111.229.117.200:7001" target="_blank">Course home</a> | <a href="https://charmve.github.io/OccNet-Course" target="_blank">Slides</a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OccNet-Course?style=flat-square&labelColor=black" /></td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-90%25-green&logo=github" /></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://charmve.github.io/L0CV-web" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" alt="L0CV" width="36" style="vertical-align:bottom;" /><br> L0CV </a></td>
+    <td><sub>一个代码可在线交互运行的计算机视觉闭环学习平台</sub><br> <a href="https://charmve.github.io/L0CV-web" target="_blank">Project Home</a> | <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">GitHub</a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black" /></td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-82%25-green&logo=github" /></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/Charmve/AR-DAO" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="36" style="vertical-align:bottom;" /><br> AR-DAO </a></td>
+    <td><sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub>sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
+    </td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github" /></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/DeepVTuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/76906704?s=200&v=4" alt="VTuber" width="36" style="vertical-align:bottom;" /> <br> Vtuber </a></td><td>OpenVTuber - 虚拟アイドル共享计划<br><a href="https://github.com/DeepVTuber/OpenVTuber" target="_blank"> OpenVTuber </a>| <a href="https://github.com/DeepVTuber/DeepVTB" target="_blank">DeepVTB</a>| <a href="https://github.com/DeepVTuber/DanceNet3D" target="_blank">DanceNet3D</a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/OpenVTuber?style=flat-square&labelColor=black" /> | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DeepVTB?style=flat-square&labelColor=black" /> | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DanceNet3D?style=flat-square&labelColor=black" /></td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-72%25-green&logo=github" /></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/Charmve/TimeWarp" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/TimeWarp/main/images/ui/logo_V.png" alt="TimeWarp" width="36" style="vertical-align:bottom;" /><br> TimeWarp </a></td>
+    <td><sub>Replacing Real-Time the High-Resolution Meeting Background Freely</sub> </td>
+    <td><img src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black" /></td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-24%25-green&logo=github" /></td>
+</tr>
+</tbody>
+</table>
 
----
+Your sponsorship means a lot to me. It will help me sustain my projects actively and make more of my ideas come true. Much appreciated! 💖 🙏
 
-  ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
+<a href="https://charmve.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank"><img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="188px"></a>
 
-</details>
+> To express my gratitude for your sponsorship, I have prepared a small gift for you. Click on the icon!
+----
 
-<!--my introduction end -->
+如果您来自中国区，建议通过微信/支付宝赞助!
 
-<br>
+<a href="https://charmve.github.io/sponsor_files/imgs/sponsor-wechat.jpg"><img src="https://img.shields.io/badge/微信-Charmve-green?logo=wechat" alt="微信支付"></a> <a href="https://charmve.github.io/sponsor_files/imgs/sponsor-alipay.jpg"><img src="https://img.shields.io/badge/支付宝-Charmve-blue?logo=alipay" alt="支付宝"></a> <a href="https://www.paypal.com/paypalme/Charmve" target="_blank"><img src="https://img.shields.io/badge/Paypal-Charmve-blue?logo=paypal" alt="Paypal"></a>
 
-<!-- github stats
-<p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    --
-  </a>
-</p>
--->
+Sponsor list: https://charmve.github.io/sponsor.html
 
-<p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="JackHCC's Stats" >
-    -->
-  </a>
-</p>
+☎️ [Contact me](https://charmve.github.io/img/contact-card.png)
 
-<!--  media account 
-<div align="center">
-  <a href="https://www.zhihu.com/people/MaiweiE-com" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="3%" alt="" /></a>
-  <a href="https://charmve.medium.com/" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219255827-67c1a27f-f8c5-46a9-811d-5e57448c61d1.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218347213-c080267f-cbb6-443e-8532-8e1ed9a58ea9.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://twitter.com/" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218346637-d30c8a0f-3eba-4699-8131-512fb06d46db.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://www.youtube.com/@Charmve" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218346691-ceb2116a-465a-40af-8424-9f30d2348ca9.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://space.bilibili.com/62079686" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219026751-d7d14cce-a7c9-4e82-9942-8375fca65b99.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
+----
+<h4> 🐣 <samp>Sponsor Program</samp></h4>
+For sponsors reaching certain tiers to have early access to my WIP works earlier. [More details](https://github.com/Charmve/sponsor-pro) 
 </div>
- --->
 
-<p align="center">
-  <a href= "src/assert/maiwei_paper.png" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://blog.csdn.net/Charmve" target="_blank" alt="CSDN" title="CSDN">
-    <img src="src/assert/icons/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="src/assert/icons/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/62079686" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="src/assert/icons/bilibili.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href= "https://www.instagram.com/charmve_/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="src/assert/icons/instagram.svg" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
-    <img src="src/assert/icons/youtube-play.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/charmve" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="src/assert/icons/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/years/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
-<h2></h2>
-
-👈 Follow me on the left（点击左侧关注我）
-
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
- 
-**Languages and Frameworks**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
-<code><img height="20" width="22" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="src/assert/icons/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-
-**Tools and Environments**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="OpenCV" title="OpenCV"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-    
 <br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
-<!--END_SECTION:waka-->
+<table align="center" width="600"><tbody>
+    <tr><td>
+    <h2>Table of Content</h2>
+         <p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <ui>
+        <li> <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----"> 🖥️ Open-Source Projects</a></li>
+        <li> 🔥🔥 <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----"> 📘 Hot Blog Columns</a></li>
+        <li> <a href="https://github.com/Charmve#-my-latest-posts">📝 My latest posts</a></li>
+        <li> <a href="https://github.com/Charmve#-youtube-follow-me"><img src="src/assert/icons/youtube.png"  width="24.4px;"> YouTube Vlog</a></li>
+        <li> <a href="https://github.com/Charmve#hearts-acknowledgements">:hearts: Acknowledgements</a></li>
+        <li> <a href="https://github.com/Charmve#miscs">Miscs</a></li>
+        <li> <a href="https://github.com/Charmve#gallery">Gallery</a></li>
+    </ui>
+    </td></tr>
+</tbody></table>
 
-> By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve) .
+<!-- content -->
+<details>
+<summary><p align="right">Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;</p></summary>
 
-### 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a>
-
+<details>
+<summary><b> 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a></b></summary>
 All open-source repo orted by stars. [here](https://github.com/Charmve?tab=repositories&q=&type=source&language=&sort=stargazers)
 
 <table align="center" style="table-layout: auto; width: 100%;">
@@ -342,7 +257,7 @@ These columns are automatically updated by github action.
             <img align="center" width="160" alt="community" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" />
           </picture>
         </a>
-        <br>(点击加入我的知识星球🌍)
+        <br>(点击加入我们的知识星球🌍)
     </td>
 </tr>
 <!--END_SECTION:subscribe my blog-->
@@ -371,7 +286,7 @@ These columns are automatically updated by github action.
 
 </td></tr> 
 
-<tr><th> Tools & Misc </th></tr>
+<tr><th> Tools </th></tr>
 <tr><td>
 
 | Title | Description | Stars | Technologies |
@@ -391,17 +306,107 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 <!--START_SECTION:sponsors-->
 <a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> &emsp;&emsp; <a href='https://ko-fi.com/U7U427H25' target='_blank'><img height='42' style='border:10px;height:42.11px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<!--
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
 <!--END_SECTION:sponsors-->
 
-### :hearts: [Acknowledgements](https://github.com/sponsors/Charmve)
+</details>
 
-<b>Top <i>24</i> of my followers</b> will be displayed here:
+<details>
+<summary><b>📘 Latest Blog Posts</b></summary>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
+</a>
+
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1130: `2024-03-11 23:40:10`）</sup>
+
+<!-- BLOG-POST-LIST:START -->
+- 🥳 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
+- 🙉 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
+- 🤩 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
+- 🪄 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
+- 🕴 [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
+- 💫 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)
+- 🤡 [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)<!-- BLOG-POST-LIST:END -->
+
+<!-- ZHIHU-POST-LIST:START -->
+- 🥳 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023
+- 🙉 [自动驾驶BEV感知的下一步是什么？](http://www.zhihu.com/question/538920658?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3258960067) | Oct 21, 2023
+- 🤩 [occupancy network对自动驾驶能带来多大的提升？会让激光雷达变得鸡肋吗？](http://www.zhihu.com/question/614057120?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3255983499) | Oct 19, 2023
+- 🪄 [目标检测的未来是什么？](http://www.zhihu.com/question/394900756?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3248964981) | Oct 13, 2023
+- 🕴 [CPU究竟是如何工作的呢？](http://www.zhihu.com/question/24474339?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3202623745) | Sep 8, 2023<!-- ZHIHU-POST-LIST:END -->
+
+<br>
+
+<table>
+    <tbody>
+        <tr> 
+            <td valign="top" colspan="2" rowspan="1">
+                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" style="border-radius:8px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="https://charmve.github.io/img/contact-card.png" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29084184/261807178-91f3fada-8549-40ab-a446-562bed9a046f.png" width="24.4px;" align="center" valign="center"/> 微信公众号</a> &emsp; <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29084184/261806656-a65ac216-fdd8-4199-990b-467c249ac3e3.png" width="24.4px;" align="center" valign="center"/> Medium</a> &emsp;
+            </td>
+        </tr>
+        <tr> 
+            <td valign="top" width="50%"> 
+
+#### 🤹‍♀️ <a href="https://medium.com/@charmve" target="_blank">My Recent Blogs</a>
+
+<!-- START_SECTION:blog -->
+<li> <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05 04:06:37 AM </li>
+<li> <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02 09:38:07 AM </li>
+<li> <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23 06:41:16 AM </li>
+<li> <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11 03:22:34 AM </li>
+<li> <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04 03:35:30 AM </li>
+<!-- END_SECTION:blog -->
+</td>
+            <td valign="top" width=50%"> 
+
+#### 🤠 <a href="" target="_blank">Recommended Blogs</a>
+
+<!-- START_SECTION:brain -->
+<li> <a href='https://distill.pub/2021/understanding-gnns' target='_blank'>Understanding Convolutions on Graphs</a> - 2021-09-02 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2021/gnn-intro' target='_blank'>A Gentle Introduction to Graph Neural Networks</a> - 2021-09-02 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2021/distill-hiatus' target='_blank'>Distill Hiatus</a> - 2021-07-02 08:00:00 PM </li>
+<li> <a href='https://distill.pub/selforg/2021/adversarial' target='_blank'>Adversarial Reprogramming of Neural Cellular Automata</a> - 2021-05-06 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2020/circuits/weight-banding' target='_blank'>Weight Banding</a> - 2021-04-08 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2020/circuits/branch-specialization' target='_blank'>Branch Specialization</a> - 2021-04-05 08:00:00 PM </li>
+<li> <a href='https://distill.pub/2021/multimodal-neurons' target='_blank'>Multimodal Neurons in Artificial Neural Networks</a> - 2021-03-04 08:00:00 PM </li>
+<!-- END_SECTION:brain -->
+
+<!-- START_SECTION:douban -->
+
+<!-- END_SECTION:douban -->
+</td>
+        </tr> 
+    </tbody> 
+</table>
+</details>
+
+<details>
+<summary><b><img src="src/assert/icons/youtube.png"  width="24.4px;"> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
+</b></summary>
+
+<a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a>  <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a>
+
+The following content is automatically updated by an automation script.
+
+<!-- https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<div alias="Youtube-cards" align="center">
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![AI智能量化交易助手，助你自动化交易提高收益](https://ytcards.demolab.com/?id=9eLR_GP1doM&title=AI%E6%99%BA%E8%83%BD%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%8A%A9%E4%BD%A0%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%A4%E6%98%93%E6%8F%90%E9%AB%98%E6%94%B6%E7%9B%8A&lang=en&timestamp=1684768682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170 "AI智能量化交易助手，助你自动化交易提高收益")](https://www.youtube.com/watch?v=9eLR_GP1doM#gh-dark-mode-only)[![AI智能量化交易助手，助你自动化交易提高收益](https://ytcards.demolab.com/?id=9eLR_GP1doM&title=AI%E6%99%BA%E8%83%BD%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%8A%A9%E4%BD%A0%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%A4%E6%98%93%E6%8F%90%E9%AB%98%E6%94%B6%E7%9B%8A&lang=en&timestamp=1684768682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170 "AI智能量化交易助手，助你自动化交易提高收益")](https://www.youtube.com/watch?v=9eLR_GP1doM#gh-light-mode-only)
+[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）](https://ytcards.demolab.com/?id=CfUf9Jm0AHg&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88CP%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648195411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）")](https://www.youtube.com/watch?v=CfUf9Jm0AHg#gh-dark-mode-only)[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）](https://ytcards.demolab.com/?id=CfUf9Jm0AHg&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88CP%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648195411&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）")](https://www.youtube.com/watch?v=CfUf9Jm0AHg#gh-light-mode-only)
+[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）](https://ytcards.demolab.com/?id=tzSqUuDHQt8&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88APA%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648193018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）")](https://www.youtube.com/watch?v=tzSqUuDHQt8#gh-dark-mode-only)[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）](https://ytcards.demolab.com/?id=tzSqUuDHQt8&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88APA%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648193018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）")](https://www.youtube.com/watch?v=tzSqUuDHQt8#gh-light-mode-only)
+[![日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”](https://ytcards.demolab.com/?id=f36bbNIr5Wo&title=%E6%97%A5%E8%90%BD%E5%B0%8F%E5%B1%8B+%E2%80%9C%E6%AF%94%E8%B5%B7%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%83%AD%E7%9A%84%E9%99%AA%E4%BC%B4%EF%BC%8C%E5%AD%A4%E7%8B%AC%E6%9B%B4%E8%AE%A9%E4%BA%BA%E8%B8%8F%E5%AE%9E%E2%80%9D&lang=en&timestamp=1608037093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13 "日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”")](https://www.youtube.com/watch?v=f36bbNIr5Wo#gh-dark-mode-only)[![日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”](https://ytcards.demolab.com/?id=f36bbNIr5Wo&title=%E6%97%A5%E8%90%BD%E5%B0%8F%E5%B1%8B+%E2%80%9C%E6%AF%94%E8%B5%B7%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%83%AD%E7%9A%84%E9%99%AA%E4%BC%B4%EF%BC%8C%E5%AD%A4%E7%8B%AC%E6%9B%B4%E8%AE%A9%E4%BA%BA%E8%B8%8F%E5%AE%9E%E2%80%9D&lang=en&timestamp=1608037093&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13 "日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”")](https://www.youtube.com/watch?v=f36bbNIr5Wo#gh-light-mode-only)
+[![Hi, Siri! 日落会给我们答案](https://ytcards.demolab.com/?id=F_pN3vAglIY&title=Hi%2C+Siri%21+%E6%97%A5%E8%90%BD%E4%BC%9A%E7%BB%99%E6%88%91%E4%BB%AC%E7%AD%94%E6%A1%88&lang=en&timestamp=1608036870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16 "Hi, Siri! 日落会给我们答案")](https://www.youtube.com/watch?v=F_pN3vAglIY#gh-dark-mode-only)[![Hi, Siri! 日落会给我们答案](https://ytcards.demolab.com/?id=F_pN3vAglIY&title=Hi%2C+Siri%21+%E6%97%A5%E8%90%BD%E4%BC%9A%E7%BB%99%E6%88%91%E4%BB%AC%E7%AD%94%E6%A1%88&lang=en&timestamp=1608036870&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16 "Hi, Siri! 日落会给我们答案")](https://www.youtube.com/watch?v=F_pN3vAglIY#gh-light-mode-only)
+[![一切都在慢慢變好，2020再见！](https://ytcards.demolab.com/?id=sZ4hziNo8jY&title=%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E6%85%A2%E6%85%A2%E8%AE%8A%E5%A5%BD%EF%BC%8C2020%E5%86%8D%E8%A7%81%EF%BC%81&lang=en&timestamp=1608036720&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42 "一切都在慢慢變好，2020再见！")](https://www.youtube.com/watch?v=sZ4hziNo8jY#gh-dark-mode-only)[![一切都在慢慢變好，2020再见！](https://ytcards.demolab.com/?id=sZ4hziNo8jY&title=%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E6%85%A2%E6%85%A2%E8%AE%8A%E5%A5%BD%EF%BC%8C2020%E5%86%8D%E8%A7%81%EF%BC%81&lang=en&timestamp=1608036720&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42 "一切都在慢慢變好，2020再见！")](https://www.youtube.com/watch?v=sZ4hziNo8jY#gh-light-mode-only)
+<!-- END YOUTUBE-CARDS -->
+
+</div>
+
+</details>
+
+<details>
+<summary><b>:hearts: <a href="https://github.com/sponsors/Charmve">Acknowledgements</a></b></summary>
+    <img src="scripts/result2.png" width="460px;" alt="Followers"/>
+    <b>Top <i>24</i> of my followers</b> will be displayed here (Scheduled automatic updates):
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -414,18 +419,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Snailclimb">Guide</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kroitor">
-        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
-      </a>
-      <br />
-      <a href="https://github.com/kroitor">Igor Kroitor</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CHYbeta">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
       </a>
       <br />
       <a href="https://github.com/CHYbeta">chybeta</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kroitor">
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
+      </a>
+      <br />
+      <a href="https://github.com/kroitor">Igor Kroitor</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
@@ -581,156 +586,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+</details>
 
-<!--
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
--->
-
-### <img src="src/assert/icons/youtube.png"  width="24.4px;"> YouTube [[Follow me]](https://www.youtube.com/@Charmve)
-
-<a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a>  <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a>
-
-The following content is automatically updated by an automation script.
-
-<!-- https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div alias="Youtube-cards" align="center">
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![AI智能量化交易助手，助你自动化交易提高收益](https://ytcards.demolab.com/?id=9eLR_GP1doM&title=AI%E6%99%BA%E8%83%BD%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%8A%A9%E4%BD%A0%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%A4%E6%98%93%E6%8F%90%E9%AB%98%E6%94%B6%E7%9B%8A&lang=en&timestamp=1684768682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170 "AI智能量化交易助手，助你自动化交易提高收益")](https://www.youtube.com/watch?v=9eLR_GP1doM#gh-dark-mode-only)[![AI智能量化交易助手，助你自动化交易提高收益](https://ytcards.demolab.com/?id=9eLR_GP1doM&title=AI%E6%99%BA%E8%83%BD%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%8A%A9%E4%BD%A0%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%A4%E6%98%93%E6%8F%90%E9%AB%98%E6%94%B6%E7%9B%8A&lang=en&timestamp=1684768682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170 "AI智能量化交易助手，助你自动化交易提高收益")](https://www.youtube.com/watch?v=9eLR_GP1doM#gh-light-mode-only)
-[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）](https://ytcards.demolab.com/?id=CfUf9Jm0AHg&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88CP%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648195411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）")](https://www.youtube.com/watch?v=CfUf9Jm0AHg#gh-dark-mode-only)[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）](https://ytcards.demolab.com/?id=CfUf9Jm0AHg&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88CP%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648195411&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （CP场景）")](https://www.youtube.com/watch?v=CfUf9Jm0AHg#gh-light-mode-only)
-[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）](https://ytcards.demolab.com/?id=tzSqUuDHQt8&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88APA%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648193018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）")](https://www.youtube.com/watch?v=tzSqUuDHQt8#gh-dark-mode-only)[![自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）](https://ytcards.demolab.com/?id=tzSqUuDHQt8&title=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%A7%86%E8%A7%89%E6%96%B9%E6%A1%88+%7C+%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%94%BE%E4%BB%BF%E7%9C%9F%EF%BC%8C%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E9%AA%8C%E8%AF%81+%EF%BC%88APA%E5%9C%BA%E6%99%AF%EF%BC%89&lang=en&timestamp=1648193018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21 "自动驾驶视觉方案 | 数据回放仿真，视觉感知验证 （APA场景）")](https://www.youtube.com/watch?v=tzSqUuDHQt8#gh-light-mode-only)
-[![日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”](https://ytcards.demolab.com/?id=f36bbNIr5Wo&title=%E6%97%A5%E8%90%BD%E5%B0%8F%E5%B1%8B+%E2%80%9C%E6%AF%94%E8%B5%B7%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%83%AD%E7%9A%84%E9%99%AA%E4%BC%B4%EF%BC%8C%E5%AD%A4%E7%8B%AC%E6%9B%B4%E8%AE%A9%E4%BA%BA%E8%B8%8F%E5%AE%9E%E2%80%9D&lang=en&timestamp=1608037093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13 "日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”")](https://www.youtube.com/watch?v=f36bbNIr5Wo#gh-dark-mode-only)[![日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”](https://ytcards.demolab.com/?id=f36bbNIr5Wo&title=%E6%97%A5%E8%90%BD%E5%B0%8F%E5%B1%8B+%E2%80%9C%E6%AF%94%E8%B5%B7%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%83%AD%E7%9A%84%E9%99%AA%E4%BC%B4%EF%BC%8C%E5%AD%A4%E7%8B%AC%E6%9B%B4%E8%AE%A9%E4%BA%BA%E8%B8%8F%E5%AE%9E%E2%80%9D&lang=en&timestamp=1608037093&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13 "日落小屋 “比起忽冷忽热的陪伴，孤独更让人踏实”")](https://www.youtube.com/watch?v=f36bbNIr5Wo#gh-light-mode-only)
-[![Hi, Siri! 日落会给我们答案](https://ytcards.demolab.com/?id=F_pN3vAglIY&title=Hi%2C+Siri%21+%E6%97%A5%E8%90%BD%E4%BC%9A%E7%BB%99%E6%88%91%E4%BB%AC%E7%AD%94%E6%A1%88&lang=en&timestamp=1608036870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16 "Hi, Siri! 日落会给我们答案")](https://www.youtube.com/watch?v=F_pN3vAglIY#gh-dark-mode-only)[![Hi, Siri! 日落会给我们答案](https://ytcards.demolab.com/?id=F_pN3vAglIY&title=Hi%2C+Siri%21+%E6%97%A5%E8%90%BD%E4%BC%9A%E7%BB%99%E6%88%91%E4%BB%AC%E7%AD%94%E6%A1%88&lang=en&timestamp=1608036870&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16 "Hi, Siri! 日落会给我们答案")](https://www.youtube.com/watch?v=F_pN3vAglIY#gh-light-mode-only)
-[![一切都在慢慢變好，2020再见！](https://ytcards.demolab.com/?id=sZ4hziNo8jY&title=%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E6%85%A2%E6%85%A2%E8%AE%8A%E5%A5%BD%EF%BC%8C2020%E5%86%8D%E8%A7%81%EF%BC%81&lang=en&timestamp=1608036720&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42 "一切都在慢慢變好，2020再见！")](https://www.youtube.com/watch?v=sZ4hziNo8jY#gh-dark-mode-only)[![一切都在慢慢變好，2020再见！](https://ytcards.demolab.com/?id=sZ4hziNo8jY&title=%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E6%85%A2%E6%85%A2%E8%AE%8A%E5%A5%BD%EF%BC%8C2020%E5%86%8D%E8%A7%81%EF%BC%81&lang=en&timestamp=1608036720&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42 "一切都在慢慢變好，2020再见！")](https://www.youtube.com/watch?v=sZ4hziNo8jY#gh-light-mode-only)
-<!-- END YOUTUBE-CARDS -->
-
-</div>
-
- <b>:performing_arts: Leave a message to me? </b>--> https://github.com/Charmve/Charmve/issues
-
----
-
-[ContactMe]:https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
-
-<div align="center">
-  <a href="https://github.com/Charmve/AR-DAO" alt="AR-DAO" title="AR-DAO" target="_blank"\>
-    <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/ads-ardao.svg" width="156" height="78" alt="Click to see the source">
-  </a>
-  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-  </a>
-  <a href="https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png">
-    <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/conect_me.svg" width="156" height="78" alt="Click to see the source">
-  </a>
-  <a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-    <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/header.svg" width="156" height="78" alt="Click to see the source">
-  </a>
-  <a href="https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/ads-sample.svg" width="156" height="78" alt="Click to see the source">
-  </a>
-    <div align="right">
-        <sup>Ads</sup> &emsp;&emsp;&emsp;
-    </div>
-</div>
-
-### 📘 Latest Blog Posts
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
-</a>
-
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock9: `2024-03-21 21:08:19`）</sup>
-
-<!-- BLOG-POST-LIST:START -->
-- 🥳 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
-- 🙉 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
-- 🤩 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
-- 🪄 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
-- 🕴 [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
-- 💫 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)
-- 🤡 [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)<!-- BLOG-POST-LIST:END -->
-
-<!-- ZHIHU-POST-LIST:START -->
-- 🥳 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023
-- 🙉 [自动驾驶BEV感知的下一步是什么？](http://www.zhihu.com/question/538920658?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3258960067) | Oct 21, 2023
-- 🤩 [occupancy network对自动驾驶能带来多大的提升？会让激光雷达变得鸡肋吗？](http://www.zhihu.com/question/614057120?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3255983499) | Oct 19, 2023
-- 🪄 [目标检测的未来是什么？](http://www.zhihu.com/question/394900756?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3248964981) | Oct 13, 2023
-- 🕴 [CPU究竟是如何工作的呢？](http://www.zhihu.com/question/24474339?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3202623745) | Sep 8, 2023<!-- ZHIHU-POST-LIST:END -->
-
-<br>
-
-<table>
-    <tbody>
-        <tr> 
-            <td valign="top" colspan="2" rowspan="1">
-                <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank"><img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="24.4px;" align="center" valign="center"/> 知乎</a> &emsp; <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://csdnimg.cn/public/favicon.ico" width="24.4px;" style="border-radius:8px;" align="center" valign="center"/> CSDN</a> &emsp; <a href="https://charmve.github.io/img/contact-card.png" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29084184/261807178-91f3fada-8549-40ab-a446-562bed9a046f.png" width="24.4px;" align="center" valign="center"/> 微信公众号</a> &emsp; <a href="https://medium.com/@charmve" target="_blank"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29084184/261806656-a65ac216-fdd8-4199-990b-467c249ac3e3.png" width="24.4px;" align="center" valign="center"/> Medium</a> &emsp;
-            </td>
-        </tr>
-        <tr> 
-            <td valign="top" width="50%"> 
-
-#### 🤹‍♀️ <a href="https://medium.com/@charmve" target="_blank">My Recent Blogs</a>
-
-<!-- START_SECTION:blog -->
-<li> <a href='https://charmve.medium.com/generalized-visual-language-models-a4ac0faf563b?source=rss-445dff6553ed------2' target='_blank'>Generalized Visual Language Models</a> - 2022-09-05 04:06:37 AM </li>
-<li> <a href='https://charmve.medium.com/an-easy-to-go-tool-chain-for-computer-vision-with-mlops-automl-and-data-security-fb07044f42e1?source=rss-445dff6553ed------2' target='_blank'>An easy-to-go tool-chain for computer vision with MLOps, AutoML and Data Security</a> - 2021-09-02 09:38:07 AM </li>
-<li> <a href='https://charmve.medium.com/scene-text-detection-suvery-papers-code-da53b1b475d2?source=rss-445dff6553ed------2' target='_blank'>Scene-Text-Detection: Suvery, papers & Code</a> - 2020-11-23 06:41:16 AM </li>
-<li> <a href='https://charmve.medium.com/awesome-semantic-segmentation-6150dc53ac34?source=rss-445dff6553ed------2' target='_blank'>Awesome Semantic Segmentation</a> - 2020-11-11 03:22:34 AM </li>
-<li> <a href='https://charmve.medium.com/cvpr-2020-a-snapshot-7b65207013e1?source=rss-445dff6553ed------2' target='_blank'>CVPR 2020: A Snapshot</a> - 2020-11-04 03:35:30 AM </li>
-<!-- END_SECTION:blog -->
-</td>
-            <td valign="top" width=50%"> 
-
-#### 🤠 <a href="" target="_blank">Recommended Blogs</a>
-
-<!-- START_SECTION:brain -->
-<li> <a href='https://distill.pub/2021/understanding-gnns' target='_blank'>Understanding Convolutions on Graphs</a> - 2021-09-02 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2021/gnn-intro' target='_blank'>A Gentle Introduction to Graph Neural Networks</a> - 2021-09-02 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2021/distill-hiatus' target='_blank'>Distill Hiatus</a> - 2021-07-02 08:00:00 PM </li>
-<li> <a href='https://distill.pub/selforg/2021/adversarial' target='_blank'>Adversarial Reprogramming of Neural Cellular Automata</a> - 2021-05-06 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2020/circuits/weight-banding' target='_blank'>Weight Banding</a> - 2021-04-08 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2020/circuits/branch-specialization' target='_blank'>Branch Specialization</a> - 2021-04-05 08:00:00 PM </li>
-<li> <a href='https://distill.pub/2021/multimodal-neurons' target='_blank'>Multimodal Neurons in Artificial Neural Networks</a> - 2021-03-04 08:00:00 PM </li>
-<!-- END_SECTION:brain -->
-
-<!-- START_SECTION:douban -->
-
-<!-- END_SECTION:douban -->
-</td>
-        </tr> 
-    </tbody> 
-</table>
-
-<table>
+<details><summary><b>Miscs</b></summary>
+<table><tbody>
   <tr>
     <td align="center">
-      <details open><summary>Worldmap</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
-    </td>
-    <td align="center">
       <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
-<!--       <details><summary>GitHub City</summary><a href="https://honzaap.github.io/GithubCity/?name=Charmve&year=2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></a></details> -->
     </td>
   </tr>
   <tr>
     <td colspan="2" rowspan="1" align="center">
-      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.reactions.svg" alt=""></img>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" rowspan="4" align="center" width="42%">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg" alt=""></img>
-    </td>
-    <td align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img>
-    </td>
-  <tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Charmve/Charmve/blob/master/src/assert/metrics.plugin.sponsorships.svg" alt=""></img>
+      <img align="right" src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" width="468"/>
     </td>
   </tr>
   <tr>
@@ -757,73 +624,97 @@ The following content is automatically updated by an automation script.
 </div>
     </td>
   </tr>
+</tbody>
+</table>
+</details>
+
+<details><summary><b>Gallery</b></summary>
+  <table align="center" style="table-layout: auto; width: 100%;">
+  <tbody>
+    <tr>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+       <td width=60%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+    </tr>
+  </tbody>
 </table>
 
-<div align="center">
-    <img src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" width="468"/>
-<!--
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-  <a href="https://stackoverflow.com/users/8317261/charmve" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8317261" height="300" alt="Charmve StackOverflow" style="vertical-align:bottom;"/>
-  </a> -->
-</div>
+<table align="center" style="table-layout: auto; width: 100%;">
+  <tbody>
+    <tr>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+       <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+       <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+        <td width=20%>
+            <div align="center">
+               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+            </div>
+        </td>
+    </tr>
+  </tbody>
+</table>
+</details>
 
-<!-- https://github.com/sun0225SUN/sun0225SUN/blob/main/.github/workflows/metrics.yml -->
+</details>
 
-<br>
+---
 
-<!-- Belarus - My Home-->
-<!-- 
-{{< mapbox lng=121.485 lat=31.233 zoom=12 >}}
--->
-<div align="right" midth="70%">
+<b>:performing_arts: Leave a message to me? </b>--> https://github.com/Charmve/Charmve/issues
 
-```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [120.619585, 31.299379],
-             [120.6195857188, 31.2993792421],
-             [120.6195857399, 31.3093798078],
-             [121.4737, 31.2304],
-             [116.4074, 39.9042],
-             [114.1694, 22.3193]
-         ]
-       ]
-     }
-   }
- ]
-}
-```
-
-</div>
-
-<br>
-
-🚧 **My Todoist Stats: ⬇️**
-
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![gpt-eyes](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=gpt-eyes)](https://github.com/Charmve/gpt-eyes) 
--->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Qbot](https://github-readme-stats.vercel.app/api/pin/?username=UFund-Me&repo=Qbot)](https://github.com/UFund-Me/Qbot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![gpt-eyes](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=gpt-eyes)](https://github.com/Charmve/gpt-eyes)  
-
-<div>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/UFund-Me/Qbot#-community" class="rich-diff-level-one">
-       <picture>
-         <source media="(prefers-color-scheme: dark)" align="center" width="240" alt="community" srcset="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu2.png" />
-         <img align="center" width="240" alt="community" src="https://github.com/Charmve/Charmve/blob/master/src/assert/zhishixingqiu.png" />
-       </picture>
-    </a>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(点击加入我的知识星球 🌍)
-</div>
+[ContactMe]:https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
