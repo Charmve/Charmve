@@ -304,6 +304,7 @@
 
 ## Others 
 
+- [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
 - [OpenGVLab/DriveMLM](https://github.com/OpenGVLab/DriveMLM) - 
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
@@ -353,6 +354,8 @@
 
 ## Python 
 
+- [YoushaaMurhij/OFMPNet](https://github.com/YoushaaMurhij/OFMPNet) - Pytorch implementation for the paper: "OFMPNet: Deep End-to-End Model for Occupancy and Flow Prediction in Urban Environment" [In Press]
+- [wenbin-lin/OcclusionFusion](https://github.com/wenbin-lin/OcclusionFusion) - OcclusionFusion: realtime dynamic 3D reconstruction based on single-view RGB-D
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything, MobileSAM!!
