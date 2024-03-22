@@ -603,21 +603,21 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <h3>Miscs</h3>
 <table><tbody>
   <tr>
-    <td align="center">
+    <td colspan="1" rowspan=2" align="center">
       <details open><summary>GitHub Skyline</summary><a href="https://skyline.github.com/charmve/2023"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></a></details>
+    </td>
+    <td align="center">
+      <img align="right" src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" width="468"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" rowspan="1" align="center">
-      <img align="right" src="https://readme-jokes-rouge.vercel.app/api" alt="Jokes Card" width="468"/>
-    </td>
     <td>
 
 **:octocat: Idols <sup><i>respect!</i></sup>**
 
 <div id="idols">
   <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
-    <img src="https://camo.githubusercontent.com/cb666029311a3194da1c43912946b170634fc77c007ad8b55449eb13fa5db29c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f73746576656e2e706e67" width="88" alt="steven"/>
+    <img src="https://github.com/Charmve/Charmve/assets/29084184/0c3e3583-1402-4b07-ba22-d9118dec456f" width="88" alt="steven"/>
   </a>
   <a href="" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
     <img src="https://github.com/Charmve/Charmve/assets/29084184/703702d3-6bc6-47bd-88af-a308667052f8" style="border-radius: 8px;" width="88" alt="奥巴马"/>
