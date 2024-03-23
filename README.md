@@ -40,7 +40,7 @@
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/Charmve/AR-DAO" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="36" style="vertical-align:bottom;" /><br> AR-DAO </a></td>
-    <td><sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub>sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
+    <td><sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
     </td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github" /></td>
 </tr>
