@@ -58,13 +58,36 @@
 </tbody>
 </table>
 
+<br>
+
+---
+
+<!-- sponsor 1---
+<div align="center">
+    <kbd align="center" valign="center">
+<h2> 🐣 <samp>Sponsor Program</samp></h2>
+For sponsors reaching certain tiers to have early access to my WIP works earlier. <a href="https://github.com/Charmve/sponsor-pro">More details</a> 
+    </kbd>
+</div>
+</div>
+<br>
+--->
+
+<!-- sponsor 2--->
+<div align="center">
+    <kbd align="center" valign="center">
+            <kbd align="center" valign="center">
+<h2> <a href="https://github.com/sponsors/Charmve"><img src="https://img.shields.io/static/v1?label=Sponsor&amp;message=%E2%9D%A4&amp;logo=GitHub&amp;color=%23fe8e86"></a><br>🐣 <samp>Sponsor Program</samp></h2></kbd>
+For sponsors reaching certain tiers to have early access to my WIP works earlier. <a href="https://github.com/Charmve/sponsor-pro">More details</a> 
+    </kbd>
+</div>
+<br>
+
 Your sponsorship means a lot to me. It will help me sustain my projects actively and make more of my ideas come true. Much appreciated! 💖 🙏
 
 <a href="https://charmve.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank"><img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="188px"></a>
 
 > To express my gratitude for your sponsorship, I have prepared a small gift for you. Click on the icon!
-
----
 
 如果您来自中国区，建议通过微信/支付宝赞助!
 
@@ -76,12 +99,6 @@ Sponsor list: https://charmve.github.io/sponsor.html
 ☎️ <a href="https://charmve.github.io/img/contact-card.png">Contact me</a>
 </td></tr></table>
 
-<div align="center">
-    <kbd align="center" valign="center">
-<h2> 🐣 <samp>Sponsor Program</samp></h2>
-For sponsors reaching certain tiers to have early access to my WIP works earlier. <a href="https://github.com/Charmve/sponsor-pro">More details</a> 
-    </kbd>
-</div>
 </div>
 
 ---
