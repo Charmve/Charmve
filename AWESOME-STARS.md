@@ -418,7 +418,7 @@
 - [jimmyyhwu/tidybot](https://github.com/jimmyyhwu/tidybot) - TidyBot: Personalized Robot Assistance with Large Language Models
 - [ansj11/SANet](https://github.com/ansj11/SANet) - 
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
-- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - 
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2024] NeRF-RPN: A general framework for object detection in NeRFs
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [vimalabs/VIMA](https://github.com/vimalabs/VIMA) - Official Algorithm Implementation of ICML'23 Paper "VIMA: General Robot Manipulation with Multimodal Prompts"
 - [google-research/robotics_transformer](https://github.com/google-research/robotics_transformer) - 
