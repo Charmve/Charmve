@@ -23,7 +23,7 @@
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
 <tr>
     <td align="center"><a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;" /> <br> UFund </a></td>
-    <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br><sub>运行量化策略自动化完成股票和基金交易的机器人</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black" /></td>
+    <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br><sub>AI智能量化交易投研助手（基金、股票、期权、数字货币）</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black" /></td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github" /></td>
 </tr>
 <tr>
@@ -43,6 +43,12 @@
     <td><sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
     </td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github" /></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/3fea69a0-5b51-48cc-af67-7f209fac4912" alt="BEV-Occ" width="36" style="vertical-align:bottom;" /><br> SurfaceDD </a></td>
+    <td><sub>📈 目前最大的工业缺陷检测数据库及论文集 </sub><br><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">GitHub</a> | <a href="https://opencollective.com/surfacedd" target="_blank">Opencollective</a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Surface-Defect-Detection?style=flat-square&labelColor=black" /></td>
+    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-92%25-green&logo=github" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/DeepVTuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/76906704?s=200&v=4" alt="VTuber" width="36" style="vertical-align:bottom;" /> <br> Vtuber </a></td><td>OpenVTuber - 虚拟アイドル共享计划<br><a href="https://github.com/DeepVTuber/OpenVTuber" target="_blank"> OpenVTuber </a>| <a href="https://github.com/DeepVTuber/DeepVTB" target="_blank">DeepVTB</a>| <a href="https://github.com/DeepVTuber/DanceNet3D" target="_blank">DanceNet3D</a></td>
@@ -78,7 +84,7 @@ For sponsors reaching certain tiers to have early access to my WIP works earlier
     <kbd align="center" valign="center">
             <kbd align="center" valign="center">
 <h2> <a href="https://github.com/sponsors/Charmve"><img src="https://img.shields.io/static/v1?label=Sponsor&amp;message=%E2%9D%A4&amp;logo=GitHub&amp;color=%23fe8e86"></a><br>🐣 <samp>Sponsor Program</samp></h2></kbd>
-For sponsors reaching certain tiers to have early access to my WIP works earlier. <a href="https://github.com/Charmve/sponsor-pro">More details</a> 
+For sponsors reaching certain tiers to have early access to my WIP works earlier. <a href="https://github.com/Charmve/sponsor-pro"><br>More details</a> 
     </kbd>
 </div>
 <br>
@@ -342,7 +348,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
     </a>
     <h3>Blogs</h3>
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock1130: `2024-03-11 23:40:10`）</sup>
+    <sup>我的近期动态（点击本项目标星 <a href="https://github.com/Charmve/Charmve">Star</a> (https://github.com/Charmve/Charmve) 将自动触发刷新，最近更新时间 :clock1130: `2024-03-11 23:40:10`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - 🥳 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
@@ -405,16 +411,14 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </table>
 </details>
 
-[Index](#blogs) | [TOP](#table-of-content) 
+[Index](#blogs) | [TOP](#table-of-content)
 
-<details>
-<summary><b><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
+<a href="https://space.bilibili.com/62079686" target="_blank"><img align="right" src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a> <a href="https://www.youtube.com/@Charmve" target="_blank"><img align="right" src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a>
+
+<details><summary><b><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
 </b></summary>
 
 <h3>Vlogs</h3>
-
-<a href="https://www.youtube.com/@Charmve" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a> <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a>
-
 
 <!-- https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div alias="Youtube-cards" align="center">
@@ -438,6 +442,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <details open><summary><b>:hearts: <a href="https://github.com/sponsors/Charmve">Acknowledgements</a></b></summary>
     <h3>I come from you!</h3>
     <a href="https://github.com/Charmve/Charmve/blob/master/scripts/result2.png?raw=true"><img align="center" src="scripts/result2.png" alt="Followers"/></a>
+    <br><br>
     <details><summary>Top <i>24</i> of my followers</b> will be displayed here (Scheduled automatic updates):</summary>
 
 <!--START_SECTION:top-followers-->
@@ -749,6 +754,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 [Index](#gallery) | [TOP](#table-of-content) 
 
+</details>
 </details>
 
 ---
