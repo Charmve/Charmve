@@ -129,7 +129,7 @@ Sponsor list: https://charmve.github.io/sponsor.html
 </tbody></table>
 
 <!-- content -->
-<details><summary><p align="right">Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;</p></summary>
+<details><summary>点击展开<p align="right">Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;</p></summary>
 
 <details><summary><b> 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code></a></b></summary>
 <h3>Open-Source</h3>
@@ -624,6 +624,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </table>
 <!--END_SECTION:top-followers-->
 </details>
+</details>
 
 [Index](#i-come-from-you) | [TOP](#table-of-content) 
 
@@ -754,7 +755,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 [Index](#gallery) | [TOP](#table-of-content) 
 
-</details>
 </details>
 
 ---
