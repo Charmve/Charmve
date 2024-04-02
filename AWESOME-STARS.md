@@ -150,6 +150,7 @@
 
 ## Go 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
@@ -185,7 +186,7 @@
 
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Bazel remote caching and execution service
-- [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
+- [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 - [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [oseiskar/corona-sniffer](https://github.com/oseiskar/corona-sniffer) - Contact Tracing BLE sniffer PoC
@@ -364,7 +365,7 @@
 - [PJLab-ADG/neuralsim](https://github.com/PJLab-ADG/neuralsim) - neuralsim: 3D surface reconstruction and simulation based on 3D neural rendering.
 - [HKUST-Aerial-Robotics/SIMPL](https://github.com/HKUST-Aerial-Robotics/SIMPL) - SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving
 - [zhiyuanyou/UniAD](https://github.com/zhiyuanyou/UniAD) - [NeurIPS 2022 Spotlight] A Unified Model for Multi-class Anomaly Detection
-- [dcharatan/pixelsplat](https://github.com/dcharatan/pixelsplat) - Code for "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" by David Charatan, Sizhe Li, Andrea Tagliasacchi, and Vincent Sitzmann.
+- [dcharatan/pixelsplat](https://github.com/dcharatan/pixelsplat) - [CVPR 2024] Code for "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" by David Charatan, Sizhe Li, Andrea Tagliasacchi, and Vincent Sitzmann.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - [AAAI-23 Oral] Official implementation of the paper "Are Transformers Effective for Time Series Forecasting?"
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
