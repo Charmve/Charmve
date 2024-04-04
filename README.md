@@ -360,11 +360,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 - 🤡 [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)<!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
-- 🥳 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023
-- 🙉 [自动驾驶BEV感知的下一步是什么？](http://www.zhihu.com/question/538920658?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3258960067) | Oct 21, 2023
-- 🤩 [occupancy network对自动驾驶能带来多大的提升？会让激光雷达变得鸡肋吗？](http://www.zhihu.com/question/614057120?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3255983499) | Oct 19, 2023
-- 🪄 [目标检测的未来是什么？](http://www.zhihu.com/question/394900756?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3248964981) | Oct 13, 2023
-- 🕴 [CPU究竟是如何工作的呢？](http://www.zhihu.com/question/24474339?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3202623745) | Sep 8, 2023<!-- ZHIHU-POST-LIST:END -->
+- 🥳 [国内有哪些量化平台以及对比？](http://www.zhihu.com/question/276340822?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454028332) | Apr 4, 2024
+- 🙉 [个人做量化交易是否可行呢？](http://www.zhihu.com/question/529408913?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454025102) | Apr 4, 2024
+- 🤩 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023
+- 🪄 [自动驾驶BEV感知的下一步是什么？](http://www.zhihu.com/question/538920658?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3258960067) | Oct 21, 2023
+- 🕴 [occupancy network对自动驾驶能带来多大的提升？会让激光雷达变得鸡肋吗？](http://www.zhihu.com/question/614057120?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3255983499) | Oct 19, 2023<!-- ZHIHU-POST-LIST:END -->
 
 <br>
 
