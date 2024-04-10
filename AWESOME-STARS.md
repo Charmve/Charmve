@@ -206,6 +206,7 @@
 
 ## JavaScript 
 
+- [MiladSadeghi/crypto-labs](https://github.com/MiladSadeghi/crypto-labs) - Crypto Labs - Cryptocurrency tracker with React JS + TradingView Widget
 - [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the websi
 - [Opinion/slowroads-handling-editor](https://github.com/Opinion/slowroads-handling-editor) - (ABANDONED) Opinion's Handling Editor is a mod for slowroads.io which gives you access to a simple handling editor. Get more out of your vehicle by customizing it on the fly.
 - [spiermar/d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - A D3.js plugin that produces flame graphs from hierarchical data.
@@ -488,7 +489,7 @@
 - [ibaiGorordo/ONNX-HybridNets-Multitask-Road-Detection](https://github.com/ibaiGorordo/ONNX-HybridNets-Multitask-Road-Detection) - Python scripts for performing road segemtnation and car detection using the HybridNets multitask model in ONNX.
 - [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
 - [JianqiangRen/FlowBasedBodyReshaping](https://github.com/JianqiangRen/FlowBasedBodyReshaping) - Official repository of the paper 'Structure-Aware Flow Generation for Human Body Reshaping' in CVPR 2022
-- [autogluon/autogluon](https://github.com/autogluon/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
+- [autogluon/autogluon](https://github.com/autogluon/autogluon) - AutoGluon: Fast and Accurate ML in 3 Lines of Code
 - [V2AI/Det3D](https://github.com/V2AI/Det3D) - World's first general purpose 3D object detection codebse.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [autonomousvision/neat](https://github.com/autonomousvision/neat) - [ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving
