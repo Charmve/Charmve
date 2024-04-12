@@ -190,10 +190,10 @@ Sponsor list: https://charmve.github.io/sponsor.html
         <li> <a href="#open-source"> 🖥️ Open-Source Projects</a></li>
         <li> 🔥🔥 <a href="#-hot-blog-columns"> 📘 Hot Blog Columns</a></li>
         <li> <a href="#blogs">📝 My latest posts</a></li>
-        <li> <a href="#vlogs"><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube Vlog</a></li>
-        <li> <a href="#i-come-from-you">:hearts: Acknowledgements</a></li>
-        <li> <a href="#miscs">Miscs</a></li>
-        <li> <a href="#gallery">Gallery</a></li>
+        <li> <a href="#vlogs"><img src="src/assert/icons/youtube.png" width="22.4px;" align="center" valign="center" width="22.4px;" style="vertical-align:bottom;" /> YouTube Vlog</a></li>
+        <li> <a href="#i-come-from-you"><img class="emoji" alt="heart" height="20" width="20" align="center" valign="center" width="22.4px;" style="vertical-align:bottom;" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> Acknowledgements</a></li>
+        <li> <a href="#miscs">🃏 Miscs</a></li>
+        <li> <a href="#gallery">🖼️ Gallery</a></li>
     </ui>
     <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -487,7 +487,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 <a href="https://space.bilibili.com/62079686" target="_blank"><img align="right" src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a> <a href="https://www.youtube.com/@Charmve" target="_blank"><img align="right" src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a>
 
-<details><summary><b><img src="src/assert/icons/youtube.png"  width="22.4px;"> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
+<details><summary><b><img src="src/assert/icons/youtube.png" align="center" valign="center" width="22.4px;" style="vertical-align:bottom;" /> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
 </b></summary>
 
 <h3>Vlogs</h3>
@@ -509,7 +509,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 [Index](#vlogs) | [TOP](#table-of-content) 
 
-<details open><summary><b>:hearts: <a href="https://github.com/sponsors/Charmve">Acknowledgements</a></b></summary>
+<details open><summary><b><img class="emoji" alt="heart" height="20" width="20" align="center" valign="center" width="22.4px;" style="vertical-align:bottom;" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> <a href="https://github.com/sponsors/Charmve">Acknowledgements</a></b></summary>
     <h3>I come from you!</h3>
     <a href="https://github.com/Charmve/Charmve/blob/master/scripts/result2.png?raw=true"><img align="center" src="scripts/result2.png" alt="Followers"/></a>
     <br><br>
@@ -804,7 +804,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   </tbody>
 </table>
 
-<table align="center" style="table-layout: auto; width: 100%;">
+<!-- <table align="center" style="table-layout: auto; width: 100%;">
   <tbody>
     <tr>
         <td width=20%>
@@ -861,7 +861,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 </details>
 
 [Index](#gallery) | [TOP](#table-of-content) 
