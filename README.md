@@ -869,7 +869,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </details>
 
 <div align="center">
-       <a href="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg"><img src="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg"></a>
+       <a href="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg"><img src="./src/scoll-board.svg"></a>
 </div>
 
 ---
