@@ -1,9 +1,17 @@
+<p align="center">
+  <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/GitHub-@Charmve-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
+  <a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" ><img src="https://img.shields.io/badge/公众号-@迈微AI研习社-000000.svg?style=flat-square&amp;logo=WeChat" alt="微信公众号"/></a>
+  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" ><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@Charmve-000000.svg?style=flat-square&amp;logo=Zhihu" alt="知乎"/></a>
+  <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/B站-@Charmve-000000.svg?style=flat-square&amp;logo=Bilibili" alt="B站"/></a>
+  <a href="https://blog.csdn.net/Charmve" target="_blank"><img src="https://img.shields.io/badge/CSDN-@Charmve-000000.svg?style=flat-square&amp;logo=CSDN" alt="CSDN"/></a>
+</p>
+
 <div>
-<details><summary>Main activities</summary>
+<details><summary><kbd>Main activities</kbd></summary>
         <table><tbody>
                 <tr>
-                        <td width=57%> <img src="https://github.com/Charmve/Charmve/assets/29084184/c48321f3-f5ac-41de-a59b-7b05b26aaf1a"> 量化交易</td>
-                        <td width=43%> <img src="https://github.com/Charmve/Charmve/assets/29084184/877117a6-1b2a-4b2b-9211-629285baf2eb"> 自动驾驶</td>
+                        <td width="57%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/c48321f3-f5ac-41de-a59b-7b05b26aaf1a"> <code>📈 量化交易: <a href="https://github.com/UFund-Me/Qbot" target="_blank">Qbot</a></code></td>
+                        <td width="43%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/877117a6-1b2a-4b2b-9211-629285baf2eb"> <code>🚗 自动驾驶: <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">L0CV</a>, <a href="https://charmve.github.io/OccNet-Course" target="_blank">BEV-Occ</a>, E2E</code></td>
                 </tr>
         </tbody></table>
 </details>
