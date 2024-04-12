@@ -1,4 +1,17 @@
 <div>
+<details><summary>Main activities</summary>
+        <table><tbody>
+                <tr>
+                        <td width=57%> <img src="https://github.com/Charmve/Charmve/assets/29084184/c48321f3-f5ac-41de-a59b-7b05b26aaf1a"> 量化交易</td>
+                        <td width=43%> <img src="https://github.com/Charmve/Charmve/assets/29084184/877117a6-1b2a-4b2b-9211-629285baf2eb"> 自动驾驶</td>
+                </tr>
+        </tbody></table>
+</details>
+
+https://github.com/Charmve/Charmve/assets/29084184/f1abe926-d7ec-462a-93a0-9fc0c73740ac
+
+</div>
+<div>
         <kbd align="center" valign="center">
             <a href="https://github.com/Charmve/computer-vision-in-action">
                 <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
@@ -24,42 +37,42 @@
 <tr>
     <td align="center"><a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> UFund </a></td>
     <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br><sub>AI智能量化交易投研助手（基金、股票、期权、数字货币）</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github" /></td>
+    <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/86.svg" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://charmve.github.io/OccNet-Course" target="_blank"><img src="https://media.githubusercontent.com/media/Charmve/OccNet-Course/main/src/imgs/20231026-135500.jpg" alt="BEV-Occ" height="38" style="vertical-align:bottom;" /><br> BEV-Occ </a></td>
     <td><sub>国内首个占据栅格网络全栈课程《从BEV到Occupancy Network：算法原理与工程实践》</sub><br><a href="https://github.com/Charmve/OccNet-Course" target="_blank">GitHub</a> | <a href="http://111.229.117.200:7001" target="_blank">Course home</a> | <a href="https://charmve.github.io/OccNet-Course" target="_blank">Slides</a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OccNet-Course?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-90%25-green&logo=github" /></td>
+    <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/90.svg" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://charmve.github.io/L0CV-web" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" alt="L0CV" width="38" style="vertical-align:bottom;" /><br> L0CV </a></td>
     <td><sub>一个代码可在线交互运行的计算机视觉闭环学习平台</sub><br> <a href="https://charmve.github.io/L0CV-web" target="_blank">Project Home</a> | <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">GitHub</a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-82%25-green&logo=github" /></td>
+    <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/82.svg" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/Charmve/AR-DAO" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="38" style="vertical-align:bottom;" /><br> AR-DAO </a></td>
     <td><sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
     </td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github" /></td>
+    <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/70.svg" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/3fea69a0-5b51-48cc-af67-7f209fac4912" alt="BEV-Occ" width="38" style="vertical-align:bottom;" /><br> SurfaceDD </a></td>
     <td><sub>📈 目前最大的工业缺陷检测数据库及论文集 </sub><br><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">GitHub</a> | <a href="https://opencollective.com/surfacedd" target="_blank">Opencollective</a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Surface-Defect-Detection?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-92%25-green&logo=github" /></td>
+    <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/92.svg" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/DeepVTuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/76906704?s=200&v=4" alt="VTuber" width="38" style="vertical-align:bottom;" /> <br> Vtuber </a></td><td>OpenVTuber - 虚拟アイドル共享计划<br><a href="https://github.com/DeepVTuber/OpenVTuber" target="_blank"> OpenVTuber </a>| <a href="https://github.com/DeepVTuber/DeepVTB" target="_blank">DeepVTB</a>| <a href="https://github.com/DeepVTuber/DanceNet3D" target="_blank">DanceNet3D</a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DeepVTB?style=flat-square&labelColor=black" /> | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DanceNet3D?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-72%25-green&logo=github" /></td>
+    <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/72.svg" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/Charmve/TimeWarp" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/TimeWarp/main/images/ui/logo_V.png" alt="TimeWarp" width="38" style="vertical-align:bottom;" /><br> TimeWarp </a></td>
     <td><sub>Replacing Real-Time the High-Resolution Meeting Background Freely</sub> </td>
     <td><img src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-24%25-green&logo=github" /></td>
+    <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/46.svg" /></td>
 </tr>
 </tbody>
 </table>
@@ -757,19 +770,22 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   <table align="center" style="table-layout: auto; width: 100%;">
   <tbody>
     <tr>
-        <td width=20%>
-            <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+        <td width=32%>
+            <div align="right">
+               <img align="center" class="emoji" src="https://github.com/Charmve/Charmve/assets/29084184/f0d1edf5-9ad5-4c67-b4b2-7af226e58d4c">
+               <sup><i>2021-04-14 星期三 17:49</i></sup>
             </div>
         </td>
-       <td width=60%>
-            <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+       <td width=36%>
+            <div align="right">
+               <img class="emoji" align="center" src="https://github.com/Charmve/Charmve/assets/29084184/3c44e686-3030-4992-9d3d-9a59de743205">
+               <sup><i>2022-07-09 星期六 19:58</i></sup>
             </div>
         </td>
-        <td width=20%>
-            <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+        <td width=32%>
+            <div align="right">
+               <img class="emoji" align="center" src="https://github.com/Charmve/Charmve/assets/29084184/8210c9eb-0ec4-4f1a-b27d-6c4a896a8366">
+               <sup><i>2021-03-07 星期日 16:09</i></sup>
             </div>
         </td>
     </tr>
@@ -841,7 +857,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 </details>
 
 <div align="center">
-       <img src="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg">
+       <a href="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg"><img src="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg"></a>
 </div>
 
 ---
