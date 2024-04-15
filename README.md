@@ -803,65 +803,67 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
     </tr>
   </tbody>
 </table>
-
-<!-- <table align="center" style="table-layout: auto; width: 100%;">
+  
+<details><summary><kbd>More</kbd></summary>
+<table align="center" style="table-layout: auto; width: 100%;">
   <tbody>
     <tr>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142345.jpg">
             </div>
         </td>
        <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142350.jpg">
             </div>
         </td>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142341.jpg">
             </div>
         </td>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142336.jpg">
             </div>
         </td>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142359.jpg">
             </div>
         </td>
     </tr>
     <tr>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144220.jpg">
             </div>
         </td>
        <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144217.jpg">
             </div>
         </td>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144209.jpg">
             </div>
         </td>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144223.jpg">
             </div>
         </td>
         <td width=20%>
             <div align="center">
-               <img class="emoji" src="https://camo.githubusercontent.com/48e084746c47fe65ea6c8d42e02a74518c5c9a6cc5dcd1d7cbdd0de067891ed0/68747470733a2f2f70696373756d2e70686f746f732f3436302f333030">
+               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144235.jpg">
             </div>
         </td>
     </tr>
   </tbody>
-</table> -->
+</table>
+</details>
 </details>
 
 [Index](#gallery) | [TOP](#table-of-content) 
