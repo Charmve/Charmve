@@ -316,7 +316,7 @@
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
 - [OpenGVLab/DriveMLM](https://github.com/OpenGVLab/DriveMLM) - 
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
-- [georghess/NeuRAD](https://github.com/georghess/NeuRAD) - NeuRAD: Neural Rendering for Autonomous Driving
+- [georghess/neurad-studio](https://github.com/georghess/neurad-studio) - NeuRAD: Neural Rendering for Autonomous Driving
 - [PJLab-ADG/GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Explorations of Utilizing Visual-Language Model as Autonomous Driving Agent
 - [dreamoving/dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
