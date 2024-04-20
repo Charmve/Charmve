@@ -622,7 +622,7 @@
 - [molecularsets/moses](https://github.com/molecularsets/moses) - Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models
 - [lucidrains/alphafold2](https://github.com/lucidrains/alphafold2) - To eventually become an unofficial Pytorch implementation / replication of Alphafold2, as details of the architecture get released
 - [Urinx/alphafold_pytorch](https://github.com/Urinx/alphafold_pytorch) - An implementation of the DeepMind's AlphaFold based on PyTorch for research
-- [haotian-liu/yolact_edge](https://github.com/haotian-liu/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
+- [WisconsinAIVision/yolact_edge](https://github.com/WisconsinAIVision/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
 - [Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.
 - [anfederico/clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
 - [jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz) - A fork and successor of the Sulley Fuzzing Framework
