@@ -316,7 +316,6 @@
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
 - [OpenGVLab/DriveMLM](https://github.com/OpenGVLab/DriveMLM) - 
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
-- [georghess/neurad-studio](https://github.com/georghess/neurad-studio) - NeuRAD: Neural Rendering for Autonomous Driving
 - [PJLab-ADG/GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Explorations of Utilizing Visual-Language Model as Autonomous Driving Agent
 - [dreamoving/dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
@@ -362,6 +361,7 @@
 
 ## Python 
 
+- [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
 - [YoushaaMurhij/OFMPNet](https://github.com/YoushaaMurhij/OFMPNet) - Pytorch implementation for the paper: "OFMPNet: Deep End-to-End Model for Occupancy and Flow Prediction in Urban Environment" [Neurocomputing 2024]
 - [wenbin-lin/OcclusionFusion](https://github.com/wenbin-lin/OcclusionFusion) - OcclusionFusion: realtime dynamic 3D reconstruction based on single-view RGB-D
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
@@ -400,6 +400,7 @@
 - [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
 - [LeapLabTHU/DAT](https://github.com/LeapLabTHU/DAT) - Repository of Vision Transformer with Deformable Attention (CVPR2022) and DAT++: Spatially Dynamic Vision Transformerwith Deformable Attention
 - [OPEN-AIR-SUN/mars](https://github.com/OPEN-AIR-SUN/mars) - MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
+- [georghess/neurad-studio](https://github.com/georghess/neurad-studio) - NeuRAD: Neural Rendering for Autonomous Driving
 - [gitctrlx/NarrativeCanvas](https://github.com/gitctrlx/NarrativeCanvas) - "Narrative Canvas" project is an edge computing project based on Nvidia Jetson. It can transform uploaded images into captivating stories and artworks.
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [pengzhiliang/MRBrainS_seg](https://github.com/pengzhiliang/MRBrainS_seg) - 医学图像分割
