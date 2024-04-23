@@ -400,7 +400,7 @@
 - [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
 - [LeapLabTHU/DAT](https://github.com/LeapLabTHU/DAT) - Repository of Vision Transformer with Deformable Attention (CVPR2022) and DAT++: Spatially Dynamic Vision Transformerwith Deformable Attention
 - [OPEN-AIR-SUN/mars](https://github.com/OPEN-AIR-SUN/mars) - MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
-- [georghess/neurad-studio](https://github.com/georghess/neurad-studio) - NeuRAD: Neural Rendering for Autonomous Driving
+- [georghess/neurad-studio](https://github.com/georghess/neurad-studio) - [CVPR2024] NeuRAD: Neural Rendering for Autonomous Driving
 - [gitctrlx/NarrativeCanvas](https://github.com/gitctrlx/NarrativeCanvas) - "Narrative Canvas" project is an edge computing project based on Nvidia Jetson. It can transform uploaded images into captivating stories and artworks.
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [pengzhiliang/MRBrainS_seg](https://github.com/pengzhiliang/MRBrainS_seg) - 医学图像分割
