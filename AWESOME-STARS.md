@@ -206,6 +206,7 @@
 
 ## JavaScript 
 
+- [voderl/font-slice](https://github.com/voderl/font-slice) - slice chinese fonts into small slices
 - [MiladSadeghi/crypto-labs](https://github.com/MiladSadeghi/crypto-labs) - Crypto Labs - Cryptocurrency tracker with React JS + TradingView Widget
 - [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the websi
 - [Opinion/slowroads-handling-editor](https://github.com/Opinion/slowroads-handling-editor) - (ABANDONED) Opinion's Handling Editor is a mod for slowroads.io which gives you access to a simple handling editor. Get more out of your vehicle by customizing it on the fly.
@@ -361,6 +362,7 @@
 
 ## Python 
 
+- [HuangJiaLian/HuanBu_Metronome](https://github.com/HuangJiaLian/HuanBu_Metronome) - A simple and elegant  cross-platform metronome
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
 - [YoushaaMurhij/OFMPNet](https://github.com/YoushaaMurhij/OFMPNet) - Pytorch implementation for the paper: "OFMPNet: Deep End-to-End Model for Occupancy and Flow Prediction in Urban Environment" [Neurocomputing 2024]
 - [wenbin-lin/OcclusionFusion](https://github.com/wenbin-lin/OcclusionFusion) - OcclusionFusion: realtime dynamic 3D reconstruction based on single-view RGB-D
