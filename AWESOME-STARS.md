@@ -362,6 +362,7 @@
 
 ## Python 
 
+- [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc) - A General NeRF Acceleration Toolbox in PyTorch.
 - [HuangJiaLian/HuanBu_Metronome](https://github.com/HuangJiaLian/HuanBu_Metronome) - A simple and elegant  cross-platform metronome
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
 - [YoushaaMurhij/OFMPNet](https://github.com/YoushaaMurhij/OFMPNet) - Pytorch implementation for the paper: "OFMPNet: Deep End-to-End Model for Occupancy and Flow Prediction in Urban Environment" [Neurocomputing 2024]
