@@ -64,6 +64,7 @@
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [r4j0x00/exploits](https://github.com/r4j0x00/exploits) - 
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [NordicPlayground/nRF52-Bluetooth-Course](https://github.com/NordicPlayground/nRF52-Bluetooth-Course) - 
 - [doonny/PipeCNN](https://github.com/doonny/PipeCNN) - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
@@ -622,7 +623,6 @@
 - [OpenRCE/sulley](https://github.com/OpenRCE/sulley) - A pure-python fully automated and unattended fuzzing framework.
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [svip-lab/impersonator](https://github.com/svip-lab/impersonator) - PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [molecularsets/moses](https://github.com/molecularsets/moses) - Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models
 - [lucidrains/alphafold2](https://github.com/lucidrains/alphafold2) - To eventually become an unofficial Pytorch implementation / replication of Alphafold2, as details of the architecture get released
 - [Urinx/alphafold_pytorch](https://github.com/Urinx/alphafold_pytorch) - An implementation of the DeepMind's AlphaFold based on PyTorch for research
