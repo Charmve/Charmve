@@ -41,6 +41,7 @@
 
 ## C 
 
+- [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) - Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
@@ -251,6 +252,7 @@
 
 ## Jupyter Notebook 
 
+- [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [ysh329/kaggle-lung-cancer-classification](https://github.com/ysh329/kaggle-lung-cancer-classification) - kaggle data science bowl 2017 solution
