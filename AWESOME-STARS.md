@@ -65,7 +65,6 @@
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [r4j0x00/exploits](https://github.com/r4j0x00/exploits) - 
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [NordicPlayground/nRF52-Bluetooth-Course](https://github.com/NordicPlayground/nRF52-Bluetooth-Course) - 
 - [doonny/PipeCNN](https://github.com/doonny/PipeCNN) - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
@@ -358,7 +357,6 @@
 
 ## PHP 
 
-- [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
 - [graphp/graphviz](https://github.com/graphp/graphviz) - GraphViz graph drawing for the mathematical graph/network library GraPHP.
 
 ## Perl 
@@ -367,6 +365,9 @@
 
 ## Python 
 
+- [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
+- [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
+- [IamWangYunKai/DG-TrajGen](https://github.com/IamWangYunKai/DG-TrajGen) - The official repository for paper ''Domain Generalization for Vision-based Driving Trajectory Generation'' submitted to ICRA 2022
 - [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc) - A General NeRF Acceleration Toolbox in PyTorch.
 - [HuangJiaLian/HuanBu_Metronome](https://github.com/HuangJiaLian/HuanBu_Metronome) - A simple and elegant  cross-platform metronome
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
@@ -627,6 +628,7 @@
 - [OpenRCE/sulley](https://github.com/OpenRCE/sulley) - A pure-python fully automated and unattended fuzzing framework.
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [svip-lab/impersonator](https://github.com/svip-lab/impersonator) - PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [molecularsets/moses](https://github.com/molecularsets/moses) - Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models
 - [lucidrains/alphafold2](https://github.com/lucidrains/alphafold2) - To eventually become an unofficial Pytorch implementation / replication of Alphafold2, as details of the architecture get released
 - [Urinx/alphafold_pytorch](https://github.com/Urinx/alphafold_pytorch) - An implementation of the DeepMind's AlphaFold based on PyTorch for research
@@ -731,9 +733,11 @@
 
 ## TypeScript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
 - [Zo3i/chatgptWithMidjourney](https://github.com/Zo3i/chatgptWithMidjourney) - 
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
