@@ -176,7 +176,7 @@
 - [catapult-project/catapult](https://github.com/catapult-project/catapult) - Deprecated Catapult GitHub. Please instead use http://crbug.com "Speed&gt;Benchmarks" component for bugs and https://chromium.googlesource.com/catapult for downloading and editing source code..
 - [James4Ever0/prometheous](https://github.com/James4Ever0/prometheous) - AI generated documentation and RAG
 - [qixinbo/qixinbo.github.io](https://github.com/qixinbo/qixinbo.github.io) - 个人网站：https://qixinbo.info/
-- [unresolv/trackmyairtag](https://github.com/unresolv/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
+- [worldtrack/trackmyairtag](https://github.com/worldtrack/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
@@ -367,6 +367,7 @@
 
 ## Python 
 
+- [Mhaiyang/2023_IJCV_OPNet](https://github.com/Mhaiyang/2023_IJCV_OPNet) - 
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
 - [IamWangYunKai/DG-TrajGen](https://github.com/IamWangYunKai/DG-TrajGen) - The official repository for paper ''Domain Generalization for Vision-based Driving Trajectory Generation'' submitted to ICRA 2022
@@ -777,6 +778,7 @@
 
 ## Vue 
 
+- [LeoLeeYM/FlaskService-Manager](https://github.com/LeoLeeYM/FlaskService-Manager) - 基于Flask+Vue的Flask服务器管理器，可用于管理数个Flask服务器的运行。The Flask Server Manager based on Flask+Vue can be used to manage the operation of multiple Flask servers.
 - [YYJeffrey/chocolate](https://github.com/YYJeffrey/chocolate) - A data assistant for selected stocks and funds. - 股票基金助手浏览器插件
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [fofapro/vulfocus](https://github.com/fofapro/vulfocus) - 🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。
