@@ -403,7 +403,6 @@
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [E2E-AD/AD-MLP](https://github.com/E2E-AD/AD-MLP) - 
 - [OpenDriveLab/ST-P3](https://github.com/OpenDriveLab/ST-P3) - [ECCV 2022] ST-P3, an end-to-end vision-based autonomous driving framework via spatial-temporal feature learning.
-- [YJHMITWEB/ExFlow](https://github.com/YJHMITWEB/ExFlow) - Explore Inter-layer Expert Affinity in MoE Model Inference
 - [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 - [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) - compiler learning resources collect.
 - [mgjinnn/wm_baseline](https://github.com/mgjinnn/wm_baseline) - baseline
