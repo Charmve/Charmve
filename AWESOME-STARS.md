@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
@@ -176,7 +177,7 @@
 - [catapult-project/catapult](https://github.com/catapult-project/catapult) - Deprecated Catapult GitHub. Please instead use http://crbug.com "Speed&gt;Benchmarks" component for bugs and https://chromium.googlesource.com/catapult for downloading and editing source code..
 - [James4Ever0/prometheous](https://github.com/James4Ever0/prometheous) - AI generated documentation and RAG
 - [qixinbo/qixinbo.github.io](https://github.com/qixinbo/qixinbo.github.io) - 个人网站：https://qixinbo.info/
-- [worldtrack/trackmyairtag](https://github.com/worldtrack/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
+- [trackmyairtag/trackmyairtag](https://github.com/trackmyairtag/trackmyairtag) - Scrape local macOS Find My cache, show trail on web UI. Powered by Postgres, OpenStreetMap, aiohttp.
 - [voxposer/voxposer.github.io](https://github.com/voxposer/voxposer.github.io) - 
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
@@ -367,6 +368,7 @@
 
 ## Python 
 
+- [monkeylmj/bullet_cli](https://github.com/monkeylmj/bullet_cli) - A command-line utility to watch stock in terminal
 - [Mhaiyang/2023_IJCV_OPNet](https://github.com/Mhaiyang/2023_IJCV_OPNet) - 
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
