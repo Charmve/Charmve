@@ -368,6 +368,8 @@
 
 ## Python 
 
+- [ggjy/DeLVM](https://github.com/ggjy/DeLVM) - 
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [monkeylmj/bullet_cli](https://github.com/monkeylmj/bullet_cli) - A command-line utility to watch stock in terminal
 - [Mhaiyang/2023_IJCV_OPNet](https://github.com/Mhaiyang/2023_IJCV_OPNet) - 
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
