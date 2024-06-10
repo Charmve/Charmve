@@ -211,6 +211,7 @@
 
 ## JavaScript 
 
+- [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [voderl/font-slice](https://github.com/voderl/font-slice) - slice chinese fonts into small slices
 - [MiladSadeghi/crypto-labs](https://github.com/MiladSadeghi/crypto-labs) - Crypto Labs - Cryptocurrency tracker with React JS + TradingView Widget
 - [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the websi
