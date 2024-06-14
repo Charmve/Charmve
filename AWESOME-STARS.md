@@ -321,7 +321,6 @@
 ## Others 
 
 - [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
-- [ytongbai/LVM](https://github.com/ytongbai/LVM) - 
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
@@ -381,6 +380,7 @@
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
 - [IamWangYunKai/DG-TrajGen](https://github.com/IamWangYunKai/DG-TrajGen) - The official repository for paper ''Domain Generalization for Vision-based Driving Trajectory Generation'' submitted to ICRA 2022
+- [ytongbai/LVM](https://github.com/ytongbai/LVM) - 
 - [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc) - A General NeRF Acceleration Toolbox in PyTorch.
 - [HuangJiaLian/HuanBu_Metronome](https://github.com/HuangJiaLian/HuanBu_Metronome) - A simple and elegant  cross-platform metronome
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
