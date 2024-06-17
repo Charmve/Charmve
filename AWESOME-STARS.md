@@ -42,6 +42,7 @@
 
 ## C 
 
+- [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) - Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
