@@ -81,6 +81,7 @@
 
 ## C++ 
 
+- [IENT/YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
 - [IntelligentSoftwareSystems/Galois](https://github.com/IntelligentSoftwareSystems/Galois) - Galois: C++ library for multi-core and multi-node parallelization
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -323,6 +324,7 @@
 
 ## Others 
 
+- [atonderski/neuro-ncap](https://github.com/atonderski/neuro-ncap) - NeuroNCAP benchmark for end-to-end autonomous driving
 - [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
@@ -374,6 +376,8 @@
 
 ## Python 
 
+- [y-u-a-n-l-i/Climate_NeRF](https://github.com/y-u-a-n-l-i/Climate_NeRF) - This is the official repo for PyTorch implementation of paper "ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field", ICCV 2023.
+- [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
 - [autonomousvision/navsim](https://github.com/autonomousvision/navsim) - NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
