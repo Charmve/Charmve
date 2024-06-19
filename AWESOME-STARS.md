@@ -376,6 +376,7 @@
 
 ## Python 
 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [y-u-a-n-l-i/Climate_NeRF](https://github.com/y-u-a-n-l-i/Climate_NeRF) - This is the official repo for PyTorch implementation of paper "ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field", ICCV 2023.
 - [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
