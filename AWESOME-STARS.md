@@ -215,6 +215,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [voderl/font-slice](https://github.com/voderl/font-slice) - slice chinese fonts into small slices
 - [MiladSadeghi/crypto-labs](https://github.com/MiladSadeghi/crypto-labs) - Crypto Labs - Cryptocurrency tracker with React JS + TradingView Widget
@@ -376,6 +377,7 @@
 
 ## Python 
 
+- [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - [CVPR'24 Oral] Mip-Splatting: Alias-free 3D Gaussian Splatting
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [y-u-a-n-l-i/Climate_NeRF](https://github.com/y-u-a-n-l-i/Climate_NeRF) - This is the official repo for PyTorch implementation of paper "ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field", ICCV 2023.
 - [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
