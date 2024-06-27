@@ -162,7 +162,7 @@
 ## Go 
 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -177,6 +177,7 @@
 
 ## HTML 
 
+- [worldmodels/worldmodels.github.io](https://github.com/worldmodels/worldmodels.github.io) - World Models
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [catapult-project/catapult](https://github.com/catapult-project/catapult) - Deprecated Catapult GitHub. Please instead use http://crbug.com "Speed&gt;Benchmarks" component for bugs and https://chromium.googlesource.com/catapult for downloading and editing source code..
 - [James4Ever0/prometheous](https://github.com/James4Ever0/prometheous) - AI generated documentation and RAG
@@ -326,6 +327,7 @@
 
 ## Others 
 
+- [wzzzd/LLM_Learning_Note](https://github.com/wzzzd/LLM_Learning_Note) - large language model note
 - [atonderski/neuro-ncap](https://github.com/atonderski/neuro-ncap) - NeuroNCAP benchmark for end-to-end autonomous driving
 - [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
@@ -378,7 +380,9 @@
 
 ## Python 
 
-- [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - [CVPR'24 Oral] Mip-Splatting: Alias-free 3D Gaussian Splatting
+- [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+- [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - [CVPR'24 Best Student Paper] Mip-Splatting: Alias-free 3D Gaussian Splatting
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [y-u-a-n-l-i/Climate_NeRF](https://github.com/y-u-a-n-l-i/Climate_NeRF) - This is the official repo for PyTorch implementation of paper "ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field", ICCV 2023.
 - [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
