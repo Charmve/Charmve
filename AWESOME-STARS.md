@@ -701,7 +701,7 @@
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -737,6 +737,7 @@
 
 ## Starlark 
 
+- [bazel-contrib/toolchains_llvm](https://github.com/bazel-contrib/toolchains_llvm) - LLVM toolchain for bazel
 - [wayveai/bazel-compilation-database](https://github.com/wayveai/bazel-compilation-database) - Tool to generate compile_commands.json from the Bazel build system
 
 ## Swift 
