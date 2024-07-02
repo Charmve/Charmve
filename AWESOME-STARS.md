@@ -46,7 +46,6 @@
 - [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) - Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [Androidest/Speed_Bump_Detection](https://github.com/Androidest/Speed_Bump_Detection) - Detect speed bump and their distances from the car using Yolov2, built with Visual Studio on Windows. Marking images with yolo-mark.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
@@ -93,6 +92,7 @@
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [real-stanford/dextairity](https://github.com/real-stanford/dextairity) - [RSS 2022, Best System Paper Finalist] DextAIRity: Deformable Manipulation Can be a Breeze
