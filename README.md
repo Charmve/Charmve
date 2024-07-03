@@ -656,18 +656,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Hsury">Ruoyang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/puxiao">
         <img src="https://avatars2.githubusercontent.com/u/3401635" width="42.4px;" alt="puxiao"/>
       </a>
       <br />
       <a href="https://github.com/puxiao">puxiao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/deepkolos">
+        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
       <a href="https://github.com/DequanWang">
@@ -684,11 +684,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
+      <a href="https://github.com/district10">
+        <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
       </a>
       <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
+      <a href="https://github.com/district10">TANG ZhiXiong</a>
     </td>
   </tr>
 </table>
