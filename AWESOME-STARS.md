@@ -42,6 +42,7 @@
 
 ## C 
 
+- [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) - Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
