@@ -344,7 +344,6 @@
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linhandev/dataset](https://github.com/linhandev/dataset) - 医学影像数据集列表 『An Index for Medical Imaging Datasets』
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [westlake-autolab/FusionAD](https://github.com/westlake-autolab/FusionAD) - Official Code Release of "FusionAD"
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks](https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks) - A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
@@ -461,6 +460,7 @@
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [megvii-research/OccDepth](https://github.com/megvii-research/OccDepth) - Maybe the first academic open work on stereo 3D SSC method with vision-only input.
+- [westlake-autolab/FusionAD](https://github.com/westlake-autolab/FusionAD) - Official Code Release of "FusionAD"
 - [NJUVISION/rho-vision](https://github.com/NJUVISION/rho-vision) - ρ-Vision: Efficient Visual Computing with Camera RAW Snapshots
 - [hustvl/GKT](https://github.com/hustvl/GKT) - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
 - [hustvl/MapTR](https://github.com/hustvl/MapTR) - [ICLR'23 Spotlight] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
@@ -491,7 +491,7 @@
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023 Oral] Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model
 - [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - [ICCV 2021] Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis.
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [gnobitab/RectifiedFlow](https://github.com/gnobitab/RectifiedFlow) - Official Implementation of Rectified Flow (ICLR2023 Spotlight)
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
