@@ -133,6 +133,7 @@
 - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) - C++ library based on tensorrt integration
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [cheind/inpaint](https://github.com/cheind/inpaint) - :pencil2: Inpaint is a C++ library providing image inpainting algorithms
 - [AgoraIO/Basic-Video-Call](https://github.com/AgoraIO/Basic-Video-Call) - Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.
 - [nccgroup/BLEBoy](https://github.com/nccgroup/BLEBoy) - BLEBoy is a training tool to teach users about BLE security by providing a single BLE peripheral that can be used to experiment with each BLE pairing method and demonstrates GATT security concepts.
@@ -364,7 +365,6 @@
 - [michenriksen/dia-attacktree](https://github.com/michenriksen/dia-attacktree) - Attack Tree modeling sheet for Dia
 - [mitre/advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix) - Adversarial Threat Landscape for AI Systems
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
