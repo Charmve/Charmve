@@ -266,6 +266,7 @@
 
 ## Jupyter Notebook 
 
+- [cauyxy/bilivideos](https://github.com/cauyxy/bilivideos) - 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
@@ -338,7 +339,6 @@
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
-- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [OpenGVLab/DriveMLM](https://github.com/OpenGVLab/DriveMLM) - 
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
 - [PJLab-ADG/GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Explorations of Utilizing Visual-Language Model as Autonomous Driving Agent
