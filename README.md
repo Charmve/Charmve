@@ -577,6 +577,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/SeppPenner">
+        <img src="https://avatars2.githubusercontent.com/u/9639361" width="42.4px;" alt="SeppPenner"/>
+      </a>
+      <br />
+      <a href="https://github.com/SeppPenner">SeppPenner</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sanster">
         <img src="https://avatars2.githubusercontent.com/u/3998421" width="42.4px;" alt="Sanster"/>
       </a>
@@ -625,6 +632,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zRzRzRzRzRzRzR">
         <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
@@ -632,8 +641,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/zRzRzRzRzRzRzR">zR</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/liuzl">
         <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
@@ -682,13 +689,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/district10">
-        <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
-      </a>
-      <br />
-      <a href="https://github.com/district10">TANG ZhiXiong</a>
     </td>
   </tr>
 </table>
