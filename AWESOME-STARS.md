@@ -503,7 +503,7 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [shunk031/training-free-structured-diffusion-guidance](https://github.com/shunk031/training-free-structured-diffusion-guidance) - 🤗 Unofficial huggingface/diffusers-based implementation of the paper "Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis".
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
