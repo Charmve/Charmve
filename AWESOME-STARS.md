@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai) - 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Shane1911/Monlanemapping_C_version](https://github.com/Shane1911/Monlanemapping_C_version) - 
 - [IENT/YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
@@ -777,6 +778,7 @@
 
 ## TypeScript 
 
+- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
