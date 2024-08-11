@@ -568,20 +568,20 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/sun0225SUN">Guoqi Sun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wey-gu">
-        <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
-      </a>
-      <br />
-      <a href="https://github.com/wey-gu">Wey Gu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/SeppPenner">
         <img src="https://avatars2.githubusercontent.com/u/9639361" width="42.4px;" alt="SeppPenner"/>
       </a>
       <br />
       <a href="https://github.com/SeppPenner">SeppPenner</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wey-gu">
+        <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
+      </a>
+      <br />
+      <a href="https://github.com/wey-gu">Wey Gu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sanster">
