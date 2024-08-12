@@ -677,18 +677,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DequanWang">
-        <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/DequanWang">Dequan Wang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/quxiaofeng">
         <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
       </a>
       <br />
       <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DequanWang">
+        <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
+      </a>
+      <br />
+      <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
   </tr>
 </table>
