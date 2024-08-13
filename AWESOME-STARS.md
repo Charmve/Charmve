@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai) - 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Shane1911/Monlanemapping_C_version](https://github.com/Shane1911/Monlanemapping_C_version) - 
