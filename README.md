@@ -626,20 +626,20 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/WarpPrism">棱镜_JH</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wanttobeno">
-        <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
-      </a>
-      <br />
-      <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/zRzRzRzRzRzRzR">
         <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
       </a>
       <br />
       <a href="https://github.com/zRzRzRzRzRzRzR">zR</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wanttobeno">
+        <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
+      </a>
+      <br />
+      <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
       <a href="https://github.com/liuzl">
@@ -677,18 +677,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
-      <a href="https://github.com/quxiaofeng">
-        <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
-      </a>
-      <br />
-      <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DequanWang">
         <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
       </a>
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/quxiaofeng">
+        <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
+      </a>
+      <br />
+      <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
     </td>
   </tr>
 </table>
