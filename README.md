@@ -568,14 +568,21 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/sun0225SUN">Guoqi Sun</a>
     </td>
     <td align="center">
+      <a href="https://github.com/BTC415">
+        <img src="https://avatars2.githubusercontent.com/u/133281370" width="42.4px;" alt="BTC415"/>
+      </a>
+      <br />
+      <a href="https://github.com/BTC415">LovelyBTC</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/wey-gu">
         <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
       </a>
       <br />
       <a href="https://github.com/wey-gu">Wey Gu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/SeppPenner">
         <img src="https://avatars2.githubusercontent.com/u/9639361" width="42.4px;" alt="SeppPenner"/>
@@ -625,13 +632,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/WarpPrism">棱镜_JH</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/zRzRzRzRzRzRzR">
-        <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
-      </a>
-      <br />
-      <a href="https://github.com/zRzRzRzRzRzRzR">zR</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -640,6 +640,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zRzRzRzRzRzRzR">
+        <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
+      </a>
+      <br />
+      <a href="https://github.com/zRzRzRzRzRzRzR">zR</a>
     </td>
     <td align="center">
       <a href="https://github.com/liuzl">
@@ -682,13 +689,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/DequanWang">Dequan Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/quxiaofeng">
-        <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
-      </a>
-      <br />
-      <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
     </td>
   </tr>
 </table>
