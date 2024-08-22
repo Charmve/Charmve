@@ -423,13 +423,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
     <sup>我的近期动态（点击本项目标星 <a href="https://github.com/Charmve/Charmve">Star</a> (https://github.com/Charmve/Charmve) 将自动触发刷新，最近更新时间 :clock9: `2024-08-22 21:13:30`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
-- 🙉 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
-- 🤩 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
-- 🪄 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
-- 🕴 [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
-- 💫 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)
-- 🤡 [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)<!-- BLOG-POST-LIST:END -->
+- 🥳 [国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》源代码](https://blog.csdn.net/Charmve/article/details/141263990)
+- 🙉 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
+- 🤩 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
+- 🪄 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
+- 🕴 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
+- 💫 [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
+- 🤡 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)<!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
 - 🥳 [国内有哪些量化平台以及对比？](http://www.zhihu.com/question/276340822?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454028332) | Apr 4, 2024
