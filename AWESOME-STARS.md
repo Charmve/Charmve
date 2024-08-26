@@ -83,7 +83,6 @@
 ## C++ 
 
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai) - 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Shane1911/Monlanemapping_C_version](https://github.com/Shane1911/Monlanemapping_C_version) - 
 - [IENT/YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
@@ -385,6 +384,7 @@
 
 ## Python 
 
+- [salesforce/progen](https://github.com/salesforce/progen) - Official release of the ProGen models
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
