@@ -432,11 +432,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 - 🤡 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)<!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
-- 🥳 [国内有哪些量化平台以及对比？](http://www.zhihu.com/question/276340822?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454028332) | Apr 4, 2024
-- 🙉 [个人做量化交易是否可行呢？](http://www.zhihu.com/question/529408913?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454025102) | Apr 4, 2024
-- 🤩 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023
-- 🪄 [自动驾驶BEV感知的下一步是什么？](http://www.zhihu.com/question/538920658?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3258960067) | Oct 21, 2023
-- 🕴 [occupancy network对自动驾驶能带来多大的提升？会让激光雷达变得鸡肋吗？](http://www.zhihu.com/question/614057120?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3255983499) | Oct 19, 2023<!-- ZHIHU-POST-LIST:END -->
+- 🥳 [目前国内有多少散户会自己写量化策略？](http://www.zhihu.com/question/548674391?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3613643264) | Sep 2, 2024
+- 🙉 [小散是不是玩不起量化交易？不考虑技术的话，资金门槛要多少？](http://www.zhihu.com/question/33319639?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3613639696) | Sep 2, 2024
+- 🤩 [国内有哪些量化平台以及对比？](http://www.zhihu.com/question/276340822?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454028332) | Apr 4, 2024
+- 🪄 [个人做量化交易是否可行呢？](http://www.zhihu.com/question/529408913?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454025102) | Apr 4, 2024
+- 🕴 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023<!-- ZHIHU-POST-LIST:END -->
 
 <br>
 
