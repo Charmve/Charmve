@@ -384,6 +384,7 @@
 
 ## Python 
 
+- [icandle/CAMixerSR](https://github.com/icandle/CAMixerSR) - CAMixerSR: Only Details Need More “Attention” (CVPR 2024)
 - [salesforce/progen](https://github.com/salesforce/progen) - Official release of the ProGen models
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
