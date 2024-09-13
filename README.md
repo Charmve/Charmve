@@ -35,7 +35,7 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 
 <br>
 
-<b><-- Follow me --> </b>, more FANTATIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmve/Charmve/blob/master/AWESOME-STARS.md) (Continuous updates)
+<b><-- Follow me --> </b>, More FANTASTIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmve/Charmve/blob/master/AWESOME-STARS.md) (Continuous updates)
 
 <img align="right" width="31%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
 
