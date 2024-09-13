@@ -23,6 +23,7 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 </video>
 
 </div>
+
 <div>
         <kbd align="center" valign="center">
             <a href="https://github.com/Charmve/computer-vision-in-action">
@@ -33,6 +34,8 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 </div>
 
 <br>
+
+<b><-- Follow me --> </b>, more FANTATIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmve/Charmve/blob/master/AWESOME-STARS.md) (Continuous updates)
 
 <img align="right" width="31%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
 
