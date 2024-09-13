@@ -771,6 +771,15 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </details>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" rowspan=1" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
 </tbody>
 </table>
 </details>
@@ -881,3 +890,19 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <b>:performing_arts: Leave a message to me? </b>--> https://github.com/Charmve/Charmve/issues
 
 [ContactMe]: https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
+
+<br>
+
+<table align="center">
+  <tbody>
+    <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</tbody>
+</table>
