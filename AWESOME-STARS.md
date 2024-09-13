@@ -418,7 +418,7 @@
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [PJLab-ADG/neuralsim](https://github.com/PJLab-ADG/neuralsim) - neuralsim: 3D surface reconstruction and simulation based on 3D neural rendering.
 - [HKUST-Aerial-Robotics/SIMPL](https://github.com/HKUST-Aerial-Robotics/SIMPL) - SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving
