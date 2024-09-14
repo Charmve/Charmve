@@ -384,6 +384,7 @@
 
 ## Python 
 
+- [HXMap/MapQR](https://github.com/HXMap/MapQR) - [ECCV 2024] This is the official implementation of MapQR, an end-to-end method with an emphasis on enhancing query capabilities for constructing online vectorized maps.
 - [icandle/CAMixerSR](https://github.com/icandle/CAMixerSR) - CAMixerSR: Only Details Need More “Attention” (CVPR 2024)
 - [salesforce/progen](https://github.com/salesforce/progen) - Official release of the ProGen models
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
