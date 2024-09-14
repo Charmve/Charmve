@@ -50,7 +50,7 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 <table><tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
 <tr>
-    <td align="center"><a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> UFund </a></td>
+    <td align="center"><a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/qbot/asserts/statics/imgs/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> UFund </a></td>
     <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br><sub>AI智能量化交易投研助手（基金、股票、期权、数字货币）</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black" /></td>
     <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/86.svg" /></td>
 </tr>
@@ -261,7 +261,7 @@ All open-source repo orted by stars. <a href="https://github.com/Charmve?tab=rep
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Progressing</th></tr>
     <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
-            <a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/gui/imgs/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;"/> <br> UFund </a>
+            <a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/qbot/asserts/statics/imgs/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;"/> <br> UFund </a>
         </td>
         <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br> <sub>AI智能量化投研平台</sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black"/></td>
