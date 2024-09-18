@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
@@ -384,6 +385,7 @@
 
 ## Python 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [HXMap/MapQR](https://github.com/HXMap/MapQR) - [ECCV 2024] This is the official implementation of MapQR, an end-to-end method with an emphasis on enhancing query capabilities for constructing online vectorized maps.
 - [icandle/CAMixerSR](https://github.com/icandle/CAMixerSR) - CAMixerSR: Only Details Need More “Attention” (CVPR 2024)
