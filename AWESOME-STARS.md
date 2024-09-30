@@ -270,6 +270,7 @@
 
 ## Jupyter Notebook 
 
+- [google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery) - 
 - [cauyxy/bilivideos](https://github.com/cauyxy/bilivideos) - 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
