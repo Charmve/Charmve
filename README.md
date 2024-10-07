@@ -130,9 +130,9 @@ More FANTASTIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmv
     
 <br>
 
-<a href="https://charmve.github.io/clock.html"><img align="right" width="20%" src="src/clock.svg" alt="time-clock"></a>
-
 📊 **This Week I Spent My Time On:**
+
+<a href="https://charmve.github.io/clock.html"><img align="right" width="18%" src="src/clock.svg" alt="time-clock"></a>
 
 <!--START_SECTION:waka-->
 ```text
