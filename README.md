@@ -35,9 +35,13 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 
 <br>
 
-<b><-- Follow me --> </b>, More FANTASTIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmve/Charmve/blob/master/AWESOME-STARS.md) (Continuous updates)
+<!---<img align="right" width="31%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">--->
 
-<img align="right" width="31%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
+<a href="https://github.com/Charmve/github-readme-weather-widget"><img align="right" height="120%" width="296px" src="https://github-readme-weather-widget.vercel.app" alt="weather-local"></a>
+
+<b><-- Follow me --> </b>
+
+More FANTASTIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmve/Charmve/blob/master/AWESOME-STARS.md) (Continuous updates)
 
 <h2><a href="https://github.com/Charmve"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/sayhi.svg" /></a></h2>
 
@@ -126,7 +130,10 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
     
 <br>
 
+<a href="https://charmve.github.io/clock.html"><img align="right" width="20%" src="src/clock.svg" alt="time-clock"></a>
+
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ```text
 C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
