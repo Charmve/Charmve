@@ -33,9 +33,9 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
         </kbd>
 </div>
 
-<br>
-
 <!---<img align="right" width="31%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">--->
+
+<br>
 
 <a href="https://github.com/Charmve/github-readme-weather-widget"><img align="right" height="120%" width="296px" src="https://github-readme-weather-widget.vercel.app" alt="weather-local"></a>
 
@@ -132,7 +132,7 @@ More FANTASTIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmv
 
 📊 **This Week I Spent My Time On:**
 
-<a href="https://charmve.github.io/clock.html"><img align="right" width="18%" src="src/clock.svg" alt="time-clock"></a>
+<a href="https://charmve.github.io/clock.html"><img align="left" width="14%" src="src/clock.svg" alt="time-clock"></a>
 
 <!--START_SECTION:waka-->
 ```text
