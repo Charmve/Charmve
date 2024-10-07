@@ -222,6 +222,8 @@
 
 ## JavaScript 
 
+- [oubingbing/school_wechat](https://github.com/oubingbing/school_wechat) - 校园小情书前端代码，好玩的表白墙、树洞、校园论坛，可独立部署，也可以使用我部署的后台服务，毕业设计的好项目。
+- [Airmole/ShellBox](https://github.com/Airmole/ShellBox) - 贝壳小盒子Wechat微信小程序，高校微信小程序，集课表查询、成绩查询、电费查询、图书查询等功能于一体。
 - [bokub/gradient-badge](https://github.com/bokub/gradient-badge) - 🍭 Badge generator with color gradient support
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
