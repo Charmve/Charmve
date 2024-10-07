@@ -1,0 +1,50 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .bg { fill: #fff; }
+            .hour-hand { fill: #888888; }
+            .minute-hand { fill: #888888; }
+            .second-hand { fill: red; }
+            .center-dot { fill: #888888; }
+            .clock-border { fill: none; stroke: #888888; stroke-width: 4; }
+            @keyframes rotate {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+
+            #hourHand {
+                <!-- animation: rotate 12h linear infinite; /* 每12小时旋转一圈 */ -->
+                animation: rotate 40s linear infinite; /* 每12小时旋转一圈 */
+                transform-origin: 50% 50%;
+            }
+
+            #minuteHand {
+                <!-- animation: rotate 1h linear infinite; /* 每小时旋转一圈 */ -->
+                animation: rotate 20s linear infinite; /* 每小时旋转一圈 */
+                transform-origin: 50% 50%;
+            }
+
+            #secondHand {
+                <!-- animation: rotate 60s linear infinite; /* 每60秒旋转一圈 */ -->
+                animation: rotate 5s linear infinite; /* 每60秒旋转一圈 */
+                transform-origin: 50% 50%;
+            }
+        </style>
+    </defs>
+    
+    <!-- Clock Background -->
+    <circle cx="100" cy="100" r="95" class="bg" />
+    <circle cx="100" cy="100" r="95" class="clock-border" />
+    
+    <!-- Hour Hand -->
+    <rect id="hourHand" x="97" y="50" width="6" height="50" class="hour-hand" stroke-linecap="round" />
+    
+    <!-- Minute Hand -->
+    <rect id="minuteHand" x="98" y="30" width="4" height="70" class="minute-hand" stroke-linecap="round" />
+    
+    <!-- Second Hand -->
+    <rect id="secondHand" x="99" y="20" width="2" height="80" class="second-hand" stroke-linecap="round" />
+
+    <!-- Center Dot -->
+    <circle cx="100" cy="100" r="5" class="center-dot" />
+</svg>

@@ -10,8 +10,8 @@
 <details><summary><kbd>Main activities</kbd></summary>
         <table><tbody>
                 <tr>
-                        <td width="57%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/c48321f3-f5ac-41de-a59b-7b05b26aaf1a"> <code>📈 量化交易: <a href="https://github.com/UFund-Me/Qbot" target="_blank">Qbot</a></code></td>
-                        <td width="43%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/877117a6-1b2a-4b2b-9211-629285baf2eb"> <code>🚗 自动驾驶: <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">L0CV</a>, <a href="https://charmve.github.io/OccNet-Course" target="_blank">BEV-Occ</a>, E2E</code></td>
+                    <td width="57%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/c48321f3-f5ac-41de-a59b-7b05b26aaf1a"> <code>📈 量化交易: <a href="https://github.com/UFund-Me/Qbot" target="_blank">Qbot</a></code></td>
+                    <td width="43%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/877117a6-1b2a-4b2b-9211-629285baf2eb"> <code>🚗 自动驾驶: <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">L0CV</a>, <a href="https://charmve.github.io/OccNet-Course" target="_blank">BEV-Occ</a>, E2E</code></td>
                 </tr>
         </tbody></table>
 </details>
