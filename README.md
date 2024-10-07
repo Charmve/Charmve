@@ -23,6 +23,7 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 </video>
 
 </div>
+
 <div>
         <kbd align="center" valign="center">
             <a href="https://github.com/Charmve/computer-vision-in-action">
@@ -33,6 +34,8 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 </div>
 
 <br>
+
+<b><-- Follow me --> </b>, More FANTASTIC open-source repos: [🌟 AWESOME-STARS](https://github.com/Charmve/Charmve/blob/master/AWESOME-STARS.md) (Continuous updates)
 
 <img align="right" width="31%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
 
@@ -47,12 +50,12 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
 <table><tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
 <tr>
-    <td align="center"><a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> UFund </a></td>
+    <td align="center"><a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/qbot/asserts/statics/imgs/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> UFund </a></td>
     <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br><sub>AI智能量化交易投研助手（基金、股票、期权、数字货币）</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black" /></td>
     <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/86.svg" /></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://charmve.github.io/OccNet-Course" target="_blank"><img src="https://media.githubusercontent.com/media/Charmve/OccNet-Course/main/src/imgs/20231026-135500.jpg" alt="BEV-Occ" height="38" style="vertical-align:bottom;" /><br> BEV-Occ </a></td>
+    <td align="center"><a href="https://charmve.github.io/OccNet-Course" target="_blank"><img src="https://github.com/Charmve/OccNet-Course/blob/main/src/imgs/20231026-135501.jpg" alt="BEV-Occ" height="38" style="vertical-align:bottom;" /><br> BEV-Occ </a></td>
     <td><sub>国内首个占据栅格网络全栈课程《从BEV到Occupancy Network：算法原理与工程实践》</sub><br><a href="https://github.com/Charmve/OccNet-Course" target="_blank">GitHub</a> | <a href="http://111.229.117.200:7001" target="_blank">Course home</a> | <a href="https://charmve.github.io/OccNet-Course" target="_blank">Slides</a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OccNet-Course?style=flat-square&labelColor=black" /></td>
     <td><img alt="Progressing" src="https://wangchujiang.com/sb/progressed/90.svg" /></td>
@@ -258,7 +261,7 @@ All open-source repo orted by stars. <a href="https://github.com/Charmve?tab=rep
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Progressing</th></tr>
     <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
-            <a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/gui/imgs/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;"/> <br> UFund </a>
+            <a href="https://github.com/UFund-Me" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/qbot/asserts/statics/imgs/UFund.png" align="center" alt="UFund" width="36" style="vertical-align:bottom;"/> <br> UFund </a>
         </td>
         <td><a href="https://github.com/UFund-Me/Qbot" target="_blank"> 🤖 Qbot</a> <br> <sub>AI智能量化投研平台</sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black"/></td>
@@ -417,26 +420,26 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 <details open><summary><b>📘 Latest Blog Posts</b></summary>
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
+        <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" height="310" alt="spotify-github-profile">
     </a>
     <h3>Blogs</h3>
-    <sup>我的近期动态（点击本项目标星 <a href="https://github.com/Charmve/Charmve">Star</a> (https://github.com/Charmve/Charmve) 将自动触发刷新，最近更新时间 :clock9: `2024-05-09 21:09:33`）</sup>
+    <sup>我的近期动态（点击本项目标星 <a href="https://github.com/Charmve/Charmve">Star</a> (https://github.com/Charmve/Charmve) 将自动触发刷新，最近更新时间 :clock930: `2024-10-03 21:18:34`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
-- 🙉 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
-- 🤩 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
-- 🪄 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
-- 🕴 [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
-- 💫 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)
-- 🤡 [35张图，直观理解Stable Diffusion](https://blog.csdn.net/Charmve/article/details/128744841)<!-- BLOG-POST-LIST:END -->
+- 🥳 [国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》源代码](https://blog.csdn.net/Charmve/article/details/141263990)
+- 🙉 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
+- 🤩 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
+- 🪄 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
+- 🕴 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
+- 💫 [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
+- 🤡 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)<!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
-- 🥳 [国内有哪些量化平台以及对比？](http://www.zhihu.com/question/276340822?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454028332) | Apr 4, 2024
-- 🙉 [个人做量化交易是否可行呢？](http://www.zhihu.com/question/529408913?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454025102) | Apr 4, 2024
-- 🤩 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023
-- 🪄 [自动驾驶BEV感知的下一步是什么？](http://www.zhihu.com/question/538920658?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3258960067) | Oct 21, 2023
-- 🕴 [occupancy network对自动驾驶能带来多大的提升？会让激光雷达变得鸡肋吗？](http://www.zhihu.com/question/614057120?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3255983499) | Oct 19, 2023<!-- ZHIHU-POST-LIST:END -->
+- 🥳 [目前国内有多少散户会自己写量化策略？](http://www.zhihu.com/question/548674391?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3613643264) | Sep 2, 2024
+- 🙉 [小散是不是玩不起量化交易？不考虑技术的话，资金门槛要多少？](http://www.zhihu.com/question/33319639?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3613639696) | Sep 2, 2024
+- 🤩 [国内有哪些量化平台以及对比？](http://www.zhihu.com/question/276340822?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454028332) | Apr 4, 2024
+- 🪄 [个人做量化交易是否可行呢？](http://www.zhihu.com/question/529408913?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3454025102) | Apr 4, 2024
+- 🕴 [计算机视觉应该怎样入门？](http://www.zhihu.com/question/23902574?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-3299008180) | Nov 23, 2023<!-- ZHIHU-POST-LIST:END -->
 
 <br>
 
@@ -577,6 +580,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/SeppPenner">
+        <img src="https://avatars2.githubusercontent.com/u/9639361" width="42.4px;" alt="SeppPenner"/>
+      </a>
+      <br />
+      <a href="https://github.com/SeppPenner">SeppPenner</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sanster">
         <img src="https://avatars2.githubusercontent.com/u/3998421" width="42.4px;" alt="Sanster"/>
       </a>
@@ -598,11 +608,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/isaac-lal">Isaac Lal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WarpPrism">
-        <img src="https://avatars2.githubusercontent.com/u/8694020" width="42.4px;" alt="WarpPrism"/>
+      <a href="https://github.com/cubxxw">
+        <img src="https://avatars2.githubusercontent.com/u/86140903" width="42.4px;" alt="cubxxw"/>
       </a>
       <br />
-      <a href="https://github.com/WarpPrism">棱镜_JH</a>
+      <a href="https://github.com/cubxxw">熊鑫伟 Xinwei Xiong</a>
     </td>
     <td align="center">
       <a href="https://github.com/tonghuaroot">
@@ -612,12 +622,21 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cubxxw">
-        <img src="https://avatars2.githubusercontent.com/u/86140903" width="42.4px;" alt="cubxxw"/>
+      <a href="https://github.com/zRzRzRzRzRzRzR">
+        <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
       </a>
       <br />
-      <a href="https://github.com/cubxxw">Xinwei Xiong</a>
+      <a href="https://github.com/zRzRzRzRzRzRzR">Yuxuan.Zhang</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/WarpPrism">
+        <img src="https://avatars2.githubusercontent.com/u/8694020" width="42.4px;" alt="WarpPrism"/>
+      </a>
+      <br />
+      <a href="https://github.com/WarpPrism">棱镜_JH</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/wanttobeno">
         <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
@@ -626,20 +645,25 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
+      <a href="https://github.com/liuzl">
+        <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
+      </a>
+      <br />
+      <a href="https://github.com/liuzl">Zhanliang Liu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChinaVolvocars">
         <img src="https://avatars2.githubusercontent.com/u/11059094" width="42.4px;" alt="ChinaVolvocars"/>
       </a>
       <br />
       <a href="https://github.com/ChinaVolvocars">Atlantis</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/liuzl">
-        <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
+      <a href="https://github.com/puxiao">
+        <img src="https://avatars2.githubusercontent.com/u/3401635" width="42.4px;" alt="puxiao"/>
       </a>
       <br />
-      <a href="https://github.com/liuzl">Zhanliang Liu</a>
+      <a href="https://github.com/puxiao">puxiao</a>
     </td>
     <td align="center">
       <a href="https://github.com/Hsury">
@@ -663,32 +687,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/quxiaofeng">
-        <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
+      <a href="https://github.com/yuchuangu85">
+        <img src="https://avatars2.githubusercontent.com/u/7369323" width="42.4px;" alt="yuchuangu85"/>
       </a>
       <br />
-      <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/district10">
-        <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
-      </a>
-      <br />
-      <a href="https://github.com/district10">TANG ZhiXiong</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/puxiao">
-        <img src="https://avatars2.githubusercontent.com/u/3401635" width="42.4px;" alt="puxiao"/>
-      </a>
-      <br />
-      <a href="https://github.com/puxiao">puxiao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
-      </a>
-      <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
+      <a href="https://github.com/yuchuangu85">CodeMX</a>
     </td>
   </tr>
 </table>
@@ -769,6 +772,15 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 </div>
       </details>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan=1" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+      </picture>
     </td>
   </tr>
 </tbody>
@@ -881,3 +893,19 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <b>:performing_arts: Leave a message to me? </b>--> https://github.com/Charmve/Charmve/issues
 
 [ContactMe]: https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
+
+<br>
+
+<table align="center">
+  <tbody>
+    <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charmve/Charmve/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</tbody>
+</table>
