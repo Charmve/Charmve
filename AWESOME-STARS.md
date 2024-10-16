@@ -615,7 +615,7 @@
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [bycloudai/3d-photo-inpainting-Windows](https://github.com/bycloudai/3d-photo-inpainting-Windows) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [aim-uofa/AdelaiDepth](https://github.com/aim-uofa/AdelaiDepth) - This repo contains the projects: 'Virtual Normal', 'DiverseDepth', and '3D Scene Shape'. They aim to solve the monocular depth estimation, 3D scene reconstruction from single image problems.
 - [makeuptransfer/SCGAN](https://github.com/makeuptransfer/SCGAN) - 
 - [xuhaocuhk/TilinGNN](https://github.com/xuhaocuhk/TilinGNN) - TilinGNN: Learning to Tile with Self-Supervised Graph Neural Network (SIGGRAPH 2020)
