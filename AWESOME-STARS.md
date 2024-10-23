@@ -168,6 +168,7 @@
 
 ## Go 
 
+- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
