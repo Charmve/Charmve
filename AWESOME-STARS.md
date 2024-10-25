@@ -634,7 +634,7 @@
 - [xuebinqin/BASNet](https://github.com/xuebinqin/BASNet) - Code for CVPR 2019 paper. BASNet: Boundary-Aware Salient Object Detection
 - [3D-FRONT-FUTURE/3D-FUTURE-ToolBox](https://github.com/3D-FRONT-FUTURE/3D-FUTURE-ToolBox) - FUTURE3D Toolbox: Rendering, Projection, and Re-Projection
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [zhaoyuzhi/Semantic-Colorization-GAN](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN) - SCGAN: Saliency-map Guided Colorization with Generative Adversarial Network. IEEE TCSVT, 2020
 - [hanzhanggit/StackGAN](https://github.com/hanzhanggit/StackGAN) - 
 - [tensorlayer/SRGAN](https://github.com/tensorlayer/SRGAN) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
