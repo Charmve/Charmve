@@ -211,7 +211,6 @@
 - [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [oseiskar/corona-sniffer](https://github.com/oseiskar/corona-sniffer) - Contact Tracing BLE sniffer PoC
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision) - 在我很多项目中用到的CV算法推理框架应用。
 - [guadaran/lebesgue-universal-covering-problem](https://github.com/guadaran/lebesgue-universal-covering-problem) - The Lebesgue universal covering problem.
 - [PhilipGibbs/Lebesgue](https://github.com/PhilipGibbs/Lebesgue) - Lebesgue's Universal Covering Problem
