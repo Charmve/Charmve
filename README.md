@@ -615,18 +615,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/isaac-lal">Isaac Lal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cubxxw">
-        <img src="https://avatars2.githubusercontent.com/u/86140903" width="42.4px;" alt="cubxxw"/>
-      </a>
-      <br />
-      <a href="https://github.com/cubxxw">熊鑫伟 Xinwei Xiong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zRzRzRzRzRzRzR">
         <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
       </a>
       <br />
       <a href="https://github.com/zRzRzRzRzRzRzR">Yuxuan.Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cubxxw">
+        <img src="https://avatars2.githubusercontent.com/u/86140903" width="42.4px;" alt="cubxxw"/>
+      </a>
+      <br />
+      <a href="https://github.com/cubxxw">熊鑫伟 Xinwei Xiong</a>
     </td>
     <td align="center">
       <a href="https://github.com/tonghuaroot">
