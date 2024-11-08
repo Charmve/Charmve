@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [quic/qbox](https://github.com/quic/qbox) - Qbox
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Shane1911/Monlanemapping_C_version](https://github.com/Shane1911/Monlanemapping_C_version) - 
@@ -261,7 +262,7 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [UnicornTeam/hackcube](https://github.com/UnicornTeam/hackcube) - 
 - [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
@@ -624,7 +625,7 @@
 - [makeuptransfer/SCGAN](https://github.com/makeuptransfer/SCGAN) - 
 - [xuhaocuhk/TilinGNN](https://github.com/xuhaocuhk/TilinGNN) - TilinGNN: Learning to Tile with Self-Supervised Graph Neural Network (SIGGRAPH 2020)
 - [RosettaCommons/RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) - This package contains deep learning models and related scripts for RoseTTAFold
-- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold 2.
 - [xyjigsaw/Knowledge-Graph-And-Visualization-Demo](https://github.com/xyjigsaw/Knowledge-Graph-And-Visualization-Demo) - There are 2D-Search and 3D-Graph-View for knowledge graph visualization.
 - [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Massively Parallel Deep Reinforcement Learning. 🔥
 - [Sujit-O/pykg2vec](https://github.com/Sujit-O/pykg2vec) - Python library for knowledge graph embedding and representation learning.
