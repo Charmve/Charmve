@@ -680,13 +680,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/liuzl">Zhanliang Liu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ChinaVolvocars">
-        <img src="https://avatars2.githubusercontent.com/u/11059094" width="42.4px;" alt="ChinaVolvocars"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChinaVolvocars">Atlantis</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/puxiao">
         <img src="https://avatars2.githubusercontent.com/u/3401635" width="42.4px;" alt="puxiao"/>
       </a>
@@ -699,6 +692,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/Hsury">Ruoyang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/deepkolos">
+        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
   </tr>
 </table>
