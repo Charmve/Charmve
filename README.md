@@ -529,13 +529,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/BEPb">
-        <img src="https://avatars2.githubusercontent.com/u/57312267" width="42.4px;" alt="BEPb"/>
-      </a>
-      <br />
-      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Snailclimb">
         <img src="https://avatars2.githubusercontent.com/u/29880145" width="42.4px;" alt="Snailclimb"/>
       </a>
@@ -584,8 +577,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/sun0225SUN">Guoqi Sun</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/wey-gu">
         <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
@@ -593,6 +584,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/wey-gu">Wey Gu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/SeppPenner">
         <img src="https://avatars2.githubusercontent.com/u/9639361" width="42.4px;" alt="SeppPenner"/>
@@ -636,6 +629,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/isaac-lal">Isaac Lal</a>
     </td>
     <td align="center">
+      <a href="https://github.com/bludnic">
+        <img src="https://avatars2.githubusercontent.com/u/25831507" width="42.4px;" alt="bludnic"/>
+      </a>
+      <br />
+      <a href="https://github.com/bludnic">bludnic</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/skyformat99">
         <img src="https://avatars2.githubusercontent.com/u/10938976" width="42.4px;" alt="skyformat99"/>
       </a>
@@ -657,13 +657,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/WarpPrism">棱镜_JH</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bludnic">
-        <img src="https://avatars2.githubusercontent.com/u/25831507" width="42.4px;" alt="bludnic"/>
-      </a>
-      <br />
-      <a href="https://github.com/bludnic">bludnic</a>
     </td>
     <td align="center">
       <a href="https://github.com/wanttobeno">
@@ -699,6 +692,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/likyoo">
+        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
+      </a>
+      <br />
+      <a href="https://github.com/likyoo">李开宇</a>
     </td>
   </tr>
 </table>
