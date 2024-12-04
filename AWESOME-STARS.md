@@ -217,6 +217,7 @@
 - [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [oseiskar/corona-sniffer](https://github.com/oseiskar/corona-sniffer) - Contact Tracing BLE sniffer PoC
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision) - 在我很多项目中用到的CV算法推理框架应用。
 - [guadaran/lebesgue-universal-covering-problem](https://github.com/guadaran/lebesgue-universal-covering-problem) - The Lebesgue universal covering problem.
 - [PhilipGibbs/Lebesgue](https://github.com/PhilipGibbs/Lebesgue) - Lebesgue's Universal Covering Problem
@@ -347,7 +348,6 @@
 ## Others 
 
 - [wzzzd/LLM_Learning_Note](https://github.com/wzzzd/LLM_Learning_Note) - large language model note
-- [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
@@ -421,6 +421,7 @@
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
 - [autonomousvision/navsim](https://github.com/autonomousvision/navsim) - [NeurIPS 2024] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
+- [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [ggjy/DeLVM](https://github.com/ggjy/DeLVM) - 
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
