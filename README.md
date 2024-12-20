@@ -629,21 +629,12 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/isaac-lal">Isaac Lal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bludnic">
-        <img src="https://avatars2.githubusercontent.com/u/25831507" width="42.4px;" alt="bludnic"/>
-      </a>
-      <br />
-      <a href="https://github.com/bludnic">bludnic</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/skyformat99">
         <img src="https://avatars2.githubusercontent.com/u/10938976" width="42.4px;" alt="skyformat99"/>
       </a>
       <br />
       <a href="https://github.com/skyformat99">skyformat99</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tonghuaroot">
         <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
@@ -651,6 +642,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/WarpPrism">
         <img src="https://avatars2.githubusercontent.com/u/8694020" width="42.4px;" alt="WarpPrism"/>
@@ -687,6 +680,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Hsury">Ruoyang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/likyoo">
+        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
+      </a>
+      <br />
+      <a href="https://github.com/likyoo">李开宇</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/deepkolos">
         <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
       </a>
@@ -694,11 +694,11 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
     <td align="center">
-      <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
+      <a href="https://github.com/DequanWang">
+        <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
       </a>
       <br />
-      <a href="https://github.com/likyoo">李开宇</a>
+      <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
   </tr>
 </table>
