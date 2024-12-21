@@ -659,6 +659,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
+      <a href="https://github.com/LiZhengXiao99">
+        <img src="https://avatars2.githubusercontent.com/u/104987988" width="42.4px;" alt="LiZhengXiao99"/>
+      </a>
+      <br />
+      <a href="https://github.com/LiZhengXiao99">李郑骁</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/liuzl">
         <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
       </a>
@@ -692,13 +699,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/deepkolos">DeepKolos</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DequanWang">
-        <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/DequanWang">Dequan Wang</a>
     </td>
   </tr>
 </table>
