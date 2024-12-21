@@ -722,7 +722,7 @@
 - [wvangansbeke/LaneDetection_End2End](https://github.com/wvangansbeke/LaneDetection_End2End) - End-to-end Lane Detection for Self-Driving Cars (ICCV 2019 Workshop)
 - [ArmisSecurity/blueborne](https://github.com/ArmisSecurity/blueborne) - PoC scripts demonstrating the BlueBorne vulnerabilities
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - A Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
 
 ## Ruby 
 
