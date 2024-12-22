@@ -640,7 +640,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
       </a>
       <br />
-      <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
+      <a href="https://github.com/tonghuaroot">tonghuaroot (童话)</a>
     </td>
   </tr>
   <tr>
