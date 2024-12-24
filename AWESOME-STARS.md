@@ -426,7 +426,7 @@
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [ggjy/DeLVM](https://github.com/ggjy/DeLVM) - 
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [monkeylmj/bullet_cli](https://github.com/monkeylmj/bullet_cli) - A command-line utility to watch stock in terminal
+- [MilesNext/bullet_cli](https://github.com/MilesNext/bullet_cli) - A command-line utility to watch stock in terminal
 - [Mhaiyang/2023_IJCV_OPNet](https://github.com/Mhaiyang/2023_IJCV_OPNet) - 
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
