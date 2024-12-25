@@ -612,7 +612,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
       </a>
       <br />
-      <a href="https://github.com/zRzRzRzRzRzRzR">Yuxuan.Zhang</a>
+      <a href="https://github.com/zRzRzRzRzRzRzR">Yuxuan Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/cubxxw">
@@ -673,6 +673,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/liuzl">Zhanliang Liu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lovelyyoshino">
+        <img src="https://avatars2.githubusercontent.com/u/21984530" width="42.4px;" alt="lovelyyoshino"/>
+      </a>
+      <br />
+      <a href="https://github.com/lovelyyoshino">lovelyyoshino</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/puxiao">
         <img src="https://avatars2.githubusercontent.com/u/3401635" width="42.4px;" alt="puxiao"/>
       </a>
@@ -692,13 +699,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/likyoo">李开宇</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
     </td>
   </tr>
 </table>
