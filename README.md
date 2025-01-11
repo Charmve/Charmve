@@ -10,7 +10,7 @@
 <details><summary><kbd>Main activities</kbd></summary>
         <table><tbody>
                 <tr>
-                    <td width="57%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/c48321f3-f5ac-41de-a59b-7b05b26aaf1a"> <code>📈 量化交易: <a href="https://github.com/UFund-Me/Qbot" target="_blank">Qbot</a></code></td>
+                    <td width="57%"> <img src="src/assert/qbot_screenshot.png"> <code>📈 量化交易: <a href="https://github.com/UFund-Me/Qbot" target="_blank">Qbot</a></code></td>
                     <td width="43%"> <img src="https://github.com/Charmve/Charmve/assets/29084184/877117a6-1b2a-4b2b-9211-629285baf2eb"> <code>🚗 自动驾驶: <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">L0CV</a>, <a href="https://charmve.github.io/OccNet-Course" target="_blank">BEV-Occ</a>, E2E</code></td>
                 </tr>
         </tbody></table>
@@ -29,7 +29,7 @@ https://github.com/Charmve/Charmve/assets/29084184/5d49f487-7a2a-4673-b3cc-02b0a
             <a href="https://github.com/Charmve/computer-vision-in-action">
                 <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
             </a>
-            <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <u><i>*These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </kbd>
 </div>
 
