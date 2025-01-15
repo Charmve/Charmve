@@ -421,7 +421,7 @@
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
 - [autonomousvision/navsim](https://github.com/autonomousvision/navsim) - [NeurIPS 2024] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
-- [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
+- [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - [NeurIPS 2024] Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [ggjy/DeLVM](https://github.com/ggjy/DeLVM) - 
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
