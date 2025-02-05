@@ -695,7 +695,7 @@
 - [Urinx/alphafold_pytorch](https://github.com/Urinx/alphafold_pytorch) - An implementation of the DeepMind's AlphaFold based on PyTorch for research
 - [WisconsinAIVision/yolact_edge](https://github.com/WisconsinAIVision/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
 - [Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.
-- [anfederico/clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
+- [anfederico/clairvoyant](https://github.com/anfederico/clairvoyant) - 
 - [jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz) - A fork and successor of the Sulley Fuzzing Framework
 - [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readmes
 - [paulasquin/DeepFool](https://github.com/paulasquin/DeepFool) - Modification to DeepFool Project to go deeper in image modification
