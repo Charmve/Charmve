@@ -495,7 +495,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 [Index](#blogs) | [TOP](#table-of-content)
 
-<a href="https://space.bilibili.com/62079686" target="_blank"><img align="right" src="https://img.shields.io/badge/-B站-blue?logo=bilibili" alt="video-B站"></a> <a href="https://www.youtube.com/@Charmve" target="_blank"><img align="right" src="https://img.shields.io/badge/-YouTube-red?logo=youtube" alt="video-YouTube"></a>
+<a href="https://search.bilibili.com/all?vt=35276396&keyword=Charmve&from_source=webtop_search&spm_id_from=333.1387&search_source=5" target="_blank"><img align="right" src="https://img.shields.io/badge/B站-Charmve-blue?logo=bilibili" alt="video-B站"></a> <a href="https://www.youtube.com/@Charmve" target="_blank"><img align="right" src="https://img.shields.io/badge/YouTube-Charmve-red?logo=youtube" alt="video-YouTube"></a>
 
 <details><summary><b><img src="src/assert/icons/youtube.png" align="center" valign="center" width="22.4px;" style="vertical-align:bottom;" /> YouTube <a href="https://www.youtube.com/@Charmve">[Follow me]</a>
 </b></summary>
