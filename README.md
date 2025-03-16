@@ -166,7 +166,7 @@ For sponsors reaching certain tiers to have early access to my WIP works earlier
     <kbd align="center" valign="center">
             <kbd align="center" valign="center">
 <h2> <a href="https://github.com/sponsors/Charmve"><img src="https://img.shields.io/static/v1?label=Sponsor&amp;message=%E2%9D%A4&amp;logo=GitHub&amp;color=%23fe8e86"></a><br>🐣 <samp>Sponsor Program</samp></h2></kbd>
-For sponsors reaching certain tiers to have early access to my WIP works earlier.  <a href="https://github.com/Charmve/sponsor-pro"><b>More details</b></a> 
+<p>For sponsors reaching certain tiers to have early access to my WIP works earlier.  <a href="https://github.com/Charmve/sponsor-pro"><br><b>More details</b></a></p>p
     </kbd>
 </div>
 <br>
