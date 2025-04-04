@@ -201,7 +201,7 @@
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
 - [ConsenSysDiligence/smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) - A guide to smart contract security best practices
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [jonbarron/website](https://github.com/jonbarron/website) - 
+- [jonbarron/jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io) - 
 - [augmentedperception/total_relighting](https://github.com/augmentedperception/total_relighting) - 
 - [augmentedperception/deepview](https://github.com/augmentedperception/deepview) - 
 - [cnnmon/coffeelings](https://github.com/cnnmon/coffeelings) - a mini journal & mood tracker chrome extension
