@@ -282,6 +282,7 @@
 - [tencentmusic/cube-studio](https://github.com/tencentmusic/cube-studio) - cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，标注平台，自动化标注，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA
 - [google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery) - 
 - [cauyxy/bilivideos](https://github.com/cauyxy/bilivideos) - 
+- [autonomousvision/navsim](https://github.com/autonomousvision/navsim) - [NeurIPS 2024] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
@@ -424,7 +425,6 @@
 - [atonderski/neuro-ncap](https://github.com/atonderski/neuro-ncap) - NeuroNCAP benchmark for end-to-end autonomous driving
 - [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
-- [autonomousvision/navsim](https://github.com/autonomousvision/navsim) - [NeurIPS 2024] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - [NeurIPS 2024] Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
