@@ -154,6 +154,7 @@
 - [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 - [yessGlory17/nft-marketplace](https://github.com/yessGlory17/nft-marketplace) - Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
 - [bradtraversy/hulu-webpage-clone](https://github.com/bradtraversy/hulu-webpage-clone) - Hulu webpage clone
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [modelhub-ai/modelhub-ai.github.io](https://github.com/modelhub-ai/modelhub-ai.github.io) - Website repository for modelhub.ai
 - [Charmve/jsFlow](https://github.com/Charmve/jsFlow) - 🏄 A Lightweight Web Browser-based Machine Learning Framework
 - [cs217/cs217.github.io](https://github.com/cs217/cs217.github.io) - Course Webpage for CS 217 Hardware Accelerators for Machine Learning, Stanford University
@@ -621,7 +622,6 @@
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
 - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [MozillaSecurity/peach](https://github.com/MozillaSecurity/peach) - Peach is a fuzzing framework which uses a DSL for building fuzzers and an observer based architecture to execute and monitor them.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [ohjeongwook/dumpflash](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility
