@@ -50,7 +50,7 @@
 - [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) - Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [Androidest/Speed_Bump_Detection](https://github.com/Androidest/Speed_Bump_Detection) - Detect speed bump and their distances from the car using Yolov2, built with Visual Studio on Windows. Marking images with yolo-mark.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
