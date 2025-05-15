@@ -557,18 +557,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/riusksk">泉哥</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lichuang">
+        <img src="https://avatars2.githubusercontent.com/u/1998569" width="42.4px;" alt="lichuang"/>
+      </a>
+      <br />
+      <a href="https://github.com/lichuang">lichuang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fermincasquero">
         <img src="https://avatars2.githubusercontent.com/u/183369302" width="42.4px;" alt="fermincasquero"/>
       </a>
       <br />
       <a href="https://github.com/fermincasquero">Fermin Casquero</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xiewenwei">
-        <img src="https://avatars2.githubusercontent.com/u/778284" width="42.4px;" alt="xiewenwei"/>
-      </a>
-      <br />
-      <a href="https://github.com/xiewenwei">Vincent Xie</a>
     </td>
     <td align="center">
       <a href="https://github.com/ycjcl868">
@@ -578,14 +578,21 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/ycjcl868">Charles</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xiewenwei">
+        <img src="https://avatars2.githubusercontent.com/u/778284" width="42.4px;" alt="xiewenwei"/>
+      </a>
+      <br />
+      <a href="https://github.com/xiewenwei">Vincent Xie</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars2.githubusercontent.com/u/79169717" width="42.4px;" alt="sun0225SUN"/>
       </a>
       <br />
       <a href="https://github.com/sun0225SUN">Guoqi Sun</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/wey-gu">
         <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
@@ -635,6 +642,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/cubxxw">熊鑫伟 Xinwei Xiong</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/skyformat99">
         <img src="https://avatars2.githubusercontent.com/u/10938976" width="42.4px;" alt="skyformat99"/>
@@ -642,8 +651,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/skyformat99">skyformat99</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tonghuaroot">
         <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
@@ -685,13 +692,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/puxiao">puxiao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/liuzl">
-        <img src="https://avatars2.githubusercontent.com/u/2311485" width="42.4px;" alt="liuzl"/>
-      </a>
-      <br />
-      <a href="https://github.com/liuzl">Zhanliang Liu</a>
     </td>
     <td align="center">
       <a href="https://github.com/likyoo">
