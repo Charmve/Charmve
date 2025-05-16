@@ -851,6 +851,7 @@
 
 ## Vue 
 
+- [myide/open-cmdb](https://github.com/myide/open-cmdb) - 开源资产管理平台
 - [LeoLeeYM/FlaskService-Manager](https://github.com/LeoLeeYM/FlaskService-Manager) - 基于Flask+Vue的Flask服务器管理器，可用于管理数个Flask服务器的运行。The Flask Server Manager based on Flask+Vue can be used to manage the operation of multiple Flask servers.
 - [YYJeffrey/chocolate](https://github.com/YYJeffrey/chocolate) - A data assistant for selected stocks and funds. - 股票基金助手浏览器插件
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
