@@ -357,7 +357,7 @@
 - [wzzzd/LLM_Learning_Note](https://github.com/wzzzd/LLM_Learning_Note) - large language model note
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
-- [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
+- [timburgan/timburgan](https://github.com/timburgan/timburgan) - Play chess via GitHub
 - [OpenGVLab/DriveMLM](https://github.com/OpenGVLab/DriveMLM) - 
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
 - [PJLab-ADG/GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Explorations of Utilizing Visual-Language Model as Autonomous Driving Agent
