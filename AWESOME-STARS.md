@@ -651,7 +651,7 @@
 - [1Konny/FGSM](https://github.com/1Konny/FGSM) - Simple pytorch implementation of FGSM and I-FGSM
 - [xuebinqin/BASNet](https://github.com/xuebinqin/BASNet) - Code for CVPR 2019 paper. BASNet: Boundary-Aware Salient Object Detection
 - [3D-FRONT-FUTURE/3D-FUTURE-ToolBox](https://github.com/3D-FRONT-FUTURE/3D-FUTURE-ToolBox) - FUTURE3D Toolbox: Rendering, Projection, and Re-Projection
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [zhaoyuzhi/Semantic-Colorization-GAN](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN) - SCGAN: Saliency-map Guided Colorization with Generative Adversarial Network. IEEE TCSVT, 2020
 - [hanzhanggit/StackGAN](https://github.com/hanzhanggit/StackGAN) - 
