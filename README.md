@@ -680,6 +680,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
+      <a href="https://github.com/michael811125">
+        <img src="https://avatars2.githubusercontent.com/u/30960759" width="42.4px;" alt="michael811125"/>
+      </a>
+      <br />
+      <a href="https://github.com/michael811125">MichaelO</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lovelyyoshino">
         <img src="https://avatars2.githubusercontent.com/u/21984530" width="42.4px;" alt="lovelyyoshino"/>
       </a>
@@ -692,13 +699,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/likyoo">李开宇</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/puxiao">
-        <img src="https://avatars2.githubusercontent.com/u/3401635" width="42.4px;" alt="puxiao"/>
-      </a>
-      <br />
-      <a href="https://github.com/puxiao">puxiao</a>
     </td>
   </tr>
 </table>
