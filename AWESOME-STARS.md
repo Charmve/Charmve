@@ -282,7 +282,7 @@
 
 - [yuyuyu123456/CBIS-DDSM](https://github.com/yuyuyu123456/CBIS-DDSM) - 
 - [lishen/end2end-all-conv](https://github.com/lishen/end2end-all-conv) - Deep Learning to Improve Breast Cancer Detection on Screening Mammography
-- [tencentmusic/cube-studio](https://github.com/tencentmusic/cube-studio) - cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，算法链路全流程，支持大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台，自动化标注，deepseek等大模型sft微调/奖励模型/ppo强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，
+- [tencentmusic/cube-studio](https://github.com/tencentmusic/cube-studio) - cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，支持大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场
 - [google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery) - 
 - [cauyxy/bilivideos](https://github.com/cauyxy/bilivideos) - 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
