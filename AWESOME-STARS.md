@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MLIR](#mlir)
 - [Makefile](#makefile)
@@ -338,6 +339,10 @@
 - [linzhiqiu/digital_chirality](https://github.com/linzhiqiu/digital_chirality) - Testing the chirality of digital imaging operations.
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
 - [awai54st/PYNQ-Classification](https://github.com/awai54st/PYNQ-Classification) - Python on Zynq FPGA for Convolutional Neural Networks
+
+## Kotlin 
+
+- [wilinz/easy_write](https://github.com/wilinz/easy_write) - 简单记账APP，一款功能强大UI漂亮的记账App，使用 Kotlin + Jetpack Compose
 
 ## Lua 
 
