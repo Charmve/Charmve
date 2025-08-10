@@ -535,7 +535,7 @@
 - [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023 Oral] Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - [ICCV 2021] Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [gnobitab/RectifiedFlow](https://github.com/gnobitab/RectifiedFlow) - Official Implementation of Rectified Flow (ICLR2023 Spotlight)
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
@@ -628,7 +628,7 @@
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
 - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 - [MozillaSecurity/peach](https://github.com/MozillaSecurity/peach) - Peach is a fuzzing framework which uses a DSL for building fuzzers and an observer based architecture to execute and monitor them.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [ohjeongwook/dumpflash](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility
