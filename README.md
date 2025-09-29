@@ -652,18 +652,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/skyformat99">skyformat99</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tonghuaroot">
-        <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
-      </a>
-      <br />
-      <a href="https://github.com/tonghuaroot">tonghuaroot (童话)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/LiZhengXiao99">
         <img src="https://avatars2.githubusercontent.com/u/104987988" width="42.4px;" alt="LiZhengXiao99"/>
       </a>
       <br />
       <a href="https://github.com/LiZhengXiao99">李郑骁</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tonghuaroot">
+        <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
+      </a>
+      <br />
+      <a href="https://github.com/tonghuaroot">tonghuaroot (童话)</a>
     </td>
     <td align="center">
       <a href="https://github.com/WarpPrism">
@@ -680,6 +680,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mio-dokuhaki">
+        <img src="https://avatars2.githubusercontent.com/u/97223678" width="42.4px;" alt="mio-dokuhaki"/>
+      </a>
+      <br />
+      <a href="https://github.com/mio-dokuhaki">mio-dokuhaki</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lovelyyoshino">
         <img src="https://avatars2.githubusercontent.com/u/21984530" width="42.4px;" alt="lovelyyoshino"/>
       </a>
@@ -692,13 +699,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/michael811125">MichaelO</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
-      </a>
-      <br />
-      <a href="https://github.com/likyoo">李开宇</a>
     </td>
   </tr>
 </table>
