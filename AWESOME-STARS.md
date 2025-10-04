@@ -237,7 +237,7 @@
 - [bokub/gradient-badge](https://github.com/bokub/gradient-badge) - 🍭 Badge generator with color gradient support
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [voderl/font-slice](https://github.com/voderl/font-slice) - slice chinese fonts into small slices
 - [MiladSadeghi/crypto-labs](https://github.com/MiladSadeghi/crypto-labs) - Crypto Labs - Cryptocurrency tracker with React JS + TradingView Widget
@@ -425,7 +425,7 @@
 - [wzzheng/OccSora](https://github.com/wzzheng/OccSora) - OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - [CVPR'24 Best Student Paper] Mip-Splatting: Alias-free 3D Gaussian Splatting
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [y-u-a-n-l-i/Climate_NeRF](https://github.com/y-u-a-n-l-i/Climate_NeRF) - This is the official repo for PyTorch implementation of paper "ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field", ICCV 2023.
