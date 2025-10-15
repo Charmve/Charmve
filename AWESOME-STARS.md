@@ -75,7 +75,7 @@
 - [NordicPlayground/nRF52-Bluetooth-Course](https://github.com/NordicPlayground/nRF52-Bluetooth-Course) - 
 - [doonny/PipeCNN](https://github.com/doonny/PipeCNN) - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-- [Charmve/Practicum4ECE](https://github.com/Charmve/Practicum4ECE) - 「一名普通电子信息本科生的项目实践管理」将大学阶段的实训内容，按照专业课程设计（包括上机实验、课程设计、下学年的毕业设计等）、竞赛项目、科创项目、小型编程项目这四个门类进行整理汇总。
+- [Charmve/Practicum4ECE](https://github.com/Charmve/Practicum4ECE) - 电子信息/自动化/人工智能专业个人大赛作品、创新设计、工程实践、大作业项目集合，获电赛、机器人大赛、创新创业比赛多项国奖
 - [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) - Apache mynewt
 - [Charmve/LightCube](https://github.com/Charmve/LightCube) - A Design of 3D Dynamic Display System Based on Voice Control. ✨ Purpose only! Copyright and commercial use rights are received.
 
@@ -89,7 +89,7 @@
 - [kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu) - Kungfu Trader
 - [quic/qbox](https://github.com/quic/qbox) - Qbox
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。  支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1.5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
+- [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and &lt;1.5 s latency.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Shane1911/Monlanemapping_C_version](https://github.com/Shane1911/Monlanemapping_C_version) - 
 - [IENT/YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
@@ -178,6 +178,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
@@ -524,7 +525,6 @@
 - [nladuo/THSTrader](https://github.com/nladuo/THSTrader) - 量化交易工具。同花顺手机版模拟炒股python API，基于uiautomator2和图色方法实现。【可自行扩展到实盘】
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [OpenRL-Lab/openrl](https://github.com/OpenRL-Lab/openrl) - Unified Reinforcement Learning Framework
 - [tech-srl/code2vec](https://github.com/tech-srl/code2vec) - TensorFlow code for the neural network presented in the paper: "code2vec: Learning Distributed Representations of Code"
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
