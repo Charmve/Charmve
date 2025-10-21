@@ -566,7 +566,7 @@
 - [nv-tlabs/lift-splat-shoot](https://github.com/nv-tlabs/lift-splat-shoot) - Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D (ECCV 2020)
 - [ceciliavision/perceptual-reflection-removal](https://github.com/ceciliavision/perceptual-reflection-removal) - Single Image Reflection Separation with Perceptual Losses
 - [Vandermode/ERRNet](https://github.com/Vandermode/ERRNet) - Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements  (CVPR 2019)
-- [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - [CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+- [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - [CVPR 2022 Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 - [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [NaiyuGao/PanopticDepth](https://github.com/NaiyuGao/PanopticDepth) - PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation （CVPR2022）
 - [yumingj/Text2Human](https://github.com/yumingj/Text2Human) - Code for Text2Human (SIGGRAPH 2022). Paper: Text2Human: Text-Driven Controllable Human Image Generation
