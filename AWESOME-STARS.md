@@ -178,6 +178,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
@@ -524,7 +525,6 @@
 - [nladuo/THSTrader](https://github.com/nladuo/THSTrader) - 量化交易工具。同花顺手机版模拟炒股python API，基于uiautomator2和图色方法实现。【可自行扩展到实盘】
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [OpenRL-Lab/openrl](https://github.com/OpenRL-Lab/openrl) - Unified Reinforcement Learning Framework
 - [tech-srl/code2vec](https://github.com/tech-srl/code2vec) - TensorFlow code for the neural network presented in the paper: "code2vec: Learning Distributed Representations of Code"
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -717,7 +717,7 @@
 - [YyzHarry/imbalanced-semi-self](https://github.com/YyzHarry/imbalanced-semi-self) - [NeurIPS 2020] Semi-Supervision (Unlabeled Data) & Self-Supervision Improve Class-Imbalanced / Long-Tailed Learning
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [JizhiziLi/GFM](https://github.com/JizhiziLi/GFM) - [IJCV 2022] Bridging Composite and Real: Towards End-to-end Deep Image Matting
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [Charmve/SNE-RoadSeg2](https://github.com/Charmve/SNE-RoadSeg2) - 🌱 SNE-RoadSeg in PyTorch, ECCV 2020 by Rui (Ranger) Fan & Hengli Wang, but now we have improved it.
 - [creotiv/MiBand2](https://github.com/creotiv/MiBand2) - Library to work with Xiaomi MiBand 2
 - [francozappa/bias](https://github.com/francozappa/bias) - Bluetooth Impersonation AttackS (BIAS) [CVE 2020-10135]
