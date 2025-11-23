@@ -289,7 +289,7 @@
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [ysh329/kaggle-lung-cancer-classification](https://github.com/ysh329/kaggle-lung-cancer-classification) - kaggle data science bowl 2017 solution
-- [prodramp/DeepWorks](https://github.com/prodramp/DeepWorks) - A collection of Deep Learning projects  and resources
+- [avkash/DeepWorks](https://github.com/avkash/DeepWorks) - A collection of Deep Learning projects  and resources
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
