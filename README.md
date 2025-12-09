@@ -601,18 +601,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/sun0225SUN">Guoqi Sun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wey-gu">
-        <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
-      </a>
-      <br />
-      <a href="https://github.com/wey-gu">Wey Gu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zRzRzRzRzRzRzR">
         <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
       </a>
       <br />
       <a href="https://github.com/zRzRzRzRzRzRzR">Yuxuan Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wey-gu">
+        <img src="https://avatars2.githubusercontent.com/u/1651790" width="42.4px;" alt="wey-gu"/>
+      </a>
+      <br />
+      <a href="https://github.com/wey-gu">Wey Gu</a>
     </td>
     <td align="center">
       <a href="https://github.com/SeppPenner">
