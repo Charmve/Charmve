@@ -280,6 +280,7 @@
 
 ## Jupyter Notebook 
 
+- [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [yuyuyu123456/CBIS-DDSM](https://github.com/yuyuyu123456/CBIS-DDSM) - 
 - [lishen/end2end-all-conv](https://github.com/lishen/end2end-all-conv) - Deep Learning to Improve Breast Cancer Detection on Screening Mammography
 - [google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery) - 
