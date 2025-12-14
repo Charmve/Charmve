@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -41,6 +42,10 @@
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Astro 
+
+- [InternRobotics/internvla-m1.github.io](https://github.com/InternRobotics/internvla-m1.github.io) - 
 
 ## C 
 
@@ -86,6 +91,7 @@
 
 ## C++ 
 
+- [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
 - [kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu) - Kungfu Trader
 - [quic/qbox](https://github.com/quic/qbox) - Qbox
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -174,7 +180,7 @@
 
 ## Go 
 
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, an
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
 - [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -406,6 +412,8 @@
 
 ## Python 
 
+- [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
 - [nof1-ai-alpha-arena/nof1.ai-alpha-arena](https://github.com/nof1-ai-alpha-arena/nof1.ai-alpha-arena) - nof1.ai Trading Bot is an open-source autonomous trading system built by Nof1.ai as part of the Alpha Arena experiment. It trades real crypto on Hyperliquid using deep reinforcement learning, live mar
 - [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) - A minimalist environment for decision-making in autonomous driving
 - [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) - 🔥 [ICCV 2025 Highlight] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
