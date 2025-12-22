@@ -91,6 +91,9 @@
 
 ## C++ 
 
+- [eProsima/Integration-Service](https://github.com/eProsima/Integration-Service) - 
+- [TartanLlama/expected](https://github.com/TartanLlama/expected) - C++11/14/17 std::expected with functional-style extensions
+- [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
 - [kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu) - Kungfu Trader
 - [quic/qbox](https://github.com/quic/qbox) - Qbox
