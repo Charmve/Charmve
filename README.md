@@ -430,7 +430,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
         <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" height="310" alt="spotify-github-profile">
     </a>
     <h3>Blogs</h3>
-    <sup>我的近期动态（点击本项目标星 <a href="https://github.com/Charmve/Charmve">Star</a> (https://github.com/Charmve/Charmve) 将自动触发刷新，最近更新时间 :clock930: `2025-12-18 21:30:32`）</sup>
+    <sup>我的近期动态（点击本项目标星 <a href="https://github.com/Charmve/Charmve">Star</a> (https://github.com/Charmve/Charmve) 将自动触发刷新，最近更新时间 :clock930: `2025-12-25 21:26:27`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - 🥳 [国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》源代码](https://blog.csdn.net/Charmve/article/details/141263990)
