@@ -536,6 +536,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/Snailclimb">Guide</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ishandutta2007">
+        <img src="https://avatars2.githubusercontent.com/u/2527354" width="42.4px;" alt="ishandutta2007"/>
+      </a>
+      <br />
+      <a href="https://github.com/ishandutta2007">ishan dutta</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/kroitor">
         <img src="https://avatars2.githubusercontent.com/u/1294454" width="42.4px;" alt="kroitor"/>
       </a>
@@ -577,6 +584,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/ycjcl868">Charles</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/xiewenwei">
         <img src="https://avatars2.githubusercontent.com/u/778284" width="42.4px;" alt="xiewenwei"/>
@@ -584,8 +593,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/xiewenwei">Vincent Xie</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zRzRzRzRzRzRzR">
         <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
@@ -635,6 +642,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/YuePanEdward">Yue Pan </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/cubxxw">
         <img src="https://avatars2.githubusercontent.com/u/86140903" width="42.4px;" alt="cubxxw"/>
@@ -642,8 +651,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/cubxxw">熊鑫伟 Xinwei Xiong</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LiZhengXiao99">
         <img src="https://avatars2.githubusercontent.com/u/104987988" width="42.4px;" alt="LiZhengXiao99"/>
@@ -692,13 +699,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/lovelyyoshino">lovelyyoshino</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
-      </a>
-      <br />
-      <a href="https://github.com/likyoo">李开宇</a>
     </td>
   </tr>
 </table>
