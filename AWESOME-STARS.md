@@ -369,6 +369,7 @@
 
 ## Others 
 
+- [xiaomi-mlab/MindDrive](https://github.com/xiaomi-mlab/MindDrive) - Official code of “MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning”
 - [wzzzd/LLM_Learning_Note](https://github.com/wzzzd/LLM_Learning_Note) - large language model note
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
