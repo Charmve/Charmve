@@ -529,6 +529,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/XiaomingX">
+        <img src="https://avatars2.githubusercontent.com/u/5387930" width="42.4px;" alt="XiaomingX"/>
+      </a>
+      <br />
+      <a href="https://github.com/XiaomingX">Y11</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Snailclimb">
         <img src="https://avatars2.githubusercontent.com/u/29880145" width="42.4px;" alt="Snailclimb"/>
       </a>
@@ -577,6 +584,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/fermincasquero">Fermin Casquero</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ycjcl868">
         <img src="https://avatars2.githubusercontent.com/u/13595509" width="42.4px;" alt="ycjcl868"/>
@@ -584,8 +593,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/ycjcl868">Charles</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/xiewenwei">
         <img src="https://avatars2.githubusercontent.com/u/778284" width="42.4px;" alt="xiewenwei"/>
@@ -635,6 +642,8 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/sundy-li">sundyli</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/YuePanEdward">
         <img src="https://avatars2.githubusercontent.com/u/34207278" width="42.4px;" alt="YuePanEdward"/>
@@ -642,8 +651,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <br />
       <a href="https://github.com/YuePanEdward">Yue Pan </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/cubxxw">
         <img src="https://avatars2.githubusercontent.com/u/86140903" width="42.4px;" alt="cubxxw"/>
@@ -692,13 +699,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lovelyyoshino">
-        <img src="https://avatars2.githubusercontent.com/u/21984530" width="42.4px;" alt="lovelyyoshino"/>
-      </a>
-      <br />
-      <a href="https://github.com/lovelyyoshino">lovelyyoshino</a>
     </td>
   </tr>
 </table>
