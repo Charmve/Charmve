@@ -688,7 +688,7 @@
 - [hsouri/Sleeper-Agent](https://github.com/hsouri/Sleeper-Agent) - 
 - [brownvc/diffdiffdepth](https://github.com/brownvc/diffdiffdepth) - Official repository for CVPR 2021 paper "Differentiable Diffusion for Dense Depth Estimation from Multi-view Images"
 - [yunkezhang/FusionMatting](https://github.com/yunkezhang/FusionMatting) - Project page for paper A Late Fusion CNN for Digital Matting.
-- [dvlab-research/PanopticFCN](https://github.com/dvlab-research/PanopticFCN) - Fully Convolutional Networks for Panoptic Segmentation (CVPR2021 Oral)
+- [JIA-Lab-research/PanopticFCN](https://github.com/JIA-Lab-research/PanopticFCN) - Fully Convolutional Networks for Panoptic Segmentation (CVPR2021 Oral)
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [D1noFuzi/cmd_styletransfer](https://github.com/D1noFuzi/cmd_styletransfer) - CVPR '21: In the light of feature distributions: Moment matching for Neural Style Transfer
 - [mrharicot/monodepth](https://github.com/mrharicot/monodepth) - Unsupervised single image depth prediction with CNNs
