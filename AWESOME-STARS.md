@@ -423,6 +423,7 @@
 - [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
 - [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
+- [nof1-ai-alpha-arena/nof1.ai-alpha-arena](https://github.com/nof1-ai-alpha-arena/nof1.ai-alpha-arena) - nof1.ai Trading Bot is an open-source autonomous trading system built by Nof1.ai as part of the Alpha Arena experiment. It trades real crypto on Hyperliquid using deep reinforcement learning, live mar
 - [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) - A minimalist environment for decision-making in autonomous driving
 - [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) - 🔥 [ICCV 2025 Highlight] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
