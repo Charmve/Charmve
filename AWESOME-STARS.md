@@ -188,6 +188,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
@@ -478,7 +479,6 @@
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [PJLab-ADG/neuralsim](https://github.com/PJLab-ADG/neuralsim) - neuralsim: 3D surface reconstruction and simulation based on 3D neural rendering.
 - [HKUST-Aerial-Robotics/SIMPL](https://github.com/HKUST-Aerial-Robotics/SIMPL) - SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving
@@ -550,7 +550,6 @@
 - [nladuo/THSTrader](https://github.com/nladuo/THSTrader) - 量化交易工具。同花顺手机版模拟炒股python API，基于uiautomator2和图色方法实现。【可自行扩展到实盘】
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [OpenRL-Lab/openrl](https://github.com/OpenRL-Lab/openrl) - Unified Reinforcement Learning Framework
 - [tech-srl/code2vec](https://github.com/tech-srl/code2vec) - TensorFlow code for the neural network presented in the paper: "code2vec: Learning Distributed Representations of Code"
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -643,7 +642,6 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [foamliu/Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting) - Deep Image Matting
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [NeurIPS‘2021] "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
@@ -731,7 +729,6 @@
 - [svip-lab/impersonator](https://github.com/svip-lab/impersonator) - PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [molecularsets/moses](https://github.com/molecularsets/moses) - Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models
-- [lucidrains/alphafold2](https://github.com/lucidrains/alphafold2) - To eventually become an unofficial Pytorch implementation / replication of Alphafold2, as details of the architecture get released
 - [Urinx/alphafold_pytorch](https://github.com/Urinx/alphafold_pytorch) - An implementation of the DeepMind's AlphaFold based on PyTorch for research
 - [WisconsinAIVision/yolact_edge](https://github.com/WisconsinAIVision/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
 - [Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.
