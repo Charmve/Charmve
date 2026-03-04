@@ -261,7 +261,7 @@
 - [dcervenkov/presentation-timer](https://github.com/dcervenkov/presentation-timer) - A browser based timer useful mainly for presentations.
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [Exrick/xmall-weapp](https://github.com/Exrick/xmall-weapp) - 终于开源！XMall商城微信小程序前端 共计20多个页面 页面联动 精美细节 含SKU设计
+- [Exrick/xmall-weapp](https://github.com/Exrick/xmall-weapp) - XMall商城微信小程序前端 共计20多个页面 页面联动 精美细节 含SKU设计
 - [aragon/aragon-apps](https://github.com/aragon/aragon-apps) - (Aragon 1) Aragon apps developed by Aragon Core Devs (smart contracts + webapps)
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
@@ -274,7 +274,6 @@
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -868,6 +867,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [YunYouJun/vtuber](https://github.com/YunYouJun/vtuber) - 👻 Make a vtuber from one. 从一开始的 Vtuber
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [ParabolInc/parabol](https://github.com/ParabolInc/parabol) - Free online agile retrospective meeting tool
