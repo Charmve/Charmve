@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [Go](#go)
 - [HTML](#html)
@@ -176,6 +177,10 @@
 ## Elixir 
 
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## FreeMarker 
 
@@ -775,7 +780,6 @@
 
 ## Rust 
 
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
