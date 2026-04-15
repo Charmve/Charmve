@@ -68,7 +68,7 @@
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [Charmve/EmotionCube](https://github.com/Charmve/EmotionCube) - 🐾 EmotionCube: An intelligent companion robot is designed based on expression recognition and intelligent speech.
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [TideSec/Peach_Fuzzing](https://github.com/TideSec/Peach_Fuzzing) - 在学习使用peach进行模糊测试时，搜集到的一些不错的资料，以及配套的一些软件或脚本。
 - [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things) - 面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings
 - [armink/FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库
