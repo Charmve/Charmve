@@ -391,7 +391,7 @@
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [Charmve/OpenCC](https://github.com/Charmve/OpenCC) - Automatic driving long tail / corner cases scenarios dataset (Anomaly detection)
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
-- [zhoubolei/bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!
+- [zhoubolei/bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [AlenZhang-Dev/News-Record](https://github.com/AlenZhang-Dev/News-Record) - 目前主要维护经济学人【The Economist】、纽约客【The NewYorker】和时代杂志【Time】
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
