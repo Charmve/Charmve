@@ -93,12 +93,13 @@
 
 ## C++ 
 
+- [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [eProsima/Integration-Service](https://github.com/eProsima/Integration-Service) - 
 - [TartanLlama/expected](https://github.com/TartanLlama/expected) - C++11/14/17 std::expected with functional-style extensions
 - [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
 - [kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu) - Kungfu Trader
-- [quic/qbox](https://github.com/quic/qbox) - Qbox
+- [qualcomm/qbox](https://github.com/qualcomm/qbox) - Qbox
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and &lt;1.5 s latency.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -147,7 +148,7 @@
 - [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
 - [xuyicpp/multi_threading](https://github.com/xuyicpp/multi_threading) - :construction:《C++并发编程实战》的读书笔记，供以后工作中查阅。
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+- [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) - C++ library based on tensorrt integration
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
