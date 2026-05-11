@@ -423,6 +423,7 @@
 
 ## Python 
 
+- [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - [IROS 2025 Best Paper Award Finalist & IEEE TRO 2026] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
 - [open-gigaai/giga-world-policy](https://github.com/open-gigaai/giga-world-policy) - GigaWorld-Policy: An Efficient Action-Centered World–Action Model
 - [unitreerobotics/unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) - 
 - [unitreerobotics/unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
