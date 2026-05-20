@@ -425,6 +425,7 @@
 
 - [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - [IROS 2025 Best Paper Award Finalist & IEEE TRO 2026] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
 - [open-gigaai/giga-world-policy](https://github.com/open-gigaai/giga-world-policy) - GigaWorld-Policy: An Efficient Action-Centered World–Action Model
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [unitreerobotics/unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) - 
 - [unitreerobotics/unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 - [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache, parallelism, quantization for Diffusion Transformers.
@@ -648,7 +649,7 @@
 - [nccgroup/fuzzowski](https://github.com/nccgroup/fuzzowski) - the Network Protocol Fuzzer that we will want to use.
 - [alex04072000/ObstructionRemoval](https://github.com/alex04072000/ObstructionRemoval) - [CVPR 2020] Learning to See Through Obstructions
 - [yumingj/Talk-to-Edit](https://github.com/yumingj/Talk-to-Edit) - Code for Talk-to-Edit (ICCV2021). Paper: Talk-to-Edit: Fine-Grained Facial Editing via Dialog.
-- [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+- [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
 - [emirongrr/pixelArt_Generator](https://github.com/emirongrr/pixelArt_Generator) - pixelArt Generator for create new NFT punks series
 - [google/sg2im](https://github.com/google/sg2im) - Code for "Image Generation from Scene Graphs", Johnson et al, CVPR 2018
 - [danfeiX/scene-graph-TF-release](https://github.com/danfeiX/scene-graph-TF-release) - "Scene Graph Generation by Iterative Message Passing" code repository
@@ -857,7 +858,6 @@
 
 ## TypeScript 
 
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [cokepoppy/coke-nof1](https://github.com/cokepoppy/coke-nof1) - nof1.ai 官网复刻
 - [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap 一键 AI 换脸，发现更美的你
