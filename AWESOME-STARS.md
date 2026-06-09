@@ -634,7 +634,7 @@
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022）
 - [zdlarr/Location-aware-SIRR](https://github.com/zdlarr/Location-aware-SIRR) - Code for the paper "Location-aware Single Image Reflection Removal"
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [urancon/StereoSpike](https://github.com/urancon/StereoSpike) - Stereo depth estimation with Spiking Neural Networks (SNN) on Dynamic Vision Sensor (DVS) data
 - [mttr2021/MTTR](https://github.com/mttr2021/MTTR) - 
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
