@@ -673,18 +673,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/WarpPrism">棱镜_JH</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wanttobeno">
-        <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
-      </a>
-      <br />
-      <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lovelyyoshino">
         <img src="https://avatars2.githubusercontent.com/u/21984530" width="42.4px;" alt="lovelyyoshino"/>
       </a>
       <br />
       <a href="https://github.com/lovelyyoshino">lovelyyoshino</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wanttobeno">
+        <img src="https://avatars2.githubusercontent.com/u/7699061" width="42.4px;" alt="wanttobeno"/>
+      </a>
+      <br />
+      <a href="https://github.com/wanttobeno">Hugo Reuhl</a>
     </td>
     <td align="center">
       <a href="https://github.com/likyoo">
