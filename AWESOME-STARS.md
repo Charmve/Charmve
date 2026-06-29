@@ -445,7 +445,7 @@
 - [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
 - [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - [ICLR 2026] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
-- [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) - A minimalist environment for decision-making in autonomous driving
+- [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) - A collection of environments for autonomous driving and tactical decision-making tasks
 - [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) - 🔥 [ICCV 2025 Highlight] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
