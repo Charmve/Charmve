@@ -476,7 +476,7 @@
 - [autonomousvision/navsim](https://github.com/autonomousvision/navsim) - [CoRL '25] Pseudo-Simulation for Autonomous Driving; [NeurIPS '24] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [PJLab-ADG/LeapAD](https://github.com/PJLab-ADG/LeapAD) - [NeurIPS 2024] Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
-- [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool. LLM-based AI clipping integrated.
+- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.
 - [ggjy/DeLVM](https://github.com/ggjy/DeLVM) - 
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [MilesNext/bullet_cli](https://github.com/MilesNext/bullet_cli) - A command-line utility to watch stock in terminal
