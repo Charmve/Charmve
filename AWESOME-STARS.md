@@ -788,6 +788,7 @@
 
 ## Rust 
 
+- [Da1sypetals/SnapViewer](https://github.com/Da1sypetals/SnapViewer) - PyTorch memory allocation visualizer
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
