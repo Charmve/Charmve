@@ -287,7 +287,6 @@
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [UnicornTeam/hackcube](https://github.com/UnicornTeam/hackcube) - 
-- [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [ChromeAdmin/meetings-page-auto-closer-for-zoom](https://github.com/ChromeAdmin/meetings-page-auto-closer-for-zoom) - Chrome Extension to Automatically closes the page used to launch Zoom meetings and restores focus to the tab you were on beforehand.
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [DigitalSecurity/btlejuice](https://github.com/DigitalSecurity/btlejuice) - BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework
@@ -888,6 +887,7 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [YunYouJun/vtuber](https://github.com/YunYouJun/vtuber) - 👻 Make a vtuber from one. 从一开始的 Vtuber
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
+- [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [ParabolInc/parabol](https://github.com/ParabolInc/parabol) - Free online agile retrospective meeting tool
 
 ## VHDL 
