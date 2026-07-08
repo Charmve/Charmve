@@ -661,6 +661,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/tonghuaroot">tonghuaroot (童话)</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Goldziher">
+        <img src="https://avatars2.githubusercontent.com/u/30733348" width="42.4px;" alt="Goldziher"/>
+      </a>
+      <br />
+      <a href="https://github.com/Goldziher">Na'aman Hirschfeld</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/WarpPrism">
         <img src="https://avatars2.githubusercontent.com/u/8694020" width="42.4px;" alt="WarpPrism"/>
       </a>
@@ -687,13 +694,6 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       </a>
       <br />
       <a href="https://github.com/likyoo">李开宇</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ebi852">
-        <img src="https://avatars2.githubusercontent.com/u/186869290" width="42.4px;" alt="ebi852"/>
-      </a>
-      <br />
-      <a href="https://github.com/ebi852">mohammadreza ebrahimi</a>
     </td>
   </tr>
 </table>
