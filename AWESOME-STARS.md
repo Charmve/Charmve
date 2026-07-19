@@ -98,7 +98,7 @@
 - [TartanLlama/expected](https://github.com/TartanLlama/expected) - C++11/14/17 std::expected with functional-style extensions
 - [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
-- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - A local-first runtime that records real-world agent work and verifies what actually got done.
+- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Stop rebuilding project context for every new agent session. Let every agent pick up where the work left off.
 - [qualcomm/qbox](https://github.com/qualcomm/qbox) - Qbox
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and &lt;1.5 s latency.
