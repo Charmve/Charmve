@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [eProsima/Integration-Service](https://github.com/eProsima/Integration-Service) - 
 - [TartanLlama/expected](https://github.com/TartanLlama/expected) - C++11/14/17 std::expected with functional-style extensions
