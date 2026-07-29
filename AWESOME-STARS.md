@@ -459,6 +459,7 @@
 - [icandle/CAMixerSR](https://github.com/icandle/CAMixerSR) - CAMixerSR: Only Details Need More “Attention” (CVPR 2024)
 - [salesforce/progen](https://github.com/salesforce/progen) - Official release of the ProGen models
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [nnanhuang/S3Gaussian](https://github.com/nnanhuang/S3Gaussian) - Official Implementation of Self-Supervised Street Gaussians for Autonomous Driving
 - [wzzheng/OccSora](https://github.com/wzzheng/OccSora) - OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving
@@ -863,7 +864,6 @@
 - [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap 一键 AI 换脸，发现更美的你
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
