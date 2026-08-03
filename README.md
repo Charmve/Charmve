@@ -823,60 +823,137 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
   </tbody>
 </table>
 
+<!---
 <details>
 <summary><kbd>More images</kbd></summary>
-
-<table></tbody>
-  <tr>
-  <td>
-    <div style="flex: 1;">
-        <table style="border-collapse: collapse; text-align: center;">
-            <tbody>
-                <tr>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142345.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142350.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142341.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142336.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142359.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                </tr>
-                <tr>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144220.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144217.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144209.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144223.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144235.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-  </td>
-  <td>
-    <div style="flex: 1;">
-        <table style="border-collapse: collapse; text-align: center;">
-            <tbody>
-                <tr>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142345.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142350.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142341.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142336.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142359.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                </tr>
-                <tr>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144220.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144217.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144209.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144223.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                    <td><img src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144235.jpg?raw=true" style="width: 20%; height: auto;"></td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-  </td>
-  </tr>
-</tbody>
+<table style="border-collapse: collapse; table-layout: fixed;">
+    <tbody>
+        <tr>
+            <td style="width: 50%; vertical-align: top; padding: 10px;">
+                <table style="width: 100%; border-collapse: collapse; text-align: center; table-layout: fixed;">
+                    <tbody>
+                        <tr>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142345.jpg?raw=true">
+                                </div>
+                            </td>
+                           <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142350.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142341.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142336.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142359.jpg?raw=true">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                        <td width=20%>
+                            <div align="center">
+                               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144220.jpg?raw=true">
+                            </div>
+                        </td>
+                       <td width=20%>
+                            <div align="center">
+                               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144217.jpg?raw=true">
+                            </div>
+                        </td>
+                        <td width=20%>
+                            <div align="center">
+                               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144209.jpg?raw=true">
+                            </div>
+                        </td>
+                        <td width=20%>
+                            <div align="center">
+                               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144223.jpg?raw=true">
+                            </div>
+                        </td>
+                        <td width=20%>
+                            <div align="center">
+                               <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144235.jpg?raw=true">
+                            </div>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td style="width: 50%; vertical-align: top; padding: 10px;">
+                <table style="width: 100%; border-collapse: collapse; text-align: center; table-layout: fixed;">
+                    <tbody>
+                        <tr>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142345.jpg?raw=true">
+                                </div>
+                            </td>
+                           <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142350.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142341.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142336.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-142359.jpg?raw=true">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144220.jpg?raw=true">
+                                </div>
+                            </td>
+                           <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144217.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144209.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144223.jpg?raw=true">
+                                </div>
+                            </td>
+                            <td width=20%>
+                                <div align="center">
+                                   <img class="emoji" src="https://github.com/Charmve/charme_mdeia/blob/main/images/concert/20240415-144235.jpg?raw=true">
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
 </table>
 </details>
-
+-->
   
 <details><summary><kbd>More</kbd></summary>
 <table align="center" style="table-layout: auto;">
