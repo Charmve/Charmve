@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [eProsima/Integration-Service](https://github.com/eProsima/Integration-Service) - 
@@ -415,6 +416,7 @@
 
 ## PHP 
 
+- [sourcentis/mercator](https://github.com/sourcentis/mercator) - Mapping the information system / Cartographie du système d'information
 - [graphp/graphviz](https://github.com/graphp/graphviz) - GraphViz graph drawing for the mathematical graph/network library GraPHP.
 
 ## Perl 
@@ -423,6 +425,9 @@
 
 ## Python 
 
+- [NorthernSec/CVE-Scan](https://github.com/NorthernSec/CVE-Scan) - Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's
+- [cve-search/cve-search](https://github.com/cve-search/cve-search) - cve-search - a tool to perform local searches for known vulnerabilities
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - [IROS 2025 Best Paper Award Finalist & IEEE TRO 2026] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
 - [open-gigaai/giga-world-policy](https://github.com/open-gigaai/giga-world-policy) - GigaWorld-Policy: An Efficient Action-Centered World–Action Model
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
