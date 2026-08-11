@@ -424,6 +424,8 @@
 
 ## Python 
 
+- [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
+- [ZikangZhou/QCNet](https://github.com/ZikangZhou/QCNet) - [CVPR 2023] Query-Centric Trajectory Prediction
 - [NorthernSec/CVE-Scan](https://github.com/NorthernSec/CVE-Scan) - Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's
 - [cve-search/cve-search](https://github.com/cve-search/cve-search) - cve-search - a tool to perform local searches for known vulnerabilities
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
