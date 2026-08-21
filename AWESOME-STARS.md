@@ -425,6 +425,7 @@
 
 ## Python 
 
+- [HazyResearch/Megakernels](https://github.com/HazyResearch/Megakernels) - Kernels, of the mega variety :)
 - [happyAnger66-an/model_optimizer](https://github.com/happyAnger66-an/model_optimizer) - 
 - [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 - [ZikangZhou/QCNet](https://github.com/ZikangZhou/QCNet) - [CVPR 2023] Query-Centric Trajectory Prediction
