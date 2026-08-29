@@ -427,6 +427,7 @@
 
 ## Python 
 
+- [verl-project/verl](https://github.com/verl-project/verl) - verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 - [HazyResearch/Megakernels](https://github.com/HazyResearch/Megakernels) - Kernels, of the mega variety :)
 - [happyAnger66-an/model_optimizer](https://github.com/happyAnger66-an/model_optimizer) - 
 - [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
