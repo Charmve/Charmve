@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers) - C++ Fixed Containers
 - [PacktPublishing/Cpp-High-Performance-Second-Edition](https://github.com/PacktPublishing/Cpp-High-Performance-Second-Edition) - C++ High Performance Second Edition, published by Packt
