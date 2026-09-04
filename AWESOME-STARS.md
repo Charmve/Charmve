@@ -234,6 +234,7 @@
 
 ## Java 
 
+- [EngFlow/bazel_invocation_analyzer](https://github.com/EngFlow/bazel_invocation_analyzer) - A tool that automatically analyzes a Bazel build's profile and offers suggestions on how to make it faster.
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [CyrilFeng/Q-calculator](https://github.com/CyrilFeng/Q-calculator) - 高性能优惠叠加计算框架
@@ -428,6 +429,7 @@
 
 ## Python 
 
+- [AFARI-Research/WA-JEPA](https://github.com/AFARI-Research/WA-JEPA) - WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving
 - [verl-project/verl](https://github.com/verl-project/verl) - verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 - [HazyResearch/Megakernels](https://github.com/HazyResearch/Megakernels) - Kernels, of the mega variety :)
 - [happyAnger66-an/model_optimizer](https://github.com/happyAnger66-an/model_optimizer) - 
