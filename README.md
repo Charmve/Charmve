@@ -538,18 +538,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/kroitor">Igor Kroitor</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CHYbeta">
-        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
-      </a>
-      <br />
-      <a href="https://github.com/CHYbeta">chybeta</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/umogal">
         <img src="https://avatars2.githubusercontent.com/u/211694741" width="42.4px;" alt="umogal"/>
       </a>
       <br />
       <a href="https://github.com/umogal">M.U. Mogal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CHYbeta">
+        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
+      </a>
+      <br />
+      <a href="https://github.com/CHYbeta">chybeta</a>
     </td>
     <td align="center">
       <a href="https://github.com/riusksk">
@@ -566,18 +566,18 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
       <a href="https://github.com/lichuang">lichuang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fermincasquero">
-        <img src="https://avatars2.githubusercontent.com/u/183369302" width="42.4px;" alt="fermincasquero"/>
-      </a>
-      <br />
-      <a href="https://github.com/fermincasquero">Fermin Casquero</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zRzRzRzRzRzRzR">
         <img src="https://avatars2.githubusercontent.com/u/93239683" width="42.4px;" alt="zRzRzRzRzRzRzR"/>
       </a>
       <br />
       <a href="https://github.com/zRzRzRzRzRzRzR">Yuxuan Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fermincasquero">
+        <img src="https://avatars2.githubusercontent.com/u/183369302" width="42.4px;" alt="fermincasquero"/>
+      </a>
+      <br />
+      <a href="https://github.com/fermincasquero">Fermin Casquero</a>
     </td>
   </tr>
   <tr>
