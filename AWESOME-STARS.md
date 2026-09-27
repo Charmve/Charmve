@@ -434,6 +434,7 @@
 
 ## Python 
 
+- [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) - RoboDojo Official Repo
 - [OpenDriveLab/SimScale](https://github.com/OpenDriveLab/SimScale) - [CVPR 2026 Oral] Learning to Drive via Real-World Simulation at Scale
 - [swc-17/SparseDrive](https://github.com/swc-17/SparseDrive) - SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation
 - [HuangJunJie2017/BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Code base of the BEVDet series .
