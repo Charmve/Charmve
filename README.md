@@ -434,12 +434,12 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 <!-- BLOG-POST-LIST:START -->
 - 🥳 [国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》源代码](https://blog.csdn.net/Charmve/article/details/141263990)
-- 🙉 [＜span class=“js_title_inner“＞目标检测发展的22年＜/span＞](https://blog.csdn.net/Charmve/article/details/157659711)
-- 🤩 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
-- 🪄 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
-- 🕴 [＜span class=“js_title_inner“＞这对情侣火了，你猜是因为啥＜/span＞](https://blog.csdn.net/Charmve/article/details/157653433)
-- 💫 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
-- 🤡 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)<!-- BLOG-POST-LIST:END -->
+- 🙉 [目标检测发展的22年](https://blog.csdn.net/Charmve/article/details/133834715)
+- 🤩 [多目标跟踪：视觉联合检测和跟踪](https://blog.csdn.net/Charmve/article/details/130695712)
+- 🪄 [这对情侣火了，你猜是因为啥](https://blog.csdn.net/Charmve/article/details/129679775)
+- 🕴 [TensorRT模型部署实战，英伟达平台，C++ 和python对比（包含源码）](https://blog.csdn.net/Charmve/article/details/128961895)
+- 💫 [让深度学习更高效运行的两个视角，来自Momenta的PR分享](https://blog.csdn.net/Charmve/article/details/128961406)
+- 🤡 [地平线量化方案QAT原理介绍及实践，包含源代码](https://blog.csdn.net/Charmve/article/details/128960873)<!-- BLOG-POST-LIST:END -->
 
 <!-- ZHIHU-POST-LIST:START -->
 - 🥳 [中国人如何炒美股，开户攻略？](http://www.zhihu.com/question/36837406?utm_campaign=rss&utm_medium=rss&utm_source=rss#answer-1968031148308406404) | Nov 1, 2025
